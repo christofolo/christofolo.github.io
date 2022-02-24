@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Beginner Level 1 
+subtitle: 0 months to 3 months
 gh-repo: christofolo/christofolo.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+tags: [course]
+comments: false
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+After 3 months of consistent practice, beginners should be able to: 1) play around 15 or so chords: C, CMaj7, Cadd9, D, Dm, D7, E, E7, Em, F (non-barred versions), FMaj7, G (4 finger version), G6, A, Am, A7, and B7; 2) Play basic strumming patterns; 3) Know how to use a capo; 4) Play scales on a single string
 
 **Here is some bold text**
 
