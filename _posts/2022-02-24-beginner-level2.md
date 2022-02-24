@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Beginner Level 1 
-subtitle: 0 months to 3 months
+title: Beginner Level 2 
+subtitle: 3 months to 6 months
 gh-repo: christofolo/christofolo.github.io
 gh-badge: [star, fork, follow]
 tags: [course]
 comments: false
 ---
 
-After 3 months of consistent practice, beginners should be able to: 1) play around 15 or so chords: C, CMaj7, Cadd9, D, Dm, D7, E, E7, Em, F (non-barred versions), FMaj7, G (4 finger version), G6, A, Am, A7, and B7; 2) Play basic strumming patterns; 3) Know how to use a capo; 4) Play scales on a single string
+After 6 months of consistent practice (4 times per week), beginners should be able to: 1) Know the notes on the low E and A strings and play simple riffs on the low E/A strings; 2) Be confident in various strumming patterns; 3) Play open position chords using finger-style as an accompaniment; 4) Read standard music notation and play on E, A, D strings in first position up to the fourth fret; 5) Play scales that span two strings (E and A); 6) Play moveable barre chords (6th string-root Major and minor); 7) Play power chords
 
 **Here is some bold text**
 
