@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Music Theory for Visual Learners
 subtitle: Why you'd want to go on a date with me
 ---
 
