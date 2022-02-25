@@ -31,3 +31,18 @@ Before we discuss the names of the notes, remember this important fact: there ar
 
 ## Part 2: The Major Scale is a palette of 7 "colors"
 
+![ ]({{ site.baseurl }}/images/221-2221.png){: .mx-auto.d-block :}
+
+The Major Scale is probably the most important scale that you will learn. Due to cultural reasons and also the Ancient Greeks, musicians, over the course of thousands of years, have come to the conclusion that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes.
+
+To find out which notes go onto our palette, there is a simple formula to learn. It's easy to remember because it's like a phone number. Here's how to create the "palette":
+
+1. Pick your first note—how about the 8th fret of the low E string (or 3rd fret of the A string).
+2. Move 2 frets. Play the 10th fret. This is the next note in the palette (scale).
+3. Move 2 frets. Play the 12th fret.
+4. Move 1 fret. Play the 13th fret.
+5. Move 2 frets and play the 15th fret.
+6. Move 2 frets and play the 17th fret.
+7. Move 2 frets and play the 19th fret.
+8. And finally, move 1 fret and play the 20th fret to complete the scale.
+
