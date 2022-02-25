@@ -6,7 +6,7 @@ subtitle: The basic knowledge of how music works
 
 ## Intro: You shouldn't JUST "play by ear". You need some music theory (ie. knowledge)
 
-Imagine being a painter and not knowing the names of the colors. You just "paint by sight" and do what looks good. Now imagine if paintings were done by a "band of artists". It would be impossible to colaborate because you can't communicate your intentions to your bandmates.
+Imagine being a painter and not knowing the names of the colors. You just "paint by sight" and do what looks good. Now imagine if paintings were done by a "band of artists". It would be impossible to collaborate because you can't communicate your intentions to your bandmates.
 
 Basic music theory is not complicated or hard to understand. Once you understand the fundamental patterns, everything will make sense. However, because everything in music is connected, it can be difficult to grasp even just the basics. I will do my best to break down each concept into individual bite sized pieces. 
 
@@ -69,7 +69,7 @@ Definitions to learn: the first note in a scale is called the Tonic.
 7. The 19th fret is B♮ or just "B" for short.
 8. The 20th fret is C again. (Note: 8th fret + 12 frets = 20th fret)
 
-You'll notice that the scale will contain each letter name and loop back to A after the G.
+You'll notice that the scale will contain each letter name and loop back to A after the G. I don't know why the first major isn't A Major. There is a lot of history to how music has developed over the years. What's interesting is the first note on the piano is an A (the farthest left/lowest note). What's interesting is that A is the first minor scale. We will discuss minor scales in Part 6.
 
 You can choose a different "Tonic" and create a new palette of notes. For example, let's choose "G" as our tonic and apply the 221-2221 formula. When starting on the 3rd fret, you'll notice some of the notes overlap the C Major Scale.
 
@@ -84,14 +84,14 @@ You can choose a different "Tonic" and create a new palette of notes. For exampl
 5. Move 2—The 10th fret is D♮ or just "D" for short.
 6. Move 2—The 12th fret is E♮ or just "E" for short.
 
-Here I left both F♮ and F♯ labled on the fretboard so that you can see the difference. We're at the part of the formula where we move 2. So this means we'll land on the 14th fret which is in between F♮ and G♮. The note on the 14th fret is F♯ (pronounced "F sharp"). When building a Major Scale, you must include all 7 letters. Then we have "sharps" (or "flats") to handle these scenarios where the formula leads us to notes that in between the "natural" notes.
+Here I left both F♮ and F♯ labeled on the fretboard so that you can see the difference. We're at the part of the formula where we move 2. So this means we'll land on the 14th fret which is in between F♮ and G♮. The note on the 14th fret is F♯ (pronounced "F sharp"). When building a Major Scale, you must include all 7 letters. Then we have "sharps" (or "flats") to handle these scenarios where the formula leads us to notes that are in between the "natural" notes.
 
-7. Move 2—The 14th fret is F♯. If you're scale has a "sharp" note, you must always call it by its full name.
+7. Move 2—The 14th fret is F♯. If your scale has a "sharp" note, you must always call it by its full name.
 8. Move 1—The 15th fret is G again. (Note: 3rd fret + 12 frets = 15th fret)
 
 What About Flats?
 
-Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E string. This note is F. Do you remember the C Major scale? What was the note that come right after the 12th fret? (Note: 13th fret - 12 frets = 1st fret)
+Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E string. This note is F. Do you remember the C Major scale? What was the note that came right after the 12th fret? (Note: 13th fret - 12 frets = 1st fret)
 
 ![ ]({{ site.baseurl }}/images/fretboard-f-major-scale.png){: .mx-auto.d-block :}
 
@@ -105,3 +105,12 @@ Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E strin
 8. Move 1—The 13th fret is F again.
 
 ## Part 5: Whole Steps and Half Steps
+
+The 221-2221 formula describes how big of a step you move from one note to the next. A half step is the smallest step that you can take. You only move 1 fret with a half-step. A whole step is 2 half-steps. 
+
+## Part 6: The Minor Scale Formula and "Major vs minor"
+
+The Minor Scale Formula is 212-2122.
+
+![ ]({{ site.baseurl }}/images/fretboard-a-minor.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-a-major.png){: .mx-auto.d-block :}
