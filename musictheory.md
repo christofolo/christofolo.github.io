@@ -113,4 +113,16 @@ The 221-2221 formula describes how big of a step you move from one note to the n
 The Minor Scale Formula is 212-2122.
 
 ![ ]({{ site.baseurl }}/images/fretboard-a-minor.png){: .mx-auto.d-block :}
+
+1. The open string "A" is our first note (the Tonic).
+2. Move 2. The 2nd fret of the A string is B. 
+3. Move 1. The 3rd fret is C.
+4. Move 2. The 5th fret is D.
+5. Move 2. The 7th fret is E.
+6. Move 1. The 8th fret is F.
+7. Move 2. The 10th fret is G.
+8. Move 2. The 12th fret is A again. (Note: the open string is referred to as 0. 0 + 12 frets = 12th fret)
+
+Why is it called minor?
+
 ![ ]({{ site.baseurl }}/images/fretboard-a-major.png){: .mx-auto.d-block :}
