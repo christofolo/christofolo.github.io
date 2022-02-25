@@ -15,6 +15,6 @@ Part 1: Notes are like colors
 
 Sometimes, it can be useful to cmopare music to art. Painters can use just a few colors to make a beautiful painting. 
 
-!({{ site.baseurl }}/images/palette-painting.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/palette-painting.png){: .mx-auto.d-block :}
 
 
