@@ -67,11 +67,41 @@ Definitions to learn: the first note in a scale is called the Tonic.
 5. The 15th fret is G♮ or just "G" for short.
 6. The 17th fret is A♮ or just "A" for short.
 7. The 19th fret is B♮ or just "B" for short.
-8. The 20th fret is C again. (Hint: 8th fret + 12 frets = 20th fret)
+8. The 20th fret is C again. (Note: 8th fret + 12 frets = 20th fret)
 
 You'll notice that the scale will contain each letter name and loop back to A after the G.
 
 You can choose a different "Tonic" and create a new palette of notes. For example, let's choose "G" as our tonic and apply the 221-2221 formula. When starting on the 3rd fret, you'll notice some of the notes overlap the C Major Scale.
 
+## Part 4: The other notes: sharps and flats
+
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png){: .mx-auto.d-block :}
 
+1. The 3rd fret of the low E string is the note G. It's full legal name is G♮ (pronounced "G Natural"). However, if you say just "G", then all musicians understand that the "natural" part is implied.
+2. Move 2—The 5th fret is A♮ or just "A" for short. 
+3. Move 2—The 7th fret is B♮ or just "B" for short.
+4. Move 1—The 8th fret is C♮ or just "C" for short.
+5. Move 2—The 10th fret is D♮ or just "D" for short.
+6. Move 2—The 12th fret is E♮ or just "E" for short.
+
+Here I left both F♮ and F♯ labled on the fretboard so that you can see the difference. We're at the part of the formula where we move 2. So this means we'll land on the 14th fret which is in between F♮ and G♮. The note on the 14th fret is F♯ (pronounced "F sharp"). When building a Major Scale, you must include all 7 letters. Then we have "sharps" (or "flats") to handle these scenarios where the formula leads us to notes that in between the "natural" notes.
+
+7. Move 2—The 14th fret is F♯. If you're scale has a "sharp" note, you must always call it by its full name.
+8. Move 1—The 15th fret is G again. (Note: 3rd fret + 12 frets = 15th fret)
+
+What About Flats?
+
+Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E string. This note is F. Do you remember the C Major scale? What was the note that come right after the 12th fret? (Note: 13th fret - 12 frets = 1st fret)
+
+![ ]({{ site.baseurl }}/images/fretboard-f-major-scale.png){: .mx-auto.d-block :}
+
+1. The 1st fret of the low E string is the note F.
+2. Move 2—The 3rd fret is G. 
+3. Move 2—The 5th fret is A.
+4. Move 1—The 6th fret has two names. A♯ or B♭ (pronounced "B Flat"). The scale already has an A (5th fret), so the correct name to use is B♭.
+5. Move 2—The 8th fret is C.
+6. Move 2—The 10th fret is D.
+7. Move 2—The 12th fret is E.
+8. Move 1—The 13th fret is F again.
+
+## Part 5: Whole Steps and Half Steps
