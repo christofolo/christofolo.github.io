@@ -110,7 +110,7 @@ The 221-2221 formula describes how big of a step you move from one note to the n
 
 ## Part 6: The Minor Scale Formula and "Major vs minor"
 
-The Minor Scale Formula is 212-2122.
+The Minor Scale Formula is 212-2122. Or WHW-WHWW (W = whole step and H = half step)
 
 ![ ]({{ site.baseurl }}/images/fretboard-a-minor.png){: .mx-auto.d-block :}
 
