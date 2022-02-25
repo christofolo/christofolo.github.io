@@ -1,0 +1,36 @@
+* Part 1: Notes
+  * Music can be compared to the visual arts. Notes are like colors.
+  * Mixing notes produce a new type of color that we call "harmony". Harmonies are typically expressed as "chords".
+  * There are only 12 note names. A note is a pitch (sound) that has a name.
+    * In the visual arts, you can have a dark red and a light red. You don't give these two shades of red a unique name. They're both red. The same thing happens in music. A note will be a lighter shade when it is in the "higher octave". 
+    * The first note name is "A". You can play all 12 notes on the A string. The 12th fret is the "lighter shade" A. Do you hear how these two notes "agree" with each other?
+    * Have a friend play the 1st fret and you play the 13th fret. You'll hear a similar effect. This is called "consonance".
+* Part 2: The Major Scale is a palette of 7 "colors"
+  * Due to cultural reasons and also Ancient Greece, we've agreed to create most of our music on just 7 notes.
+  * Because there are 12 notes, we use a formula to pick and choose the 7 notes to use. It's easy to remember because it's like a phone number. 221-2221. Start on the 8th fret of the low E string.
+  * We've named our notes based off of the alphabet in a way that doesn't skip any letters because it's easy to remember the alphabet in order. If we used 12 letters, the 221-2221 formula would create an array of letters that is confusing.
+  * The first scale to learn is the C Major Scale. It's notes are C, D, E, F, G, A, B, C. The first note in the scale is called the Tonic.
+* Part 3: The other notes
+  * Using 221-2221 to build a Major Scale using "G" as the tonic.
+    * G, A, B, C, D, E, F#, G
+    * The "Chromatic" Scale
+* Part 4: The Minor Scale Formula and "Major vs minor"
+  * 212-2122
+  * Build a Minor Scale, using "A" as the tonic.
+  * Intervals
+    * If you compare the A Major scale to the A Minor scale, you'll notice that the difference occurs at the 3rd note.
+    * Ursa Major vs Ursa Minor. Big - Small. Major - Minor.
+* Part 5: The Two Ways to Count In Music
+  * Start from 0.
+  * Start from 1.
+  * How to count the distance between 2nds and 3rds
+  * Half-steps vs. Whole-Steps
+* Part 6: Thirds (Dyads)
+  * Major
+  * minor
+* Part 7: Triads (the basic Chord)
+  * Major
+  * minor
+* Part 8: The Chord Matrix
+  * Nashville Numbering System
+  * Describing Chords: The Root.
