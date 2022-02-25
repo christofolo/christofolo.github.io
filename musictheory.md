@@ -171,3 +171,19 @@ E is on the 7th fret. Start on A (the open string) and that letter is 0. The nex
 
 We've learned that scales can be Major or Minor. So can intervals. In the example, above I said that "B" is a third above G. But more accurately I should have said B♮ is a Major 3rd from G. There is another note with "B" in its name: B♭. It also is a 3rd above G but you only need to traverse 3 half-steps to get to B♭. Look at the G string on the fret board. B♮ is on the 4th fret. B♭ is on the 3rd fret.
 
+
+| 0  | 1  | 2  | 3  | 4  |
+| -- | -- | -- | -- | -- |
+| G♮ | G♯ | A♮ | A♯ | B♮ |
+| -- | -- | -- | -- | -- |
+| 1  | 1  | 2  | 2  | 3  |
+
+Major Third = Spans 3 notes and traverses 4 half-steps.
+Minor Third = SPans 3 notes and traverses 3 half-steps.
+
+G to B is a Major Third.
+G to A♯/B♭ is a Minor Third.
+
+Play a G major barre chord. Your 2nd finger plays the B. Take your 2nd finger off to play the G Minor barre chord. Now, your barred finger is playing the B♭ on the 3rd fret.
+
+
