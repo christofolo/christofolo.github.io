@@ -39,7 +39,7 @@ Before we discuss the names of the notes, remember this important fact: there ar
 
 The Major Scale is probably the most important scale that you will learn. Due to cultural reasons and also the Ancient Greeks, musicians, over the course of thousands of years, have come to the conclusion that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes.
 
-To find out which notes go onto our palette, there is a simple formula to learn. It's easy to remember because it's like a phone number. Here's how to create the "palette":
+To find out which notes go onto our palette, there is a simple formula to learn. It's easy to remember because it's like a phone number (see above). Here's how to create the "palette":
 
 1. Pick your first note—how about the 8th fret of the low E string (or 3rd fret of the A string).
 2. Move 2 frets. Play the 10th fret. This is the next note in the palette (scale).
@@ -50,5 +50,19 @@ To find out which notes go onto our palette, there is a simple formula to learn.
 7. Move 2 frets and play the 19th fret.
 8. And finally, move 1 fret and play the 20th fret to complete the scale. 
 
+221-2221... get it?
+
 Definitions to learn: the first note in a scale is called the Tonic.
 
+## Part 3: The First Major Scale to learn is The C Major Scale
+
+![ ]({{ site.baseurl }}/images/fretboard-c-major.png){: .mx-auto.d-block :}
+
+1. The 8th fret of the low E string is the note C.
+2. The 10th fret is D.
+3. The 12th fret is E.
+4. The 13th fret is F.
+5. The 15th fret is G.
+6. The 17th fret is A.
+7. The 19th fret is B.
+8. The 20th fret is C.
