@@ -148,7 +148,7 @@ When counting notes, always start from 1. For example, what is the 5th note abov
 
 When counting half-steps, always start from 0. For example, let's take the A to E example. How many half-steps apart are those notes? It's easy to see this on the guitar. Look at the A Major scale here:
 
-![ ]({{ site.baseurl }}/images/fretboard-a-major.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-counting-halfsteps.png){: .mx-auto.d-block :}
 
 E is on the 7th fret. Start on A (the open string) and that letter is 0. The next fret is 1. And so on.
 
