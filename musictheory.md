@@ -52,7 +52,7 @@ To find out which notes go onto our palette, there is a simple formula to learn.
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
 
-221-2221... get it?
+221-2221
 
 Definitions to learn: the first note in a scale is called the Tonic.
 
@@ -71,7 +71,7 @@ Definitions to learn: the first note in a scale is called the Tonic.
 
 You'll notice that the scale will contain each letter name and loop back to A after the G.
 
-You can choose a different "Tonic" and create a new palette of notes. For example, let's choose "G" as our tonic and apply the 221-2221 formula.
+You can choose a different "Tonic" and create a new palette of notes. For example, let's choose "G" as our tonic and apply the 221-2221 formula. When starting on the 3rd fret, you'll notice some of the notes overlap the C Major Scale.
 
-There is on thing that most theory lessons don't teach—each of the notes names in the C Major Scale
+![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png){: .mx-auto.d-block :}
 
