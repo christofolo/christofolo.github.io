@@ -58,11 +58,18 @@ Definitions to learn: the first note in a scale is called the Tonic.
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major.png){: .mx-auto.d-block :}
 
-1. The 8th fret of the low E string is the note C.
-2. The 10th fret is D.
-3. The 12th fret is E.
-4. The 13th fret is F.
-5. The 15th fret is G.
-6. The 17th fret is A.
-7. The 19th fret is B.
-8. The 20th fret is C.
+1. The 8th fret of the low E string is the note C. It's full legal name is C♮ (pronounced "C Natural"). However, if you say just "C", then all musicians understand that the "natural" part is implied.
+2. The 10th fret is D♮ or just "D" for short. 
+3. The 12th fret is E♮ or just "E" for short.
+4. The 13th fret is F♮ or just "F" for short.
+5. The 15th fret is G♮ or just "G" for short.
+6. The 17th fret is A♮ or just "A" for short.
+7. The 19th fret is B♮ or just "B" for short.
+8. The 20th fret is C again. (Hint: 8th fret + 12 frets = 20th fret)
+
+You'll notice that the scale will contain each letter name and loop back to A after the G.
+
+You can choose a different "Tonic" and create a new palette of notes. For example, let's choose "G" as our tonic and apply the 221-2221 formula.
+
+There is on thing that most theory lessons don't teach—each of the notes names in the C Major Scale
+
