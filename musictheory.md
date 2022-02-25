@@ -144,7 +144,7 @@ Think of constellations to understand Major vs Minor. The Big Dipper is called U
 
 ## Part 7: The Two Ways to Count In Music
 
-When counting notes, always start from 1. For example, what is the 5th note above A? It is E.
+When counting notes, always start from 1. For example, what is the 5th note above A? It is E because you start counting on 1 and A is 1 (in this example).
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | - | - | - | - | - | - | - | - |
@@ -152,13 +152,13 @@ When counting notes, always start from 1. For example, what is the 5th note abov
 
 In music, we say "E is a 5th above A."
 
-What is the 3rd note above G?
+What is the 3rd note above G? It is B because G is 1 in this example.
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | - | - | - | - | - | - | - | - |
 | G | A | B | C | D | E | F | G |
 
-B is a 3rd above G.
+B is a third above G.
 
 When counting half-steps, always start from 0. For example, let's take the A to E example. How many half-steps apart are those notes? It's easy to see this on the guitar. Look at the A Major scale here:
 
@@ -166,4 +166,8 @@ When counting half-steps, always start from 0. For example, let's take the A to 
 
 E is on the 7th fret. Start on A (the open string) and that letter is 0. The next fret is 1. And so on.
 
+
+## Part 8: Major Thirds vs. Minor Thirds
+
+We've learned that scales can be Major or Minor. So can intervals. In the example, above I said that "B" is a third above G. But more accurately I should have said B♮ is a Major 3rd from G. There is another note with "B" in its name: B♭. It also is a 3rd above G but you only need to traverse 3 half-steps to get to B♭. Look at the G string on the fret board. B♮ is on the 4th fret. B♭ is on the 3rd fret.
 
