@@ -50,6 +50,8 @@ To find out which notes go onto our palette, there is a simple formula to learn.
 7. Move 2 frets and play the 19th fret.
 8. And finally, move 1 fret and play the 20th fret to complete the scale. 
 
+![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
+
 221-2221... get it?
 
 Definitions to learn: the first note in a scale is called the Tonic.
