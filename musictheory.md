@@ -132,7 +132,23 @@ Why is it called minor? To see why it's called minor, let's build the A Major sc
 3. Move 2. The 4th fret is C♯. <- here is the first difference between the two scales
 4. Move 1. The 5th fret is D.
 5. Move 2. The 7th fret is E.
-6. Move 2. The 8th fret is F♯.
-7. Move 2. The 10th fret is G♯.
+6. Move 2. The 9th fret is F♯.
+7. Move 2. The 11th fret is G♯.
 8. Move 1. The 12th fret is A again.
+
+The distance from the 1st note to the 3rd note is only 3 frets (or 3 half-steps) in a Minor scale.
+
+The distance from the 1st note to the 3rd note is 4 frets (or 4 half-steps) in a Major scale.
+
+Think of constellations to understand Major vs Minor. The Big Dipper is called Ursa Major because it's bigger. The Little Dipper is called Ursa Minor because it's smaller. Major Scales are major because the interval between the 1st and 3rd notes is "big". Whereas the interval between the 1st and 3rd notes in a minor scale is "small".
+
+## Part 7: The Two Ways to Count In Music
+
+When counting notes, always start from 1. For example, what is the 5th note above A? It is E.
+
+When counting half-steps, always start from 0. For example, let's take the A to E example. How many half-steps apart are those notes? It's easy to see this on the guitar. Look at the A Major scale here:
+
+![ ]({{ site.baseurl }}/images/fretboard-a-major.png){: .mx-auto.d-block :}
+
+E is on the 7th fret. Start on A (the open string) and that letter is 0. The next fret is 1. And so on.
 
