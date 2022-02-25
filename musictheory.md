@@ -146,9 +146,24 @@ Think of constellations to understand Major vs Minor. The Big Dipper is called U
 
 When counting notes, always start from 1. For example, what is the 5th note above A? It is E.
 
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| - | - | - | - | - | - | - | - |
+| A | B | C | D | E | F | G | A |
+
+In music, we say "E is a 5th above A."
+
+What is the 3rd note above G?
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| - | - | - | - | - | - | - | - |
+| G | A | B | C | D | E | F | G |
+
+B is a 3rd above G.
+
 When counting half-steps, always start from 0. For example, let's take the A to E example. How many half-steps apart are those notes? It's easy to see this on the guitar. Look at the A Major scale here:
 
 ![ ]({{ site.baseurl }}/images/fretboard-counting-halfsteps.png){: .mx-auto.d-block :}
 
 E is on the 7th fret. Start on A (the open string) and that letter is 0. The next fret is 1. And so on.
+
 
