@@ -33,6 +33,12 @@ Definitions to learn: consonance is the impression of stability and repose while
 
 Before we discuss the names of the notes, remember this important fact: there are only 12 note names. There's something that we need to discuss first before we get into those 12 note names&emdash;The Major Scale.
 
+Practice Exercises:
+
+1. Play each open string and also play its "lighter shade" at the 12th fret on the same string.
+2. Play any note and find its "lighter shade" at exactly 12 frets higher. For example, play the 1st fret on the E string and then play the 13th fret.
+3. Use your ear to find the "ligher shade. on the next string. For example, play the low E string. Can you find its "lighter shade" note on the A string?
+
 ## Part 2: The Major Scale is a palette of 7 "colors"
 
 ![ ]({{ site.baseurl }}/images/221-2221.png){: .mx-auto.d-block :}
@@ -56,6 +62,11 @@ To find out which notes go onto our palette, there is a simple formula to learn.
 
 Definitions to learn: the first note in a scale is called the Tonic.
 
+Practice Exercises:
+
+1. Play the Major scale on a single string starting on any fret that you wish.
+2. Try using a droning note.
+
 ## Part 3: The First Major Scale to learn is The C Major Scale
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major.png){: .mx-auto.d-block :}
@@ -72,6 +83,11 @@ Definitions to learn: the first note in a scale is called the Tonic.
 You'll notice that the scale will contain each letter name and loop back to A after the G. I don't know why the first major isn't A Major. There is a lot of history to how music has developed over the years. What's interesting is the first note on the piano is an A (the farthest left/lowest note). What's interesting is that A is the first minor scale. We will discuss minor scales in Part 6.
 
 You can choose a different "Tonic" and create a new palette of notes. For example, let's choose "G" as our tonic and apply the 221-2221 formula. When starting on the 3rd fret, you'll notice some of the notes overlap the C Major Scale.
+
+Practice Exercises:
+
+1. Play the C major scale on the low E string. Say each note as you play it!
+2. Play the C major scale on the A string (starting on the 3rd fret). Say each note as you play it!
 
 ## Part 4: The other notes: sharps and flats
 
@@ -104,9 +120,18 @@ Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E strin
 7. Move 2—The 12th fret is E.
 8. Move 1—The 13th fret is F again.
 
+Practice Exercises:
+
+1. Play the G Major scale on the low E string and say each note.
+2. Play the F Major scale on the low E string and say each note.
+
 ## Part 5: Whole Steps and Half Steps
 
 The 221-2221 formula describes how big of a step you move from one note to the next. A half step is the smallest step that you can take. You only move 1 fret with a half-step. A whole step is 2 half-steps. 
+
+Practice Exercises:
+
+1. When playing any Major scale, say which step you are about to do.
 
 ## Part 6: The Minor Scale Formula and "Major vs minor"
 
@@ -141,6 +166,11 @@ The distance from the 1st note to the 3rd note is only 3 frets (or 3 half-steps)
 The distance from the 1st note to the 3rd note is 4 frets (or 4 half-steps) in a Major scale.
 
 Think of constellations to understand Major vs Minor. The Big Dipper is called Ursa Major because it's bigger. The Little Dipper is called Ursa Minor because it's smaller. Major Scales are major because the interval between the 1st and 3rd notes is "big". Whereas the interval between the 1st and 3rd notes in a minor scale is "small".
+
+Practice Exercises:
+
+1. Play the A minor scale on the open A string and say each note.
+2. Play the A Major scale on the open A string and say each note.
 
 ## Part 7: The Two Ways to Count In Music
 
@@ -192,4 +222,5 @@ Definition to know: a dyad is a harmony composed of just two notes.
 
 Definition to know: the "root" is the base note in the harmony. In the examples above, G is the "root" and B or B♭ is the "third".
 
-## Part 9: Major Thirds vs. Minor Thirds (Dyads)
+## Part 9: Major Triads vs. Minor Triads (3 Note Chords)
+
