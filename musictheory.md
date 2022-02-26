@@ -167,23 +167,29 @@ When counting half-steps, always start from 0. For example, let's take the A to 
 E is on the 7th fret. Start on A (the open string) and that letter is 0. The next fret is 1. And so on.
 
 
-## Part 8: Major Thirds vs. Minor Thirds
+## Part 8: Major Thirds vs. Minor Thirds (Dyads)
 
 We've learned that scales can be Major or Minor. So can intervals. In the example, above I said that "B" is a third above G. But more accurately I should have said B♮ is a Major 3rd from G. There is another note with "B" in its name: B♭. It also is a 3rd above G but you only need to traverse 3 half-steps to get to B♭. Look at the G string on the fret board. B♮ is on the 4th fret. B♭ is on the 3rd fret.
 
 
 | 0  | 1  | 2  | 3  | 4  |
 | -- | -- | -- | -- | -- |
-| G♮ | G♯ | A♮ | A♯ | B♮ |
-| -- | -- | -- | -- | -- |
-| 1  | 1  | 2  | 2  | 3  |
+| G  | A♭ | A  | B♭ | B♮ |
+
+| 1 | 2 | 3 |
+| - | - | - |
+| G | A | B |
 
 Major Third = Spans 3 notes and traverses 4 half-steps.
-Minor Third = SPans 3 notes and traverses 3 half-steps.
+Minor Third = Spans 3 notes and traverses 3 half-steps.
 
-G to B is a Major Third.
-G to A♯/B♭ is a Minor Third.
+G to B is a Major Third because the interval spans 3 note names and is 4 half-steps apart.
+G to B♭ is a Minor Third because the interval spans 3 notes names is 3 half-steps apart.
 
 Play a G major barre chord. Your 2nd finger plays the B. Take your 2nd finger off to play the G Minor barre chord. Now, your barred finger is playing the B♭ on the 3rd fret.
 
+Definition to know: a dyad is a harmony composed of just two notes.
 
+Definition to know: the "root" is the base note in the harmony. In the examples above, G is the "root" and B or B♭ is the "third".
+
+## Part 9: Major Thirds vs. Minor Thirds (Dyads)
