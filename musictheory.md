@@ -111,6 +111,8 @@ Here I left both F♮ and F♯ labeled on the fretboard so that you can see the 
 7. Move 2—The 14th fret is F♯. If your scale has a "sharp" note, you must always call it by its full name.
 8. Move 1—The 15th fret is G again. (Note: 3rd fret + 12 frets = 15th fret)
 
+![ ]({{ site.baseurl }}/images/g-major-scale-rainbow.png){: .mx-auto.d-block :}
+
 What About Flats?
 
 Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E string. This note is F. Do you remember the C Major scale? What was the note that came right after the 12th fret? (Note: 13th fret - 12 frets = 1st fret)
@@ -125,6 +127,8 @@ Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E strin
 6. Move 2—The 10th fret is D.
 7. Move 2—The 12th fret is E.
 8. Move 1—The 13th fret is F again.
+
+![ ]({{ site.baseurl }}/images/f-major-scale-rainbow.png){: .mx-auto.d-block :}
 
 Practice Exercises:
 
