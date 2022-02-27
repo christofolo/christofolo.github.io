@@ -58,11 +58,13 @@ To find out which notes go onto our palette, there is a simple formula to learn.
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
 
-You can play the Major Scale anywhere on the guitar (on a single string) by memorizing this pattern:
+Definitions to learn: the first note in a scale is called the Tonic. 
+
+In music theory, the scale degree is the position of a particular note on a scale relative to the tonic. Each degree is the number given to each step of the scale: 
 
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?2272022){: .mx-auto.d-block :}
 
-Definitions to learn: the first note in a scale is called the Tonic.
+
 
 Practice Exercises:
 
