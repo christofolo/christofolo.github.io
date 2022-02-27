@@ -58,7 +58,7 @@ To find out which notes go onto our palette, there is a simple formula to learn.
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
 
-![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?2272022){: .mx-auto.d-block :}
 
 Definitions to learn: the first note in a scale is called the Tonic.
 
