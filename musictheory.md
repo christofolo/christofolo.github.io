@@ -58,7 +58,7 @@ To find out which notes go onto our palette, there is a simple formula to learn.
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
 
-221-2221
+![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png){: .mx-auto.d-block :}
 
 Definitions to learn: the first note in a scale is called the Tonic.
 
@@ -195,6 +195,8 @@ When counting half-steps, always start from 0. For example, let's take the A to 
 ![ ]({{ site.baseurl }}/images/fretboard-counting-halfsteps.png){: .mx-auto.d-block :}
 
 E is on the 7th fret. Start on A (the open string) and that letter is 0. The next fret is 1. And so on.
+
+
 
 
 ## Part 8: Major Thirds vs. Minor Thirds (Dyads)
