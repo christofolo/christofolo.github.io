@@ -58,6 +58,8 @@ To find out which notes go onto our palette, there is a simple formula to learn.
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
 
+You can play the Major Scale anywhere on the guitar (on a single string) by memorizing this pattern:
+
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?2272022){: .mx-auto.d-block :}
 
 Definitions to learn: the first note in a scale is called the Tonic.
@@ -80,7 +82,11 @@ Practice Exercises:
 7. The 19th fret is B♮ or just "B" for short.
 8. The 20th fret is C again. (Note: 8th fret + 12 frets = 20th fret)
 
-You'll notice that the scale will contain each letter name and loop back to A after the G. I don't know why the first major isn't A Major. There is a lot of history to how music has developed over the years. What's interesting is the first note on the piano is an A (the farthest left/lowest note). What's interesting is that A is the first minor scale. We will discuss minor scales in Part 6.
+You'll notice that the scale will contain each letter name and loop back to A after the G. 
+
+![ ]({{ site.baseurl }}/images/c-major-scale-rainbow.png){: .mx-auto.d-block :}
+
+I don't know why the first major isn't A Major. There is a lot of history to how music has developed over the years. What's interesting is the first note on the piano is an A (the farthest left/lowest note). What's interesting is that A is the first minor scale. We will discuss minor scales in Part 6.
 
 You can choose a different "Tonic" and create a new palette of notes. For example, let's choose "G" as our tonic and apply the 221-2221 formula. When starting on the 3rd fret, you'll notice some of the notes overlap the C Major Scale.
 
