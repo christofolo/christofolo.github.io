@@ -35,9 +35,11 @@ If you play each and every fret on the A string, you'll notice that when you rea
 
 This is why we call the note at the 12th fret "A" as well. No, it is NOT the same note...it just has the same name. One "A" is higher in pitch than the other "A".
 
+You can also hear this phenomenon when you play the 1st string (the one closest to your toes) and the 6th string (the one closest to your nose) at the same time. 
+
 ![ ]({{ site.baseurl }}/images/e-e-fretboard.png){: .mx-auto.d-block :}
 
-You can also hear this phenomenon when you play the 1st string (the one closest to your toes) and the 6th string (the one closest to your nose) at the same time. Both of these strings produce an "E". They should sound like they "fit". If the harmony made from playing these two notes sound slightly "off", then perhaps one of your strings needs to be tuned!
+Both of these strings produce an "E". They should sound like they "fit". If the harmony made from playing these two notes sound slightly "off", then perhaps one of your strings needs to be tuned!
 
 Definitions to learn: consonance is the impression of stability and repose while dissonance is the impression of tension or clash as experienced by a listener when certain combinations of tones or notes are sounded together. Playing your two E strings on the guitar should create a consonant sound (stable).
 
@@ -47,17 +49,21 @@ Practice Exercises:
 
 1. Play each open string and also play its "lighter shade" at the 12th fret on the same string.
 2. Play any note and find its "lighter shade" at exactly 12 frets higher. For example, play the 1st fret on the E string and then play the 13th fret.
-3. Use your ear to find the "ligher shade. on the next string. For example, play the low E string. Can you find its "lighter shade" note on the A string?
+3. Use your ear to find the "ligher shade" on the next string. For example, play the low E string. Can you find its "lighter shade" note on the A string?
 
-## Part 2: The Major Scale is a palette of 7 "colors"
+## Part 2: The Major Scale creates a palette of 7 "colors"
+
+![ ]({{ site.baseurl }}/images/solfa.png){: .mx-auto.d-block :}
+
+The Major Scale is probably the most important pattern of notes that you will learn. Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes.
+
+To find out which notes go onto our palette, there is a simple formula to learn. It's easy to remember because it's like a phone number. 
 
 ![ ]({{ site.baseurl }}/images/221-2221.png){: .mx-auto.d-block :}
 
-The Major Scale is probably the most important scale that you will learn. Due to cultural reasons and also the Ancient Greeks, musicians, over the course of thousands of years, have come to the conclusion that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes.
+Here's how to create the "palette" (the Major Scale) on the guitar:
 
-To find out which notes go onto our palette, there is a simple formula to learn. It's easy to remember because it's like a phone number (see above). Here's how to create the "palette":
-
-1. Pick your first note—how about the 8th fret of the low E string (or 3rd fret of the A string).
+1. Pick your first note—why not the 8th fret of the low E string?
 2. Move 2 frets. Play the 10th fret. This is the next note in the palette (scale).
 3. Move 2 frets. Play the 12th fret.
 4. Move 1 fret. Play the 13th fret.
