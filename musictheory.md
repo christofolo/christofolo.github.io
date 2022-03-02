@@ -29,7 +29,11 @@ Like colors, each pitch that is produced by an instrument has a name. However, i
 
 ![ ]({{ site.baseurl }}/images/a-to-a2.png){: .mx-auto.d-block :}
 
-If you play each and every fret on the A string, you'll notice that when you reach the 12th fret, this note "just fits" with the first note played at the open string (the A string). Try playing the 12th fret of the A string while this Cello is "droning" on their "A" (https://www.youtube.com/watch?v=qpQ6c0NotCY). This is why we call the note at the 12th fret "A" as well. No, it is NOT the same note...it just has the same name. One "A" is higher in pitch than the other "A".
+If you play each and every fret on the A string, you'll notice that when you reach the 12th fret, this note "just fits" with the first note played at the open string (the A string). Try playing the 12th fret of the A string while this Cello is "droning" on their "A".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qpQ6c0NotCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This is why we call the note at the 12th fret "A" as well. No, it is NOT the same note...it just has the same name. One "A" is higher in pitch than the other "A".
 
 ![ ]({{ site.baseurl }}/images/e-e-fretboard.png){: .mx-auto.d-block :}
 
