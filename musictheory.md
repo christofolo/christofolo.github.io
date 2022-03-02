@@ -31,11 +31,13 @@ Like colors, each pitch that is produced by an instrument has a name. However, i
 
 If you play each and every fret on the A string, you'll notice that when you reach the 12th fret, this note "just fits" with the first note played at the open string (the A string). Try playing the 12th fret of the A string while this Cello is "droning" on their "A" (https://www.youtube.com/watch?v=qpQ6c0NotCY). This is why we call the note at the 12th fret "A" as well. No, it is NOT the same note...it just has the same name. One "A" is higher in pitch than the other "A".
 
-You can also hear this phenomenon when you play the 1st string (the one closest to your toes) and the 6th string (the one closest to your nose) at the same time. Both of these strings produce an "E". They should sound like they "fit". If the harmony is slightly "off", then perhaps one of your strings needs to be tuned!
+![ ]({{ site.baseurl }}/images/e-e-fretboard.png){: .mx-auto.d-block :}
+
+You can also hear this phenomenon when you play the 1st string (the one closest to your toes) and the 6th string (the one closest to your nose) at the same time. Both of these strings produce an "E". They should sound like they "fit". If the harmony made from playing these two notes sound slightly "off", then perhaps one of your strings needs to be tuned!
 
 Definitions to learn: consonance is the impression of stability and repose while dissonance is the impression of tension or clash as experienced by a listener when certain combinations of tones or notes are sounded together. Playing your two E strings on the guitar should create a consonant sound (stable).
 
-Before we discuss the names of the notes, remember this important fact: there are only 12 note names. There's something that we need to discuss first before we get into those 12 note names&emdash;The Major Scale.
+Before we discuss the names of the notes, remember this important fact: there are only 12 note names. There's something that we need to discuss first before I list all 12 note names—The Major Scale.
 
 Practice Exercises:
 
