@@ -6,22 +6,26 @@ subtitle: The basic knowledge of how music works
 
 ## Intro: You shouldn't JUST "play by ear". You need some music theory (ie. knowledge)
 
-Basic music theory is not complicated. Most music teachers struggle teaching it however. Once you understand the fundamental patterns, everything will make sense because everything in music is connected. I will do my best to break down each concept into individual bite-sized pieces. 
+Basic music theory is not complicated. Most music teachers struggle in getting their guitar students to understand it, however. Once you understand the fundamental patterns, everything will make sense because everything in music is connected. I will do my best to break down each concept into individual bite-sized pieces. 
 
 It may seem like I explain things a little differently than other teachers. That's because I teach a class of 14-year old student guitarists each fall. If they can understand theory, I know for a fact that you can too.
 
 
-## Part 1: Notes are like colors
+## Part 1: Notes are kind of like colors
 
 Sometimes, it can be useful to compare music to art. Painters can use just a few colors to make a beautiful painting. 
 
 ![ ]({{ site.baseurl }}/images/palette-painting.png){: .mx-auto.d-block :}
 
-Artists can mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. When musicians make music with single notes which is one aspect of "melody". 
+The colors in music can be called notes. Notes are named pitches. Pitches can be high (bright). Or pitches can be low (dark). In art, dark red and light red are both red, just different shades.
+
+"Melody" is like making art without mixing the paints. In music, the melody is made up of a string of notes. 
 
 Give it a try: play a one note on your high E string (the string closest to your toes). You can start on the open string, then play up the fretboard on each fret (as high as you'd like!) and then come back down and finish on the open high E string.
 
-When musicians combine notes and play them at the same time, that is often called "harmony". Most beginners start with learning how to play harmony with common open-position chords like E minor. Here is the E minor shape that you can strum:
+Artists also mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. This is called "harmony". 
+
+Most beginners start with learning how to play harmony with common open-position chords like E minor. Here is the E minor shape that you can strum:
 
 ![ ]({{ site.baseurl }}/images/e-minor-shape.png){: .mx-auto.d-block :}
 
