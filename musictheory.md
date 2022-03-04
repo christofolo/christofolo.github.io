@@ -55,7 +55,7 @@ Practice Exercises:
 
 ![ ]({{ site.baseurl }}/images/solfa.png){: .mx-auto.d-block :}
 
-The Major Scale is probably the most important pattern of notes that you will learn. Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes.
+The Major Scale is probably the most important pattern of notes that you will learn. Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes. Don't forget that we can also mix these "colors" (ie. notes) to create new colors (chords).
 
 To find out which notes go onto our palette, there is a simple formula to learn. It's easy to remember because it's like a phone number. 
 
@@ -79,8 +79,6 @@ Definitions to learn: the first note in a scale is called the Tonic.
 In music theory, the scale degree is the position of a particular note on a scale relative to the tonic. Each degree is the number given to each step of the scale: 
 
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?2272022){: .mx-auto.d-block :}
-
-
 
 Practice Exercises:
 
