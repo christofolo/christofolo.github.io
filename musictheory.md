@@ -85,7 +85,7 @@ Here's how to create the "palette" (the Major Scale) on the guitar:
 8. Move __1__ fret and play the 20th fret to complete the scale. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
-*Try singing the pitches as you play them. You can hum them or use the solfege syllables. 8th fret ("Do"), 10th fret ("Re"), and so on...*
+*Try singing the pitches as you play them. You can hum them or use the solfege syllables. 8th fret ("Do"), 10th fret ("Re"), and so on... Sing "Do" for the 1st note and the last note because they are 12 frets apart.*
 
 You can use the formula anywhere on the guitar. Let's choose the 3rd fret of the low E string as our starting point.
 
