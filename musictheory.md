@@ -17,13 +17,13 @@ Sometimes, it can be useful to compare music to art. Painters can use just a few
 
 ![ ]({{ site.baseurl }}/images/palette-painting.png){: .mx-auto.d-block :}
 
-The colors in music can be called notes. Notes are named pitches. Pitches can be high (bright). Or pitches can be low (dark). In art, dark red and light red are both red, just different shades.
+Some of the colors in music can be called notes. Notes are named pitches. Pitches can be high (bright). Or pitches can be low (dark). In art, dark red and light red are both red, just different shades.
 
 "Melody" is like making art without mixing the paints. In music, the melody is made up of a string of notes. 
 
 Give it a try: play one note at a time on your high E string (the string closest to your toes). You can start on the open string, then play up the fretboard on each fret (as high as you'd like!) and then come back down and finish on the open high E string.
 
-Artists also mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. This is called "harmony". 
+However, some of the colors in music can be called chords. Artists also mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. The general term for this is "harmony" (at least 2 notes played at the same time). Chords are the most common type of harmony. Generally chords are a minimum of 3 notes played at the same time.
 
 Most beginners start with learning how to play harmony with common open-position chords like E minor. Here is the E minor shape that you can strum:
 
