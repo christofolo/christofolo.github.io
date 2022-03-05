@@ -121,6 +121,18 @@ You'll notice that the scale will contain each letter name and loop back to A af
 
 ![ ]({{ site.baseurl }}/images/c-major-scale-rainbow.png){: .mx-auto.d-block :}
 
+Why are E and F right next to each other? And why are B and C right next to each other?
+
+It's because of the Major Scale formula. Remember 221-2221? Let me show you on the fretboard again:
+
+![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png){: .mx-auto.d-block :}
+*This is the C Major Scale without labeling the note names*
+
+![ ]({{ site.baseurl }}/images/fretboard-c-major.png){: .mx-auto.d-block :}
+*This is the C Major Scale with the notes names labled.*
+
+
+
 I don't know why the first major isn't A Major. There is a lot of history to how music has developed over the years. What's interesting is the first note on the piano is an A (the farthest left/lowest note). What's interesting is that A is the first minor scale. We will discuss minor scales in Part 6.
 
 You can choose a different "Tonic" and create a new palette of notes. For example, let's choose "G" as our tonic and apply the 221-2221 formula. When starting on the 3rd fret, you'll notice some of the notes overlap the C Major Scale.
