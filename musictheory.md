@@ -45,6 +45,7 @@ This is why we call BOTH notes an "A" (the open 5th string and the note at the 1
 You can also hear this phenomenon when you play the 1st string (the one closest to your toes) and the 6th string (the one closest to your nose) at the same time. 
 
 ![ ]({{ site.baseurl }}/images/e-e-fretboard.png){: .mx-auto.d-block :}
+*When you tune your guitar, both of these strings will be an "E". The thinner E string is a higher pitched E. Whereas, the thicker E string is a lower pitched E. They're both named E.*
 
 Both of these strings produce an "E". They should sound like they "fit". If the harmony made from playing these two notes sound slightly "off", then perhaps one of your strings needs to be tuned!
 
