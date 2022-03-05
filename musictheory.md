@@ -97,6 +97,7 @@ Definitions to learn: the first note in a scale is called the Tonic.
 In music theory, you can also number the notes in the Major Scale. Instead of using the Solfege syllables ("Do", "Re", etc), just use "1", "2", and so on...
 
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?2272022){: .mx-auto.d-block :}
+*There are only 7 notes. The last note is "1" again but at the higher "octave".*
 
 Practice Exercises:
 
