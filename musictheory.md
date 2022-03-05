@@ -90,6 +90,7 @@ Here's how to create the "palette" (the Major Scale) on the guitar:
 You can use the formula anywhere on the guitar. Let's choose the 3rd fret of the low E string as our starting point.
 
 ![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png){: .mx-auto.d-block :}
+*Sing or hum the pitches as you play them. 3rd fret ("Do"), 5th fret ("Re"), and so on...*
 
 Definitions to learn: the first note in a scale is called the Tonic. 
 
