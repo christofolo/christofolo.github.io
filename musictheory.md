@@ -129,20 +129,19 @@ It's because of the Major Scale formula. Remember 221-2221? Let me show you on t
 *This is the C Major Scale without labeling the note names*
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major.png){: .mx-auto.d-block :}
-*This is the C Major Scale with the notes names labled.*
+*This is the C Major Scale with the notes names labeled.*
 
-
-
-I don't know why the first major isn't A Major. There is a lot of history to how music has developed over the years. What's interesting is the first note on the piano is an A (the farthest left/lowest note). What's interesting is that A is the first minor scale. We will discuss minor scales in Part 6.
-
-You can choose a different "Tonic" and create a new palette of notes. For example, let's choose "G" as our tonic and apply the 221-2221 formula. When starting on the 3rd fret, you'll notice some of the notes overlap the C Major Scale.
+Why is the 8th fret the note "C"? Well, it could have been named anything. Why is the color orange named "orange"? It could have been named anything. Over thousands of years, musicians have come to the conclusion that the first Major Scale should start on the note "C".
 
 Practice Exercises:
 
-1. Play the C major scale on the low E string. Say each note as you play it!
-2. Play the C major scale on the A string (starting on the 3rd fret). Say each note as you play it!
+1. If C is on fret 8, we also know that fret 20 is also "C" (just at a higher pitch) because it is 12 frets away. Can you work out what note is on fret 7? (Hint: 7+12=19) Can you figure out what note is on fret 5? Fret 3? Fret 1?
+2. Play the C major scale on the low E string. Say each note as you play it!
+3. Play the C major scale on the A string (starting on the 3rd fret). Say each note as you play it!
 
 ## Part 4: The other notes: sharps and flats
+
+If you did Practice Exercise #1 in Part 3, then you discovered that fret 3 is the note "G". Let's build the Major Scale off of "G".
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png){: .mx-auto.d-block :}
 
