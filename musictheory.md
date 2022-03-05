@@ -56,7 +56,9 @@ Practice Exercises:
 
 1. Play each open string and also play its "lighter shade" at the 12th fret on the same string.
 2. Play any note and find its "lighter shade" at exactly 12 frets higher. For example, play the 1st fret on the E string and then play the 13th fret.
-3. Use your ear to find the "ligher shade" on the next string. For example, play the low E string. Can you find its "lighter shade" note on the A string?
+3. Use your ear to find the "ligher shade" of the low E string (6th string) on the A string (5th string). Which fret does the higher "E" occur on the A string? Start on the 1st fret of the A string and go higher in pitch until you have found it.
+
+Important thing to know: There are only 12 notes. Their names will repeat. You can see and hear this on the guitar. The 1st fret and the 13th fret on a string will have the same note name.
 
 ## Part 2: The Major Scale creates a palette of 7 "colors"
 
