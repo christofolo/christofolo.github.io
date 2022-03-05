@@ -11,7 +11,7 @@ Basic music theory is not complicated. Most music teachers struggle in getting t
 It may seem like I explain things a little differently than other teachers. That's because I teach a class of 14-year old student guitarists each fall. If they can understand theory, I know for a fact that you can too.
 
 
-## Part 1: Notes are kind of like colors
+## Part 1: Musical notes are kind of like colors
 
 Sometimes, it can be useful to compare music to art. Painters can use just a few colors to make a beautiful painting. 
 
@@ -20,9 +20,9 @@ Sometimes, it can be useful to compare music to art. Painters can use just a few
 
 Some of the colors in music can be called notes. Notes are named pitches. Pitches can be high (bright). Or pitches can be low (dark). In art, dark red and light red are both red, just different shades.
 
-"Melody" is like making art without mixing the paints. In music, the melody is made up of a string of notes. 
+"Melody" is like making art without mixing the paints. In music, the melody is made up of notes played or sung in an order that the musican feels "paints" a pleasing picture. When you sing along with a song, you're singing the melody.
 
-Give it a try: play one note at a time on your high E string (the string closest to your toes). You can start on the open string, then play up the fretboard on each fret (as high as you'd like!) and then come back down and finish on the open high E string.
+Give it a try on your guitar: play one note at a time on your high E string (the string closest to your toes). You can start on the open string, then play up the fretboard on each fret (as high as you'd like!) and then come back down and finish on the open high E string. This is technically a melody but not that interesting.
 
 However, some of the colors in music can be called chords. Artists also mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. The general term for this is "harmony" (at least 2 notes played at the same time). Chords are the most common type of harmony. Generally chords are a minimum of 3 notes played at the same time.
 
@@ -36,11 +36,11 @@ As you're playing up and down the E string, did you notice something about the o
 ![ ]({{ site.baseurl }}/images/a-to-a2.png){: .mx-auto.d-block :}
 *The darker red arrow is pointing to the A string. The brighter red arrow is pointing to the A on the 12th fret.*
 
-If you play each and every fret on the A string, you'll notice that when you reach the 12th fret, this note "just fits" with the first note played at the open string (the A string). Try playing the 12th fret of the A string while this Cello is "droning" on their "A".
+If you play each and every fret on the A string, you'll notice that when you reach the 12th fret, this note "just fits" with the first note played at the open string (the A string). Try playing the open string A or the 12th fret (of the A string) while this Cello is "droning" on their "A".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpQ6c0NotCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is why we call the note at the 12th fret "A" as well. No, it is NOT the same note...it just has the same name. One "A" is higher in pitch than the other "A".
+This is why we call BOTH notes an "A" (the open 5th string and the note at the 12th fret). No, it is NOT the same note...it just has the same name. One "A" is higher in pitch than the other "A". The lower A and the higher A "just fit" together when played at the same time. This is called "consonance".
 
 You can also hear this phenomenon when you play the 1st string (the one closest to your toes) and the 6th string (the one closest to your nose) at the same time. 
 
