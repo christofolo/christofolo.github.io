@@ -63,23 +63,25 @@ Important thing to know: There are only 12 notes. Their names will repeat. You c
 ## Part 2: The Major Scale creates a palette of 7 "colors"
 
 ![ ]({{ site.baseurl }}/images/solfa.png){: .mx-auto.d-block :}
+*You can hear what a Major Scale sounds like without knowing the names of any notes.*
 
-The Major Scale is probably the most important pattern of notes that you will learn. Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes. Don't forget that we can also mix these "colors" (ie. notes) to create new colors (chords).
+The Major Scale is probably the most important collection of notes that you will learn. We will use it to make music! Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes. 
 
-To find out which notes go onto our palette, there is a simple formula to learn. It's easy to remember because it's like a phone number. 
+to build the Major Scale, there is a simple formula to learn. It's easy to remember because it's like a phone number. 
 
 ![ ]({{ site.baseurl }}/images/221-2221.png){: .mx-auto.d-block :}
+*The Major Scale formula.*
 
 Here's how to create the "palette" (the Major Scale) on the guitar:
 
-1. Pick your first note—why not the 8th fret of the low E string?
-2. Move *2* frets. Play the 10th fret. This is the next note in the palette (scale).
-3. Move *2* frets. Play the 12th fret.
-4. Move *1* fret. Play the 13th fret.
-5. Move *2* frets and play the 15th fret.
-6. Move *2* frets and play the 17th fret.
-7. Move *2* frets and play the 19th fret.
-8. Move *1* fret and play the 20th fret to complete the scale. 
+1. Pick your first note. I chose the 8th fret of the low E string.
+2. Move __2__ frets. Play the 10th fret. This is the next note in the palette (scale).
+3. Move __2__ frets. Play the 12th fret.
+4. Move __1__ fret. Play the 13th fret.
+5. Move __2__ frets and play the 15th fret.
+6. Move __2__ frets and play the 17th fret.
+7. Move __2__ frets and play the 19th fret.
+8. Move __1__ fret and play the 20th fret to complete the scale. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
 
