@@ -66,9 +66,9 @@ Important thing to know: There are only 12 notes. Their names will repeat. You c
 ![ ]({{ site.baseurl }}/images/solfa.png){: .mx-auto.d-block :}
 *The Solfege Syllables is a way to sing the Major Scale without knowing the names of any notes.*
 
-The Major Scale is probably the most important collection of notes that you will learn. We will use it to make music! Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes. 
+The Major Scale is probably the most important collection of notes that you will learn. We will use it to make music! Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes. But there is a specific order... 
 
-to build the Major Scale, there is a simple formula to learn. It's easy to remember because it's like a phone number. 
+To build the Major Scale, there is a simple formula to learn. It's easy to remember because it's like a phone number. 
 
 ![ ]({{ site.baseurl }}/images/221-2221.png){: .mx-auto.d-block :}
 *The Major Scale formula.*
@@ -87,7 +87,9 @@ Here's how to create the "palette" (the Major Scale) on the guitar:
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
 *Try singing the pitches as you play them. You can hum them or use the solfege syllables. 8th fret ("Do"), 10th fret ("Re"), and so on...*
 
-You can use the formula anywhere. Let's choose the 3rd fret of the low E string as our starting point.
+You can use the formula anywhere on the guitar. Let's choose the 3rd fret of the low E string as our starting point.
+
+![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png){: .mx-auto.d-block :}
 
 Definitions to learn: the first note in a scale is called the Tonic. 
 
