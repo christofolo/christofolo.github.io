@@ -94,7 +94,7 @@ You can use the formula anywhere on the guitar. Let's choose the 3rd fret of the
 
 Definitions to learn: the first note in a scale is called the Tonic. 
 
-In music theory, the scale degree is the position of a particular note on a scale relative to the tonic. Each degree is the number given to each step of the scale: 
+In music theory, you can also number the notes in the Major Scale. Instead of using the Solfege syllables ("Do", "Re", etc), just use "1", "2", and so on...
 
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?2272022){: .mx-auto.d-block :}
 
