@@ -63,7 +63,7 @@ Important thing to know: There are only 12 notes. Their names will repeat. You c
 ## Part 2: The Major Scale creates a palette of 7 "colors"
 
 ![ ]({{ site.baseurl }}/images/solfa.png){: .mx-auto.d-block :}
-*You can hear what a Major Scale sounds like without knowing the names of any notes.*
+*The Solfege Syllables is a way to sing the Major Scale without knowing the names of any notes.*
 
 The Major Scale is probably the most important collection of notes that you will learn. We will use it to make music! Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes. 
 
@@ -84,6 +84,9 @@ Here's how to create the "palette" (the Major Scale) on the guitar:
 8. Move __1__ fret and play the 20th fret to complete the scale. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
+*Try singing the pitches as you play them. You can hum them or use the solfege syllables. 8th fret ("Do"), 10th fret ("Re"), and so on...*
+
+You can use the formula anywhere. Let's choose the 3rd fret of the low E string as our starting point.
 
 Definitions to learn: the first note in a scale is called the Tonic. 
 
