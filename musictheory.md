@@ -29,6 +29,7 @@ However, some of the colors in music can be called chords. Artists also mix pain
 Most beginners start with learning how to play harmony with common open-position chords like E minor. Here is the E minor shape that you can strum:
 
 ![ ]({{ site.baseurl }}/images/e-minor-shape.png){: .mx-auto.d-block :}
+*The E minor open position chord*
 
 As you're playing up and down the E string, did you notice something about the open string pitch and the pitch at the 12th fret? The pitch at the 12th fret has the same name as the open string. It's just a "lighter shade":
 
