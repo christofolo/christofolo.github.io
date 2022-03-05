@@ -21,7 +21,7 @@ The colors in music can be called notes. Notes are named pitches. Pitches can be
 
 "Melody" is like making art without mixing the paints. In music, the melody is made up of a string of notes. 
 
-Give it a try: play a one note on your high E string (the string closest to your toes). You can start on the open string, then play up the fretboard on each fret (as high as you'd like!) and then come back down and finish on the open high E string.
+Give it a try: play one note at a time on your high E string (the string closest to your toes). You can start on the open string, then play up the fretboard on each fret (as high as you'd like!) and then come back down and finish on the open high E string.
 
 Artists also mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. This is called "harmony". 
 
@@ -29,7 +29,7 @@ Most beginners start with learning how to play harmony with common open-position
 
 ![ ]({{ site.baseurl }}/images/e-minor-shape.png){: .mx-auto.d-block :}
 
-Like colors, each pitch that is produced by an instrument has a name. However, in art, some colors are considered "dark" or "light" depending on their brightness. However, the colors "dark red" and "light red" are both called red. The same thing happens in music. You can hear this interesting phenomenon on the guitar when you play each note on the A string.
+As you're playing up and down the E string, did you notice something about the open string pitch and the pitch at the 12th fret? The pitch at the 12th fret has the same name as the open string. It's just a "lighter shade":
 
 ![ ]({{ site.baseurl }}/images/a-to-a2.png){: .mx-auto.d-block :}
 
