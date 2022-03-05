@@ -125,7 +125,7 @@ Why are E and F right next to each other? And why are B and C right next to each
 
 It's because of the Major Scale formula. Remember 221-2221? Let me show you on the fretboard again:
 
-![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
 *This is the C Major Scale without labeling the note names*
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major.png){: .mx-auto.d-block :}
