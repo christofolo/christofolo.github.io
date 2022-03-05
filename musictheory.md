@@ -68,13 +68,13 @@ To find out which notes go onto our palette, there is a simple formula to learn.
 Here's how to create the "palette" (the Major Scale) on the guitar:
 
 1. Pick your first note—why not the 8th fret of the low E string?
-2. Move 2 frets. Play the 10th fret. This is the next note in the palette (scale).
-3. Move 2 frets. Play the 12th fret.
-4. Move 1 fret. Play the 13th fret.
-5. Move 2 frets and play the 15th fret.
-6. Move 2 frets and play the 17th fret.
-7. Move 2 frets and play the 19th fret.
-8. And finally, move 1 fret and play the 20th fret to complete the scale. 
+2. Move *2* frets. Play the 10th fret. This is the next note in the palette (scale).
+3. Move *2* frets. Play the 12th fret.
+4. Move *1* fret. Play the 13th fret.
+5. Move *2* frets and play the 15th fret.
+6. Move *2* frets and play the 17th fret.
+7. Move *2* frets and play the 19th fret.
+8. Move *1* fret and play the 20th fret to complete the scale. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png){: .mx-auto.d-block :}
 
