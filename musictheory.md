@@ -16,6 +16,7 @@ It may seem like I explain things a little differently than other teachers. That
 Sometimes, it can be useful to compare music to art. Painters can use just a few colors to make a beautiful painting. 
 
 ![ ]({{ site.baseurl }}/images/palette-painting.png){: .mx-auto.d-block :}
+*A palette of a few simple colors results in a more complex creation.*
 
 Some of the colors in music can be called notes. Notes are named pitches. Pitches can be high (bright). Or pitches can be low (dark). In art, dark red and light red are both red, just different shades.
 
@@ -32,6 +33,7 @@ Most beginners start with learning how to play harmony with common open-position
 As you're playing up and down the E string, did you notice something about the open string pitch and the pitch at the 12th fret? The pitch at the 12th fret has the same name as the open string. It's just a "lighter shade":
 
 ![ ]({{ site.baseurl }}/images/a-to-a2.png){: .mx-auto.d-block :}
+*The darker red arrow is pointing to the A string. The brighter red arrow is pointing to the A on the 12th fret.*
 
 If you play each and every fret on the A string, you'll notice that when you reach the 12th fret, this note "just fits" with the first note played at the open string (the A string). Try playing the 12th fret of the A string while this Cello is "droning" on their "A".
 
