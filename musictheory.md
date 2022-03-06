@@ -164,6 +164,7 @@ As you can see, we need to use the note on the 14th fret instead of the 13th fre
 But what is that note called? Remember that the full name for "F" is actually F♮ (pronounced "F Natural"). The note at the 14th fret is called F♯ (pronounced "F Sharp"). We have now resolved the 2 rules. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png){: .mx-auto.d-block :}
+*F♮ is the 13th fret. F♯ is the 14th fret. You must use F♯ in the G Major Scale because it will fit in the 221-2221 pattern.*
 
 1. The 3rd fret of the low E string is the note G. It's full legal name is G♮ (pronounced "G Natural"). However, if you say just "G", then all musicians understand that the "natural" part is implied.
 2. Move __2__—The 5th fret is A♮ or just "A" for short. 
