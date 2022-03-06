@@ -166,16 +166,13 @@ But what is that note called? Remember that the full name for "F" is actually F�
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png){: .mx-auto.d-block :}
 
 1. The 3rd fret of the low E string is the note G. It's full legal name is G♮ (pronounced "G Natural"). However, if you say just "G", then all musicians understand that the "natural" part is implied.
-2. Move 2—The 5th fret is A♮ or just "A" for short. 
-3. Move 2—The 7th fret is B♮ or just "B" for short.
-4. Move 1—The 8th fret is C♮ or just "C" for short.
-5. Move 2—The 10th fret is D♮ or just "D" for short.
-6. Move 2—The 12th fret is E♮ or just "E" for short.
-
-Here I left both F♮ and F♯ labeled on the fretboard so that you can see the difference. We're at the part of the formula where we move 2. So this means we'll land on the 14th fret which is in between F♮ and G♮. The note on the 14th fret is F♯ (pronounced "F sharp"). When building a Major Scale, you must include all 7 letters. Then we have "sharps" (or "flats") to handle these scenarios where the formula leads us to notes that are in between the "natural" notes.
-
-7. Move 2—The 14th fret is F♯. If your scale has a "sharp" note, you must always call it by its full name.
-8. Move 1—The 15th fret is G again. (Note: 3rd fret + 12 frets = 15th fret)
+2. Move __2__—The 5th fret is A♮ or just "A" for short. 
+3. Move __2__—The 7th fret is B♮ or just "B" for short.
+4. Move __1__—The 8th fret is C♮ or just "C" for short.
+5. Move __2__—The 10th fret is D♮ or just "D" for short.
+6. Move __2__—The 12th fret is E♮ or just "E" for short.
+7. Move __2__—The 14th fret is F♯. If your scale has a "sharp" note, you must always call it by its full name.
+8. Move __1__—The 15th fret is G again. (Note: 3rd fret + 12 frets = 15th fret)
 
 ![ ]({{ site.baseurl }}/images/g-major-scale-rainbow.png){: .mx-auto.d-block :}
 
