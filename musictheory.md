@@ -219,15 +219,15 @@ The Minor Scale Formula is 212-2122. Or WHW-WHWW (W = whole step and H = half st
 ![ ]({{ site.baseurl }}/images/fretboard-a-minor.png?abc){: .mx-auto.d-block :}
 
 1. The open string "A" is our first note (the Tonic).
-2. Move 2. The 2nd fret of the A string is B. 
-3. Move 1. The 3rd fret is C.
-4. Move 2. The 5th fret is D.
-5. Move 2. The 7th fret is E.
-6. Move 1. The 8th fret is F.
-7. Move 2. The 10th fret is G.
-8. Move 2. The 12th fret is A again. (Note: the open string is referred to as 0. 0 + 12 frets = 12th fret)
+2. Move __2__. The 2nd fret of the A string is B. 
+3. Move __1__. The 3rd fret is C.
+4. Move __2__. The 5th fret is D.
+5. Move __2__. The 7th fret is E.
+6. Move __1__. The 8th fret is F.
+7. Move __2__. The 10th fret is G.
+8. Move __2__. The 12th fret is A again. (Note: the open string is referred to as 0. 0 + 12 frets = 12th fret)
 
-Why is it called minor? To see why it's called minor, let's build the A Major scale.
+Why is it called minor? To see why it's called minor, we need to compare it to the A Major Scale. You will be able to see the difference when comparing the two.
 
 ![ ]({{ site.baseurl }}/images/fretboard-a-major.png?abc){: .mx-auto.d-block :}
 
