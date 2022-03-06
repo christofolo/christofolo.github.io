@@ -218,6 +218,39 @@ All the notes on the A String up to the 12th fret:
 
 __Remember:__ There is a half-step between ALL notes. However, the only two natural note pairs that are a half-step apart are E to F and B to C. You'll also notice that the 5th fret of the low E string is an A, which is the same pitch as the open A string.
 
+## Assignment - Build All 12 Major Scales
+
+Use the 221-2221 formula to build all 12 Major Scales. 
+
+
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| C  | D  | E  | F  | G  | A  | B  | C  |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| G  |    |    |    |    |    |    | G  |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| D  |    |    |    |    |    |    | D  |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| A  |    |    |    |    |    |    | A  |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| E  |    |    |    |    |    |    | E  |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| B  |    |    |    |    |    |    | B  |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| F♯ |    |    |    |    |    |    | F♯ |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| D♭ |    |    |    |    |    |    | D♭ |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| A♭ |    |    |    |    |    |    | A♭ |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| E♭ |    |    |    |    |    |    | E♭ |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| B♭ |    |    |    |    |    |    | B♭ |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| F  |    |    |    |    |    |    | F  |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+
+
+
 ## Part 6: Whole Steps and Half Steps
 
 The 221-2221 formula describes how big of a step you move from one note to the next. A half step is the smallest step that you can take. You only move 1 fret with a half-step. A whole step is 2 half-steps. 
@@ -256,9 +289,11 @@ Why is it called minor? To see why it's called minor, we need to compare it to t
 7. Move 2. The 11th fret is G♯.
 8. Move 1. The 12th fret is A again.
 
-The distance from the 1st note to the 3rd note is only 3 frets (or 3 half-steps) in a Minor scale.
+The distance from the 1st note to the 3rd note is only 3 frets (half-steps) apart in a Minor scale. 
 
-The distance from the 1st note to the 3rd note is 4 frets (or 4 half-steps) in a Major scale.
+The distance from the 1st note to the 3rd note is larger. It is 4 frets (half-steps) in a Major scale.
+
+In music, the distance between two notes is called an interval. The interval that spans 3 notes is called a "Third". And if it only takes 3 half-steps to traverse from the first note to the next, then it is minor. If it takes 4 half-steps to traverse from the first note to the next, then it is a major third.
 
 Think of constellations to understand Major vs Minor. The Big Dipper is called Ursa Major because it's bigger. The Little Dipper is called Ursa Minor because it's smaller. Major Scales are major because the interval between the 1st and 3rd notes is "big". Whereas the interval between the 1st and 3rd notes in a minor scale is "small".
 
