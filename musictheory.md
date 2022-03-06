@@ -202,6 +202,14 @@ Practice Exercises:
 1. Play the G Major scale on the low E string and say each note.
 2. Play the F Major scale on the low E string and say each note.
 
+## All 12 Notes and Their Names
+
+All the notes on the E String:
+
+| 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| E  | F  | F♯/G♭ | G  | G♯/A♭ | A  | A♯/B♭ | B  | C  | C♯/D♭ | D  | D♯/E♭ | E  |
+
 ## Part 6: Whole Steps and Half Steps
 
 The 221-2221 formula describes how big of a step you move from one note to the next. A half step is the smallest step that you can take. You only move 1 fret with a half-step. A whole step is 2 half-steps. 
