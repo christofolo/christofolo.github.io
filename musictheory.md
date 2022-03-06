@@ -155,7 +155,9 @@ So is the G Major Scale? G, A, B, C, D, E, F, G. It's close but it's not correct
 Certainly each letter of the musical alphabet is there. But let's number the frets correctly to see it follows the 221-2221 pattern.
 
 ![ ]({{ site.baseurl }}/images/g-mixo-numbered.png){: .mx-auto.d-block :}
-*G, A, B, C, D, E, F, G does not follow the Major Scale Pattern. The note on the 13th fret should be the 14th fret instead.*
+*G, A, B, C, D, E, F, G does not follow the Major Scale Pattern. The note on the 13th fret (F) breaks the pattern.*
+
+As you can see, we need to use the note on the 14th fret instead of the 13th fret. That would fix the pattern. But what is that note called? Remember that the full name for "F" is actually F♮ (pronounced "F Natural"). The note at the 14th fret is called F♯ (pronounced "F Sharp"). We have now resolved the 2 rules. 
 
 ![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png){: .mx-auto.d-block :}
 
