@@ -251,7 +251,35 @@ Practice Exercises:
 1. Play the A minor scale on the open A string and say each note.
 2. Play the A Major scale on the open A string and say each note.
 
-## Part 7: The Two Ways to Count In Music
+## Part 7: Playing the C Major Scale on the A String
+
+Did you notice that the A Minor scale shares many of the same notes of the C Major scale. Once you get to the 3rd note of the A Minor scale (C), the next 5 notes make up much of the C Major Scale (C, D, E, F, G). That means we can play the C Major Scale on the A string if we just continue farther up the fretboard like so:
+
+![ ]({{ site.baseurl }}/images/c-major-scale-on-a-string.png?abc){: .mx-auto.d-block :}
+
+1. Play "C" on the 3rd fret of the A string.
+2. Move __2__ frets, play D. 
+3. Move __2__ frets, play E.
+4. Move __1__ fret, play F.
+5. Move __2__ frets, play G.
+6. Move __2__ frets, play A (the 12th fret of the A string).
+7. Move __2__ frets, play B.
+8. Move __1__ fret, play C again.
+
+Or you can play it on both the E string and the A string like this:
+
+![ ]({{ site.baseurl }}/images/c-major-scale-on-e-and-a-strings.png?abc){: .mx-auto.d-block :}
+
+1. Play "C" on the 8th fret of the E string.
+2. Move __a whole step__, play D. 
+3. Move __a whole step__, play E.
+4. Move __a half step__, play F on the 8th fret of the A string.
+5. Move __a whole step__, play G.
+6. Move __a whole step__, play A (the 12th fret of the A string).
+7. Move __a whole step__, play B.
+8. Move __a half step__, play C again.
+
+## Part 8: The Two Ways to Count In Music
 
 When counting notes, always start from 1. For example, what is the 5th note above A? It is E because you start counting on 1 and A is 1 (in this example).
 
@@ -278,7 +306,7 @@ E is on the 7th fret. Start on A (the open string) and that letter is 0. The nex
 
 
 
-## Part 8: Major Thirds vs. Minor Thirds (Dyads)
+## Part 9: Major Thirds vs. Minor Thirds (Dyads)
 
 We've learned that scales can be Major or Minor. So can intervals. In the example, above I said that "B" is a third above G. But more accurately I should have said B♮ is a Major 3rd from G. There is another note with "B" in its name: B♭. It also is a 3rd above G but you only need to traverse 3 half-steps to get to B♭. Look at the G string on the fret board. B♮ is on the 4th fret. B♭ is on the 3rd fret.
 
