@@ -15,7 +15,7 @@ It may seem like I explain things a little differently than other teachers. That
 
 Sometimes, it can be useful to compare music to art. Painters can use just a few colors to make a beautiful painting. 
 
-![ ]({{ site.baseurl }}/images/palette-painting.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/palette-painting.png?321){: .mx-auto.d-block :}
 *A palette of a few simple colors results in a more complex creation.*
 
 Some of the colors in music can be called notes. Notes are named pitches. Pitches can be high (bright). Or pitches can be low (dark). In art, dark red and light red are both red, just different shades.
@@ -28,12 +28,12 @@ However, some of the colors in music can be called chords. Artists also mix pain
 
 Most beginners start with learning how to play harmony with common open-position chords like E minor. Here is the E minor shape that you can strum:
 
-![ ]({{ site.baseurl }}/images/e-minor-shape.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/e-minor-shape.png?321){: .mx-auto.d-block :}
 *The E minor open position chord*
 
 As you're playing up and down the E string, did you notice something about the open string pitch and the pitch at the 12th fret? The pitch at the 12th fret has the same name as the open string. It's just a "lighter shade":
 
-![ ]({{ site.baseurl }}/images/a-to-a2.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/a-to-a2.png?321){: .mx-auto.d-block :}
 *The darker red arrow is pointing to the A string. The brighter red arrow is pointing to the A on the 12th fret.*
 
 If you play each and every fret on the A string, you'll notice that when you reach the 12th fret, this note "just fits" with the first note played at the open string (the A string). Try playing the open string A or the 12th fret (of the A string) while this Cello is "droning" on their "A".
@@ -44,7 +44,7 @@ This is why we call BOTH notes an "A" (the open 5th string and the note at the 1
 
 You can also hear this phenomenon when you play the 1st string (the one closest to your toes) and the 6th string (the one closest to your nose) at the same time. 
 
-![ ]({{ site.baseurl }}/images/e-e-fretboard.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/e-e-fretboard.png?321){: .mx-auto.d-block :}
 *When you tune your guitar, both of these strings will be an "E". The thinner E string is a higher pitched E. Whereas, the thicker E string is a lower pitched E. They're both named E.*
 
 Both of these strings produce an "E". They should sound like they "fit". If the harmony made from playing these two notes sound slightly "off", then perhaps one of your strings needs to be tuned!
@@ -63,14 +63,14 @@ Important thing to know: There are only 12 notes. Their names will repeat. You c
 
 ## Part 2: The Major Scale creates a palette of 7 "colors"
 
-![ ]({{ site.baseurl }}/images/solfa.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/solfa.png?321){: .mx-auto.d-block :}
 *The Solfege Syllables is a way to sing the Major Scale without knowing the names of any notes.*
 
 The Major Scale is probably the most important collection of notes that you will learn. We will use it to make music! Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes. But there is a specific order... 
 
 To build the Major Scale, there is a simple formula to learn. It's easy to remember because it's like a phone number. 
 
-![ ]({{ site.baseurl }}/images/221-2221.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/221-2221.png?321){: .mx-auto.d-block :}
 *The Major Scale formula.*
 
 Here's how to create the "palette" (the Major Scale) on the guitar:
@@ -84,19 +84,19 @@ Here's how to create the "palette" (the Major Scale) on the guitar:
 7. Move __2__ frets and play the 19th fret.
 8. Move __1__ fret and play the 20th fret to complete the scale. 
 
-![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png?321){: .mx-auto.d-block :}
 *Sing or hum the pitches as you play them. If you sing, then say the solfege syllables. 8th fret ("Do"), 10th fret ("Re"), and so on... Sing "Do" for the 1st note and the last note because they are 12 frets apart.*
 
 You can use the formula anywhere on the guitar. Let's choose the 3rd fret of the low E string as our starting point.
 
-![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png?321){: .mx-auto.d-block :}
 *Sing or hum the pitches as you play them. 3rd fret ("Do"), 5th fret ("Re"), and so on...*
 
 Definitions to learn: the first note in a scale is called the Tonic. 
 
 In music theory, you can also number the notes in the Major Scale. Instead of using the Solfege syllables ("Do", "Re", etc), just use "1", "2", and so on...
 
-![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?123?2272022){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?321?2272022){: .mx-auto.d-block :}
 *There are only 7 notes. The last note is "1" again but at the higher "octave".*
 
 Practice Exercises:
@@ -106,7 +106,7 @@ Practice Exercises:
 
 ## Part 3: The First Major Scale to learn is The C Major Scale
 
-![ ]({{ site.baseurl }}/images/fretboard-c-major.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-c-major.png?321){: .mx-auto.d-block :}
 
 1. The 8th fret of the low E string is the note C. It's full legal name is C♮ (pronounced "C Natural"). However, if you say just "C", then all musicians understand that the "natural" part is implied.
 2. The 10th fret is D♮ or just "D" for short. 
@@ -119,16 +119,16 @@ Practice Exercises:
 
 You'll notice that the scale will contain each letter name and loop back to A after the G. 
 
-![ ]({{ site.baseurl }}/images/c-major-scale-rainbow.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/c-major-scale-rainbow.png?321){: .mx-auto.d-block :}
 
 Why are E and F right next to each other? And why are B and C right next to each other?
 
 It's because of the Major Scale formula. Remember 221-2221? Let me show you on the fretboard again:
 
-![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png?321){: .mx-auto.d-block :}
 *This is the C Major Scale without labeling the note names*
 
-![ ]({{ site.baseurl }}/images/fretboard-c-major.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-c-major.png?321){: .mx-auto.d-block :}
 *This is the C Major Scale with the notes names labeled.*
 
 Why is the 8th fret the note "C"? Well, it could have been named anything. Why is the color orange named "orange"? It could have been named anything. Over thousands of years, musicians have come to the conclusion that the pitch that occurs at the 8th fret of the E string is "C". 
@@ -145,7 +145,7 @@ Practice Exercises:
 
 If you did Practice Exercise #1 in Part 3, then you discovered that fret 3 is the note "G". You should have also figured out the notes for frets 5 and 7. Here are the notes from G to G on the low E string:
 
-![ ]({{ site.baseurl }}/images/g-mixo.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/g-mixo.png?321){: .mx-auto.d-block :}
 
 So is the G Major Scale? (G, A, B, C, D, E, F, G) It's close but it's not correct. Here are the 2 rules for building a Major Scale.
 
@@ -154,16 +154,16 @@ So is the G Major Scale? (G, A, B, C, D, E, F, G) It's close but it's not correc
 
 Certainly each letter of the musical alphabet is there. But let's number the frets correctly to see it follows the 221-2221 pattern.
 
-![ ]({{ site.baseurl }}/images/g-mixo-numbered.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/g-mixo-numbered.png?321){: .mx-auto.d-block :}
 *G, A, B, C, D, E, F, G does not follow the Major Scale Pattern. It is 221-2212. The note on the 13th fret (F) breaks the pattern.*
 
 As you can see, we need to use the note on the 14th fret instead of the 13th fret. That would fix the pattern. 
 
-![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png?321){: .mx-auto.d-block :}
 
 But what is that note called? Remember that the full name for "F" is actually F♮ (pronounced "F Natural"). The note at the 14th fret is called F♯ (pronounced "F Sharp"). We have now resolved the 2 rules if we use F♯ instead of F♮. 
 
-![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png?321){: .mx-auto.d-block :}
 *F♮ is the 13th fret. F♯ is the 14th fret. You must use F♯ in the G Major Scale because it will fit in the 221-2221 pattern.*
 
 1. The 3rd fret of the low E string is the note G. It's full legal name is G♮ (pronounced "G Natural"). However, if you say just "G", then all musicians understand that the "natural" part is implied.
@@ -175,15 +175,15 @@ But what is that note called? Remember that the full name for "F" is actually F�
 7. Move __2__—The 14th fret is F♯. If your scale has a "sharp" note, you must always call it by its full name.
 8. Move __1__—The 15th fret is G again. (Note: 3rd fret + 12 frets = 15th fret)
 
-![ ]({{ site.baseurl }}/images/g-major-scale-rainbow.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/g-major-scale-rainbow.png?321){: .mx-auto.d-block :}
 
 ## Part 5: A pitch can have two names (intro to "flats")
 
-The pitch that occurs at the 14th fret (F♯) has another name: G♭ (pronounced "G flat"). Yeah, this is kind of weird. The reason why G♭ is not used in the G Major Scale is because we need to fulfill rule number 2. If you use G♭ instead of F♯, then the scale would skip an "F" entirely. You can't do that. There are some other scales that will use G♭. We will build those later in the books.
+The pitch that occurs at the 14th fret (F♯) has another name: G♭ (pronounced "G flat"). Yeah, this is kind of weird. The reason why G♭ is not used in the G Major Scale is because we need to fulfill rule number 2. If you use G♭ instead of F♯, then the scale would skip an "F" entirely. You can't do that. There are some other scales that will use G♭. We will build those later in this book.
 
 Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E string. This note is F. Do you remember the C Major scale? What was the note that came right after the 12th fret? (Note: 13th fret - 12 frets = 1st fret)
 
-![ ]({{ site.baseurl }}/images/fretboard-f-major-scale.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-f-major-scale.png?321){: .mx-auto.d-block :}
 *The 6th fret pitch has two names: A♯ and B♭.*
 
 1. The 1st fret of the low E string is the note F.
@@ -195,7 +195,7 @@ Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E strin
 7. Move 2—The 12th fret is E.
 8. Move 1—The 13th fret is F again.
 
-![ ]({{ site.baseurl }}/images/f-major-scale-rainbow.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/f-major-scale-rainbow.png?321){: .mx-auto.d-block :}
 
 Practice Exercises:
 
@@ -214,7 +214,7 @@ Practice Exercises:
 
 The Minor Scale Formula is 212-2122. Or WHW-WHWW (W = whole step and H = half step)
 
-![ ]({{ site.baseurl }}/images/fretboard-a-minor.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-a-minor.png?321){: .mx-auto.d-block :}
 
 1. The open string "A" is our first note (the Tonic).
 2. Move 2. The 2nd fret of the A string is B. 
@@ -227,7 +227,7 @@ The Minor Scale Formula is 212-2122. Or WHW-WHWW (W = whole step and H = half st
 
 Why is it called minor? To see why it's called minor, let's build the A Major scale.
 
-![ ]({{ site.baseurl }}/images/fretboard-a-major.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-a-major.png?321){: .mx-auto.d-block :}
 
 1. The open string "A" is our first note (the Tonic).
 2. Move 2. The 2nd fret is B. 
@@ -269,7 +269,7 @@ B is a third above G.
 
 When counting half-steps, always start from 0. For example, let's take the A to E example. How many half-steps apart are those notes? It's easy to see this on the guitar. Look at the A Major scale here:
 
-![ ]({{ site.baseurl }}/images/fretboard-counting-halfsteps.png?123){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/fretboard-counting-halfsteps.png?321){: .mx-auto.d-block :}
 
 E is on the 7th fret. Start on A (the open string) and that letter is 0. The next fret is 1. And so on.
 
