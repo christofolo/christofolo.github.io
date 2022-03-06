@@ -161,7 +161,7 @@ As you can see, we need to use the note on the 14th fret instead of the 13th fre
 
 ![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png){: .mx-auto.d-block :}
 
-But what is that note called? Remember that the full name for "F" is actually F♮ (pronounced "F Natural"). The note at the 14th fret is called F♯ (pronounced "F Sharp"). We have now resolved the 2 rules. 
+But what is that note called? Remember that the full name for "F" is actually F♮ (pronounced "F Natural"). The note at the 14th fret is called F♯ (pronounced "F Sharp"). We have now resolved the 2 rules if we use F♯ instead of F♮. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png){: .mx-auto.d-block :}
 *F♮ is the 13th fret. F♯ is the 14th fret. You must use F♯ in the G Major Scale because it will fit in the 221-2221 pattern.*
