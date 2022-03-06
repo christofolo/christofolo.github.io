@@ -281,6 +281,22 @@ Or you can play it on both the E string and the A string like this:
 
 ## Part 8: The Two Ways to Count In Music
 
+Up until this point, we have been counting like a Computer Scientist—by starting from 0. When you use the Major Scale formula, the first note starts at position "0". Then you start counting the frets or half-steps from there. 
+
+Here are all the notes on the low E string up to the 12th fret. 0 is the open E string. 
+
+| 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| E  | F  | F♯ | G  | G♯ | A  | A♯ | B  | C  | C♯ | D  | D♯ | E  |
+
+How many half-steps apart is E from B?
+
+The answer is 7. Start from 0, then count. Luckily the fret numbers match the counting system that you should use.
+
+However, if I were to ask you how many half-steps apart is G from D? You need to pretend that G is at 0. Then continue with 1 on ♯, 2 on G and so on... The answer is 7.
+
+
+
 When counting notes, always start from 1. For example, what is the 5th note above A? It is E because you start counting on 1 and A is 1 (in this example).
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
