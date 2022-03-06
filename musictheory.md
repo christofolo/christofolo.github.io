@@ -141,7 +141,7 @@ Practice Exercises:
 2. Play the C major scale on the low E string. Say each note as you play it!
 3. Play the C major scale on the A string (starting on the 3rd fret). Say each note as you play it!
 
-## Part 4: The other notes: sharps and flats
+## Part 4: Building the G Major Scale (intro to "sharps")
 
 If you did Practice Exercise #1 in Part 3, then you discovered that fret 3 is the note "G". You should have also figured out the notes for frets 5 and 7. Here are the notes from G to G on the low E string:
 
@@ -177,11 +177,14 @@ But what is that note called? Remember that the full name for "F" is actually F�
 
 ![ ]({{ site.baseurl }}/images/g-major-scale-rainbow.png?123){: .mx-auto.d-block :}
 
-What About Flats?
+## Part 5: A pitch can have two names (intro to "flats")
+
+The pitch that occurs at the 14th fret (F♯) has another name: G♭ (pronounced "G flat"). Yeah, this is kind of weird. The reason why G♭ is not used in the G Major Scale is because we need to fulfill rule number 2. If you use G♭ instead of F♯, then the scale would skip an "F" entirely. You can't do that. There are some other scales that will use G♭. We will build those later in the books.
 
 Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E string. This note is F. Do you remember the C Major scale? What was the note that came right after the 12th fret? (Note: 13th fret - 12 frets = 1st fret)
 
 ![ ]({{ site.baseurl }}/images/fretboard-f-major-scale.png?123){: .mx-auto.d-block :}
+*The 6th fret pitch has two names: A♯ and B♭.*
 
 1. The 1st fret of the low E string is the note F.
 2. Move 2—The 3rd fret is G. 
