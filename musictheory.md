@@ -279,7 +279,7 @@ Or you can play it on both the E string and the A string like this:
 7. Move __a whole step__, play B.
 8. Move __a half step__, play C again.
 
-## Part 8: The Two Ways to Count In Music
+## Part 8: The Two Ways to Count In Music Theory
 
 Up until this point, we have been counting like a Computer Scientist—by starting from 0. When you use the Major Scale formula, the first note starts at position "0". Then you start counting the frets or half-steps from there. 
 
@@ -293,9 +293,17 @@ How many half-steps apart is E from B?
 
 The answer is 7. Start from 0, then count. Luckily the fret numbers match the counting system that you should use.
 
-However, if I were to ask you how many half-steps apart is G from D? You need to pretend that G is at 0. Then continue with 1 on ♯, 2 on G and so on... The answer is 7.
+However, if I were to ask you how many half-steps apart is G from D? You need to pretend that G is at 0. Then continue with 1 on G♯, 2 on A and so on... The answer is 7.
 
+Let's do the same exercise but use Flats instead of Sharps.
 
+| 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| E  | F  | G♭ | G  | A♭ | A  | B♭ | B  | C  | D♭ | D  | E♭ | E  |
+
+How many half-steps is C from F? 
+
+The answer is 7.
 
 When counting notes, always start from 1. For example, what is the 5th note above A? It is E because you start counting on 1 and A is 1 (in this example).
 
@@ -312,15 +320,6 @@ What is the 3rd note above G? It is B because G is 1 in this example.
 | G | A | B | C | D | E | F | G |
 
 B is a third above G.
-
-When counting half-steps, always start from 0. For example, let's take the A to E example. How many half-steps apart are those notes? It's easy to see this on the guitar. Look at the A Major scale here:
-
-![ ]({{ site.baseurl }}/images/fretboard-counting-halfsteps.png?abc){: .mx-auto.d-block :}
-
-E is on the 7th fret. Start on A (the open string) and that letter is 0. The next fret is 1. And so on.
-
-
-
 
 ## Part 9: Major Thirds vs. Minor Thirds (Dyads)
 
