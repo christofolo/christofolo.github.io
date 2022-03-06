@@ -204,50 +204,19 @@ Practice Exercises:
 
 ## All 12 Notes and Their Names
 
-All the notes on the E String up to the 12th fret:
+Here are all the notes:
 
-| 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| E  | F  | F♯/G♭ | G  | G♯/A♭ | A  | A♯/B♭ | B  | C  | C♯/D♭ | D  | D♯/E♭ | E  |
-
-All the notes on the A String up to the 12th fret:
-
-| 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| A  | A♯/B♭ | B  | C  | C♯/D♭ | D  | D♯/E♭ | E  | F  | F♯/G♭ | G  | G♯/A♭ | A  |
+| Diatonic Scale Degree | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
+|                       | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+|    Chromatic Scale    | A  | A♯/B♭ | B  | C  | C♯/D♭ | D  | D♯/E♭ | E  | F  | F♯/G♭ | G  | G♯/A♭ | A  |
+|                       | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+|      Half Steps       | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
 
 __Remember:__ There is a half-step between ALL notes. However, the only two natural note pairs that are a half-step apart are E to F and B to C. You'll also notice that the 5th fret of the low E string is an A, which is the same pitch as the open A string.
 
 ## Assignment - Build All 12 Major Scales
 
-Use the 221-2221 formula to build all 12 Major Scales. 
 
-
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| C  | D  | E  | F  | G  | A  | B  | C  |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| G  |    |    |    |    |    |    | G  |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| D  |    |    |    |    |    |    | D  |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| A  |    |    |    |    |    |    | A  |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| E  |    |    |    |    |    |    | E  |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| B  |    |    |    |    |    |    | B  |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| F♯ |    |    |    |    |    |    | F♯ |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| D♭ |    |    |    |    |    |    | D♭ |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| A♭ |    |    |    |    |    |    | A♭ |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| E♭ |    |    |    |    |    |    | E♭ |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| B♭ |    |    |    |    |    |    | B♭ |
-| -- | -- | -- | -- | -- | -- | -- | -- |
-| F  |    |    |    |    |    |    | F  |
-| -- | -- | -- | -- | -- | -- | -- | -- |
 
 
 
