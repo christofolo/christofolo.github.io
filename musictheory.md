@@ -131,7 +131,9 @@ It's because of the Major Scale formula. Remember 221-2221? Let me show you on t
 ![ ]({{ site.baseurl }}/images/fretboard-c-major.png){: .mx-auto.d-block :}
 *This is the C Major Scale with the notes names labeled.*
 
-Why is the 8th fret the note "C"? Well, it could have been named anything. Why is the color orange named "orange"? It could have been named anything. Over thousands of years, musicians have come to the conclusion that the first Major Scale should start on the note "C".
+Why is the 8th fret the note "C"? Well, it could have been named anything. Why is the color orange named "orange"? It could have been named anything. Over thousands of years, musicians have come to the conclusion that the pitch that occurs at the 8th fret of the E string is "C". 
+
+If there are only 7 notes in the Major Scale, we will only use 7 letters of the alphabet (A through G). This is why the C Major Scale loops back around after the note G. And because the Major Scale MUST follow the 221-2221 pattern, that means some notes will be two frets apart (C-D, D-E, F-G, G-A, A-B) and some other notes will just be 1 fret apart (E-F and B-C). 
 
 Practice Exercises:
 
@@ -141,7 +143,21 @@ Practice Exercises:
 
 ## Part 4: The other notes: sharps and flats
 
-If you did Practice Exercise #1 in Part 3, then you discovered that fret 3 is the note "G". Let's build the Major Scale off of "G".
+If you did Practice Exercise #1 in Part 3, then you discovered that fret 3 is the note "G". You should have also figured out the notes for frets 5 and 7. Here are the notes from G to G on the low E string:
+
+![ ]({{ site.baseurl }}/images/g-mixo.png){: .mx-auto.d-block :}
+
+So is the G Major Scale? G, A, B, C, D, E, F, G. It's close but it's not correct. Here are the 2 rules for building a Major Scale.
+
+1. It must follow the 221-2221 pattern.
+2. It must represent each letter of the musical alphabet.
+
+Certainly each letter of the musical alphabet is there. But let's number the frets correctly to see it follows the 221-2221 pattern.
+
+![ ]({{ site.baseurl }}/images/g-mixo-numbered.png){: .mx-auto.d-block :}
+*G, A, B, C, D, E, F, G does not follow the Major Scale Pattern. The note on the 13th fret should be the 14th fret instead.*
+
+![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png){: .mx-auto.d-block :}
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png){: .mx-auto.d-block :}
 
