@@ -129,26 +129,6 @@ You'll notice that the scale will contain each letter name and loop back to A af
 
 ![ ]({{ site.baseurl }}/images/c-major-scale-rainbow.png?abc){: .mx-auto.d-block :}
 
-Why are E and F right next to each other? And why are B and C right next to each other?
-
-It's because of 3 things:
-
- - the Major Scale formula
- - The fact that we only use 7 notes
- - The fact that we don't skip any letters
- 
- If you put C on the 8th fret (see below), and if the next 6 letters in the scale are D, E, F, G, A, B, then you MUST put F right next to E and you MUST put C right next to B. 
-
-![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png?abc){: .mx-auto.d-block :}
-*This is the C Major Scale without labeling the note names*
-
-![ ]({{ site.baseurl }}/images/fretboard-c-major.png?abc){: .mx-auto.d-block :}
-*This is the C Major Scale with the notes names labeled.*
-
-Why is the 8th fret the note "C"? Well, it could have been named anything. Why is the color orange named "orange"? It could have been named anything. Over thousands of years, musicians have come to the conclusion that the pitch that occurs at the 8th fret of the E string is "C". 
-
-If there are only 7 notes in the Major Scale, we will only use 7 letters of the alphabet (A through G). This is why the C Major Scale loops back around after the note G. And because the Major Scale MUST follow the 221-2221 pattern, that means some notes will be two frets apart (C-D, D-E, F-G, G-A, A-B) and some other notes will just be 1 fret apart (E-F and B-C). 
-
 Practice Exercises:
 
 1. If C is on fret 8, we also know that fret 20 is also "C" (just at a higher pitch) because it is 12 frets away. Can you work out what note is on fret 7? (Hint: 7+12=19) Can you figure out what note is on fret 5? Fret 3? Fret 1?
