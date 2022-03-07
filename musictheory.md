@@ -53,13 +53,13 @@ The note that is 12 frets higher is an "octave" higher. Without knowing the name
 
 ![ ]({{ site.baseurl }}/images/3-to-15.png){: .mx-auto.d-block :}
 
-Do you hear how they produce consonance? Did you also notice that the dots can help you find the note in the next octave?
+Do you hear how they produce consonance? Did you also notice that the dots on the fretboard can help you find the note in the next octave?
 
 Here is a video of a droning A note. Here's a challenge for you. Without knowing anything about the guitar, can you find the "A" note on the D string? 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpQ6c0NotCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-There are still several note names for you to learn. However, we need to next discuss The Major Scale.
+There are still several note names for you to learn. However, we need to next discuss The Major Scale first. We need to understand that we organize 7 notes in a certain pattern. This pattern helps us understand why notes are called in the way they are.
 
 Practice Exercises:
 
@@ -101,7 +101,7 @@ You can use the formula anywhere on the guitar. Let's choose the 3rd fret of the
 
 Definitions to learn: the first note in a scale is called the Tonic. 
 
-In music theory, you can also number the notes in the Major Scale. Instead of using the Solfege syllables ("Do", "Re", etc), just use "1", "2", and so on...
+Here is a visual representation of a Major Scale using "scale degrees". As you can see, it follows the 221-2221 pattern. 
 
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?abc?2272022){: .mx-auto.d-block :}
 *There are only 7 notes. The last note is "1" again but at the higher "octave".*
