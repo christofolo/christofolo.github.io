@@ -49,34 +49,17 @@ Try it with every other string too. The 12th fret of the A string is also an "A"
 
 ![ ]({{ site.baseurl }}/images/eadgbe.png){: .mx-auto.d-block :}
 
-However, some of the colors in music can be called chords. Artists also mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. The general term for this is "harmony" (at least 2 notes played at the same time). Chords are the most common type of harmony. Generally chords are a minimum of 3 notes played at the same time.
+The note that is 12 frets higher is an "octave" higher. Without knowing the names of all the notes on the guitar, you can play the note that is an octave higher. For example, play the note on the 3rd fret of the E string. 3 + 12 = 15. Next play the 15th fret of the E string.
 
-Most beginners start with learning how to play harmony with common open-position chords like E minor. Here is the E minor shape that you can strum:
+![ ]({{ site.baseurl }}/images/3-to-15.png){: .mx-auto.d-block :}
 
-![ ]({{ site.baseurl }}/images/e-minor-shape.png?abc){: .mx-auto.d-block :}
-*The E minor open position chord*
+Do you hear how they produce consonance? Did you also notice that the dots can help you find the note in the next octave?
 
-As you're playing up and down the E string, did you notice something about the open string pitch and the pitch at the 12th fret? The pitch at the 12th fret has the same name as the open string. It's just a "lighter shade":
-
-![ ]({{ site.baseurl }}/images/a-to-a2.png?abc){: .mx-auto.d-block :}
-*The darker red arrow is pointing to the A string. The brighter red arrow is pointing to the A on the 12th fret.*
-
-If you play each and every fret on the A string, you'll notice that when you reach the 12th fret, this note "just fits" with the first note played at the open string (the A string). Try playing the open string A or the 12th fret (of the A string) while this Cello is "droning" on their "A".
+Here is a video of a droning A note. Here's a challenge for you. Without knowing anything about the guitar, can you find the "A" note on the D string? 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpQ6c0NotCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is why we call BOTH notes an "A" (the open 5th string and the note at the 12th fret). No, it is NOT the same note...it just has the same name. One "A" is higher in pitch than the other "A". The lower A and the higher A "just fit" together when played at the same time. This is called "consonance".
-
-You can also hear this phenomenon when you play the 1st string (the one closest to your toes) and the 6th string (the one closest to your nose) at the same time. 
-
-![ ]({{ site.baseurl }}/images/e-e-fretboard.png?abc){: .mx-auto.d-block :}
-*When you tune your guitar, both of these strings will be an "E". The thinner E string is a higher pitched E. Whereas, the thicker E string is a lower pitched E. They're both named E.*
-
-Both of these strings produce an "E". They should sound like they "fit". If the harmony made from playing these two notes sound slightly "off", then perhaps one of your strings needs to be tuned!
-
-Definitions to learn: consonance is the impression of stability and repose while dissonance is the impression of tension or clash as experienced by a listener when certain combinations of tones or notes are sounded together. Playing your two E strings on the guitar should create a consonant sound (stable).
-
-Before we discuss the names of the notes, remember this important fact: there are only 12 note names. There's something that we need to discuss first before I list all 12 note names—The Major Scale.
+There are still several note names for you to learn. However, we need to next discuss The Major Scale.
 
 Practice Exercises:
 
@@ -84,7 +67,6 @@ Practice Exercises:
 2. Play any note and find its "lighter shade" at exactly 12 frets higher. For example, play the 1st fret on the E string and then play the 13th fret.
 3. Use your ear to find the "ligher shade" of the low E string (6th string) on the A string (5th string). Which fret does the higher "E" occur on the A string? Start on the 1st fret of the A string and go higher in pitch until you have found it.
 
-Important thing to know: There are only 12 notes. Their names will repeat. You can see and hear this on the guitar. The 1st fret and the 13th fret on a string will have the same note name.
 
 ## Part 2: The Major Scale creates a palette of 7 "colors"
 
