@@ -18,7 +18,7 @@ Sometimes, it can be useful to compare music to art. Painters can use just a few
 ![ ]({{ site.baseurl }}/images/palette-painting.png?abc){: .mx-auto.d-block :}
 *A palette of a few simple colors results in a more complex creation.*
 
-Why is the color "orange" called orange? We've given that color that name. In music, we've also haven given all the pitches names as well. A "pitch" or sound is what we hear when we play the guitar, or sing a melody, or beat a drum. Pitches can be low (dark). Or they can be high (bright). In music, a "note" is a named pitch. When you play just one string on the guitar, you are playing a single note. 
+Why is the color "orange" called orange? We've given that color that name. In music, we have also given all the pitches names as well. A "pitch" or sound is what we hear when we play the guitar, or sing a melody, beat a drum, etc. Pitches can be low (dark). Or they can be high (bright). In music, a "note" is a named pitch. When you play just one string on the guitar, you are playing a single note. 
 
 In art, it's perfectly acceptable to consider "dark red" and "light red" both "red". They are just different shades of the same color.
 
@@ -42,6 +42,8 @@ Because of the phenomenon, consonance, there are only 12 note names. That means 
 Try this on the guitar. Play the low E string. Then play each fret until you get to the 12th fret. Can you guess what the 12th fret will sound like?
 
 ![ ]({{ site.baseurl }}/images/e-to-e.png){: .mx-auto.d-block :}
+
+The note at the 12th fret of the E string is also called "E" because it is in perfect consonance with the pitch at the open string—the low E.
 
 However, some of the colors in music can be called chords. Artists also mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. The general term for this is "harmony" (at least 2 notes played at the same time). Chords are the most common type of harmony. Generally chords are a minimum of 3 notes played at the same time.
 
