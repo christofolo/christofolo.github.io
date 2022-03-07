@@ -202,7 +202,7 @@ Practice Exercises:
 1. Play the G Major scale on the low E string and say each note.
 2. Play the F Major scale on the low E string and say each note.
 
-## All 12 Notes and Their Names
+## Part 6: All 12 Notes and Their Names
 
 You can see all 12 notes on the A string. These 12 notes are also on every other string as well. It's just easy to show on one string and not overload you with information.
 
@@ -210,13 +210,13 @@ You can see all 12 notes on the A string. These 12 notes are also on every other
 
 __Remember:__ There is a half-step between ALL notes. However, the only two natural note pairs that are a half-step apart are E to F and B to C. You'll also notice that the 5th fret of the low E string is an A, which is the same pitch as the open A string.
 
-## Assignment - Build All 12 Major Scales
+## Part 7: All 12 Major Scales
+
+![ ]({{ site.baseurl }}/images/c-major-scale-with-chromatic.png){: .mx-auto.d-block :}
 
 
 
-
-
-## Part 6: Whole Steps and Half Steps
+## Part 8: Whole Steps and Half Steps
 
 The 221-2221 formula describes how big of a step you move from one note to the next. A half step is the smallest step that you can take. You only move 1 fret with a half-step. A whole step is 2 half-steps. 
 
@@ -226,7 +226,7 @@ Practice Exercises:
 
 1. When playing any Major scale, say which step you are about to do.
 
-## Part 7: The Minor Scale Formula
+## Part 9: The Minor Scale Formula
 
 The Minor Scale Formula is 212-2122. Or WHW-WHWW (W = whole step and H = half step)
 
