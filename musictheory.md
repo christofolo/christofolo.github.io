@@ -133,13 +133,13 @@ And label each note with its correct name:
 7. The 19th fret is B♮ or just "B" for short.
 8. The 20th fret is C again. (Note: 8th fret + 12 frets = 20th fret)
 
-You'll notice that the scale will contain each letter name and loop back to A after you reach G. 
+You'll notice that the scale will contain each letter name and loop back to A after you reach G. This is called the C Major Scale because it starts with C:
 
 ![ ]({{ site.baseurl }}/images/c-major-scale-rainbow.png?abc){: .mx-auto.d-block :}
 
 Practice Exercises:
 
-1. If C is on fret 8, we also know that fret 20 is also "C" (just at a higher pitch) because it is 12 frets away. Can you work out what note is on fret 7? (Hint: 7+12=19) Can you figure out what note is on fret 5? Fret 3? Fret 1?
+1. If C is on fret 8, we also know that fret 20 is also "C" (just at a higher pitch) because it is 12 frets away. Can you work out what note is on fret 7 of the low E string? (Hint: 7+12=19) Can you figure out what note is on fret 5? Fret 3? Fret 1?
 2. Play the C major scale on the low E string. Say each note as you play it!
 3. Play the C major scale on the A string (starting on the 3rd fret). Say each note as you play it!
 
