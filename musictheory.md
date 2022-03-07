@@ -145,25 +145,20 @@ Practice Exercises:
 
 ## Part 4: Building the G Major Scale (intro to "sharps")
 
-If you did Practice Exercise #1 in Part 3, then you discovered that fret 3 is the note "G". You should have also figured out the notes for frets 5 and 7. Here are the notes from G to G on the low E string:
+If you did Practice Exercise #1 in Part 3, then you discovered that fret 3 is the note "G". 
 
-![ ]({{ site.baseurl }}/images/g-mixo.png?abc){: .mx-auto.d-block :}
-
-So is the G Major Scale? (G, A, B, C, D, E, F, G) It's close but it's not correct. Here are the 2 rules for building a Major Scale.
-
-1. It must follow the 221-2221 pattern.
-2. It must represent each letter of the musical alphabet.
-
-Certainly each letter of the musical alphabet is there. But let's number the frets correctly to see it follows the 221-2221 pattern.
-
-![ ]({{ site.baseurl }}/images/g-mixo-numbered.png?abc){: .mx-auto.d-block :}
-*G, A, B, C, D, E, F, G does not follow the Major Scale Pattern. It is 221-2212. The note on the 13th fret (F) breaks the pattern.*
-
-As you can see, we need to use the note on the 14th fret instead of the 13th fret. That would fix the pattern. 
+So let's use the Major Scale formula and mark each fret without naming it just yet. Starting on fret 3 (which we now know is "G"):
 
 ![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png?abc){: .mx-auto.d-block :}
 
-But what is that note called? Remember that the full name for "F" is actually F♮ (pronounced "F Natural"). The note at the 14th fret is called F♯ (pronounced "F Sharp"). We have now resolved the 2 rules if we use F♯ instead of F♮. 
+There is one fret that was not in the C major scale. It is fret 14. Fret 13 is "F♮". Fret 15 is "G♮". So what note is fret 14? It is called F♯ (pronounced "F Sharp").
+
+Here are the 2 rules for building a Major Scale.
+
+1. It must follow the 221-2221 pattern.
+2. It must represent each letter of the musical alphabet in its circular order.
+
+
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png?abc){: .mx-auto.d-block :}
 *F♮ is the 13th fret. F♯ is the 14th fret. You must use F♯ in the G Major Scale because it will fit in the 221-2221 pattern.*
