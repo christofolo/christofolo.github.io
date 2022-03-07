@@ -158,7 +158,7 @@ Here are the 2 rules for building a Major Scale.
 1. It must follow the 221-2221 pattern.
 2. It must represent each letter of the musical alphabet in its circular order.
 
-
+Here is a diagram that shows both F♮ and F♯ in context. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png?abc){: .mx-auto.d-block :}
 *F♮ is the 13th fret. F♯ is the 14th fret. You must use F♯ in the G Major Scale because it will fit in the 221-2221 pattern.*
