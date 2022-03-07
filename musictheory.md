@@ -204,13 +204,9 @@ Practice Exercises:
 
 ## All 12 Notes and Their Names
 
-Here are all the notes:
+You can see all 12 notes on the A string. These 12 notes are also on every other string as well. It's just easy to show on one string and not overload you with information.
 
-| Diatonic Scale Degree | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
-|                       | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|    Chromatic Scale    | A  | A♯/B♭ | B  | C  | C♯/D♭ | D  | D♯/E♭ | E  | F  | F♯/G♭ | G  | G♯/A♭ | A  |
-|                       | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-|      Half Steps       | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
+![ ]({{ site.baseurl }}/images/chromatic scale.png){: .mx-auto.d-block :}
 
 __Remember:__ There is a half-step between ALL notes. However, the only two natural note pairs that are a half-step apart are E to F and B to C. You'll also notice that the 5th fret of the low E string is an A, which is the same pitch as the open A string.
 
