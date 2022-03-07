@@ -124,13 +124,19 @@ Practice Exercises:
 7. The 19th fret is B♮ or just "B" for short.
 8. The 20th fret is C again. (Note: 8th fret + 12 frets = 20th fret)
 
-You'll notice that the scale will contain each letter name and loop back to A after the G. 
+You'll notice that the scale will contain each letter name and loop back to A after you reach G. 
 
 ![ ]({{ site.baseurl }}/images/c-major-scale-rainbow.png?abc){: .mx-auto.d-block :}
 
 Why are E and F right next to each other? And why are B and C right next to each other?
 
-It's because of the Major Scale formula. Remember 221-2221? Let me show you on the fretboard again:
+It's because of 3 things:
+
+ - the Major Scale formula
+ - The fact that we only use 7 notes
+ - The fact that we don't skip any letters
+ 
+ If you put C on the 8th fret (see below), and if the next 6 letters in the scale are D, E, F, G, A, B, then you MUST put F right next to E and you MUST put C right next to B. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png?abc){: .mx-auto.d-block :}
 *This is the C Major Scale without labeling the note names*
