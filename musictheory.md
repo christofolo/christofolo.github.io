@@ -92,19 +92,20 @@ Here's how to create the "palette" (the Major Scale) on the guitar:
 8. Move __1__ fret and play the 20th fret to complete the scale. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png?abc){: .mx-auto.d-block :}
-*Sing or hum the pitches as you play them. If you sing, then say the solfege syllables. 8th fret ("Do"), 10th fret ("Re"), and so on... Sing "Do" for the 1st note and the last note because they are 12 frets apart.*
+*There are 7 notes. Remember that the two pitches that are 12 frets apart get the same name.*
 
 You can use the formula anywhere on the guitar. Let's choose the 3rd fret of the low E string as our starting point.
 
 ![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png?abc){: .mx-auto.d-block :}
 *Sing or hum the pitches as you play them. 3rd fret ("Do"), 5th fret ("Re"), and so on...*
 
-Definitions to learn: the first note in a scale is called the Tonic. 
-
-Here is a visual representation of a Major Scale using "scale degrees". As you can see, it follows the 221-2221 pattern. 
+Remember that the note at the 3rd fret is the same note as the 15th fret, just at an octave higher. So if you count the notes that result from the Major Scale pattern, then you will find it creates a "palette" of 7 notes.
 
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?abc?2272022){: .mx-auto.d-block :}
 *There are only 7 notes. The last note is "1" again but at the higher "octave".*
+
+__This is why there are 7 principle note names: A, B, C, D, E, F, G!__
+
 
 Practice Exercises:
 
