@@ -41,9 +41,13 @@ Because of the phenomenon, consonance, there are only 12 note names. That means 
 
 Try this on the guitar. Play the low E string. Then play each fret until you get to the 12th fret. Can you guess what the 12th fret will sound like?
 
-![ ]({{ site.baseurl }}/images/e-to-e.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/e-to-e.png?123abc){: .mx-auto.d-block :}
 
-The note at the 12th fret of the E string is also called "E" because it is in perfect consonance with the pitch at the open string—the low E.
+The note at the 12th fret should sound "like" the open string but just higher. The note at the 12th fret of the E string is also called "E" because it is in perfect consonance with the pitch at the open string—the low E.
+
+Try it with every other string too. The 12th fret of the A string is also an "A".
+
+![ ]({{ site.baseurl }}/images/eadgbe.png){: .mx-auto.d-block :}
 
 However, some of the colors in music can be called chords. Artists also mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. The general term for this is "harmony" (at least 2 notes played at the same time). Chords are the most common type of harmony. Generally chords are a minimum of 3 notes played at the same time.
 
