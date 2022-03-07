@@ -18,13 +18,13 @@ Sometimes, it can be useful to compare music to art. Painters can use just a few
 ![ ]({{ site.baseurl }}/images/palette-painting.png?abc){: .mx-auto.d-block :}
 *A palette of a few simple colors results in a more complex creation.*
 
-Why is the color "orange" called orange? We've given that color that name. In music, we've also haven given all the pitches names as well. A "pitch" or sound is what we hear when we play the guitar, or sing a melody, or beat a drum. Pitches can be low (dark). Or they can be high (bright).
+Why is the color "orange" called orange? We've given that color that name. In music, we've also haven given all the pitches names as well. A "pitch" or sound is what we hear when we play the guitar, or sing a melody, or beat a drum. Pitches can be low (dark). Or they can be high (bright). In music, a "note" is a named pitch. When you play just one string on the guitar, you are playing a single note. 
 
-However, in art, it's perfectly acceptable to consider "dark red" and "light red" both "red". They are just different shades of the same color.
+In art, it's perfectly acceptable to consider "dark red" and "light red" both "red". They are just different shades of the same color.
 
 ![ ]({{ site.baseurl }}/images/red.png){: .mx-auto.d-block :}
 
-The same thing happens in music. By now, you may have learned the names of the strings. E, A, D, G, B, and E. Why are two strings called "E" when they're obviously created different pitches? One is really low. The other is really high.
+The same thing happens in music. By now, you may have learned the names of the strings. E, A, D, G, B, and E. Why are two strings called "E" when they're obviously making different pitches? One is really low. The other is really high.
 
 ![ ]({{ site.baseurl }}/images/e-e-fretboard.png?abc){: .mx-auto.d-block :}
 *When you tune your guitar, both of these strings will be an "E". The thinner E string is a higher pitched E. Whereas, the thicker E string is a lower pitched E. They're both named E.*
@@ -33,13 +33,15 @@ When you play both of these strings, you'll noticed an interesting phenomenon th
 
 Consonance is the impression of __stability__ and repose while __dissonance__ is the impression of tension or clash as experienced by a listener when certain combinations of tones or notes are sounded together. Playing your two E strings on the guitar should create a consonant sound (stable). If they don't, it's most likeley that your guitar is not in tune.
 
+The low E is like a dark red. The high E is like a light red.
 
+## Part 2: Every 12 notes, the note name repeats.
 
-Some of the colors in music can be called notes. Notes are named pitches. Pitches can be high (bright). Or pitches can be low (dark). In art, dark red and light red are both red, just different shades.
+Because of the phenomenon, consonance, there are only 12 note names. That means every 12 notes, the name of the note repeats.
 
-"Melody" is like making art without mixing the paints. In music, the melody is made up of notes played or sung in an order that the musican feels "paints" a pleasing picture. When you sing along with a song, you're singing the melody.
+Try this on the guitar. Play the low E string. Then play each fret until you get to the 12th fret. Can you guess what the 12th fret will sound like?
 
-Give it a try on your guitar: play one note at a time on your high E string (the string closest to your toes). You can start on the open string, then play up the fretboard on each fret (as high as you'd like!) and then come back down and finish on the open high E string. This is technically a melody but not that interesting.
+![ ]({{ site.baseurl }}/images/e-to-e.png){: .mx-auto.d-block :}
 
 However, some of the colors in music can be called chords. Artists also mix paints to create new colors. Musicians can do the same thing by playing multiple notes at the same time. The general term for this is "harmony" (at least 2 notes played at the same time). Chords are the most common type of harmony. Generally chords are a minimum of 3 notes played at the same time.
 
