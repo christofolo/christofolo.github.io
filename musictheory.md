@@ -114,6 +114,14 @@ Practice Exercises:
 
 ## Part 3: The First Major Scale to learn is The C Major Scale
 
+If "A" is the first note in the alphabet, shouldn't the first major scale be the A Major Scale? There's a long history as to why C is actually the first note that we create a Major scale from. It's kind of like asking "why is the color 'red' called 'red' at all?" 
+
+So let's take this diagram:
+
+![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png?abc){: .mx-auto.d-block :}
+
+And label each note with its correct name:
+
 ![ ]({{ site.baseurl }}/images/fretboard-c-major.png?abc){: .mx-auto.d-block :}
 
 1. The 8th fret of the low E string is the note C. It's full legal name is C♮ (pronounced "C Natural"). However, if you say just "C", then all musicians understand that the "natural" part is implied.
