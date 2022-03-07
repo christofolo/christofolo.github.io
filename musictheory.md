@@ -6,17 +6,34 @@ subtitle: The basic knowledge of how music works
 
 ## Intro: You shouldn't JUST "play by ear". You need some music theory (ie. knowledge)
 
-Basic music theory is not complicated. Most music teachers struggle in getting their guitar students to understand it, however. Once you understand the fundamental patterns, everything will make sense because everything in music is connected. I will do my best to break down each concept into individual bite-sized pieces. 
+Basic music theory is not complicated but most music teachers struggle in getting their guitar students to understand it. I will do my best to break down each concept into individual bite-sized pieces. 
 
 It may seem like I explain things a little differently than other teachers. That's because I teach a class of 14-year old student guitarists each fall. If they can understand theory, I know for a fact that you can too.
 
 
-## Part 1: Musical notes are kind of like colors
+## Part 1: Musical notes are kind of like colors. Some colors go well with other colors. Some clash.
 
 Sometimes, it can be useful to compare music to art. Painters can use just a few colors to make a beautiful painting. 
 
 ![ ]({{ site.baseurl }}/images/palette-painting.png?abc){: .mx-auto.d-block :}
 *A palette of a few simple colors results in a more complex creation.*
+
+Why is the color "orange" called orange? We've given that color that name. In music, we've also haven given all the pitches names as well. A "pitch" or sound is what we hear when we play the guitar, or sing a melody, or beat a drum. Pitches can be low (dark). Or they can be high (bright).
+
+However, in art, it's perfectly acceptable to consider "dark red" and "light red" both "red". They are just different shades of the same color.
+
+![ ]({{ site.baseurl }}/images/red.png){: .mx-auto.d-block :}
+
+The same thing happens in music. By now, you may have learned the names of the strings. E, A, D, G, B, and E. Why are two strings called "E" when they're obviously created different pitches? One is really low. The other is really high.
+
+![ ]({{ site.baseurl }}/images/e-e-fretboard.png?abc){: .mx-auto.d-block :}
+*When you tune your guitar, both of these strings will be an "E". The thinner E string is a higher pitched E. Whereas, the thicker E string is a lower pitched E. They're both named E.*
+
+When you play both of these strings, you'll noticed an interesting phenomenon that happens in music: consonance.
+
+Consonance is the impression of __stability__ and repose while __dissonance__ is the impression of tension or clash as experienced by a listener when certain combinations of tones or notes are sounded together. Playing your two E strings on the guitar should create a consonant sound (stable). If they don't, it's most likeley that your guitar is not in tune.
+
+
 
 Some of the colors in music can be called notes. Notes are named pitches. Pitches can be high (bright). Or pitches can be low (dark). In art, dark red and light red are both red, just different shades.
 
@@ -210,17 +227,13 @@ You can see all 12 notes on the A string. These 12 notes are also on every other
 
 __Remember:__ There is a half-step between ALL notes. However, the only two natural note pairs that are a half-step apart are E to F and B to C. You'll also notice that the 5th fret of the low E string is an A, which is the same pitch as the open A string.
 
-## Part 7: All 12 Major Scales
-
-![ ]({{ site.baseurl }}/images/c-major-scale-with-chromatic.png){: .mx-auto.d-block :}
-
-
-
-## Part 8: Whole Steps and Half Steps
+## Part 7: Whole Steps and Half Steps
 
 The 221-2221 formula describes how big of a step you move from one note to the next. A half step is the smallest step that you can take. You only move 1 fret with a half-step. A whole step is 2 half-steps. 
 
 The 221-2221 formula can also be called WWH-WWWH. W represents a whole step. H represents a half step.
+
+![ ]({{ site.baseurl }}/images/c-major-scale-with-chromatic.png){: .mx-auto.d-block :}
 
 Practice Exercises:
 
