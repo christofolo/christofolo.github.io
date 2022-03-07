@@ -223,7 +223,7 @@ Practice Exercises:
 
 The Minor Scale Formula is 212-2122. Or WHW-WHWW (W = whole step and H = half step)
 
-![ ]({{ site.baseurl }}/images/fretboard-a-minor.png?abc){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/a-minor-scale.png){: .mx-auto.d-block :}
 
 1. The open string "A" is our first note (the Tonic).
 2. Move __2__. The 2nd fret of the A string is B. 
