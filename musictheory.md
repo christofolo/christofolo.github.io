@@ -422,8 +422,10 @@ B-D is a Minor third. D-F is a Minor third.
 
 ## Part 13: Numbering Each Chord - The Nashville Numbering System
 
-| 5 | G | A  | B   | C  | D | E  | F   | 
-| 3 | E | F  | G   | A  | B | C  | D   |
-| R | C | D  | E   | F  | G | A  | B   |
-| - | I | ii | iii | IV | V | vi | vii |
+We use Roman Numerals to number each chord so that we don't get confused with the chord tone numbers. R = root (or just 1). A big Roman Numeral means that it is a Major chord. A small roman number means that it is a Minor chord. The vii is Minor but a diminished chord.
+
+| 5 | G | A  | B   | C  | D | E  | F    | 
+| 3 | E | F  | G   | A  | B | C  | D    |
+| R | C | D  | E   | F  | G | A  | B    |
+| - | I | ii | iii | IV | V | vi | vii° |
 
