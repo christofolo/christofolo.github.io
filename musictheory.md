@@ -362,5 +362,10 @@ As visualized on the guitar:
 
 Definition to know: the "root" is the base note in the harmony. In the examples above, G is the "root" and B or B♭ is the "third".
 
-## Part 13: Major Triads vs. Minor Triads (3 Note Chords)
+## Part 11: Major Triads vs. Minor Triads (3 Note Chords)
 
+A triad is 2 thirds put together. For example, C - E - G is called the C Major triad. The root note is C. The C-E third is a Major third. The E-G third is a Minor Third. It is called a Major Triad because the 1st Third is Major (C-E).
+
+D - F - A is called the D Minor triad because the 1st Third is Minor (D-F). The 2nd Third is Major (F-A).
+
+Triads contain both a Major Third and a Minor Third. However, Major triads will have the Major Third come first. In Minor triads, it is the opposite.
