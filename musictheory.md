@@ -288,26 +288,77 @@ Practice Exercises:
 
 ## Part 10: Exploring Thirds in the C Major Scale
 
-We've learned that scales can be Major or Minor. So can intervals. In the example, above I said that "B" is a third above G. But more accurately I should have said B♮ is a Major 3rd from G. There is another note with "B" in its name: B♭. It also is a 3rd above G but you only need to traverse 3 half-steps to get to B♭. Look at the G string on the fret board. B♮ is on the 4th fret. B♭ is on the 3rd fret.
+A Major 3rd is a root tone and a tone __4__ half steps higher. A Minor 3rd is a root tone and a tone __3__ half steps higher. Both Third intervals will span 3 note names (like C to E).
 
+With C as the root, C to E is a Major Third:
 
 | 0  | 1  | 2  | 3  | 4  |
 | -- | -- | -- | -- | -- |
-| G  | A♭ | A  | B♭ | B♮ |
+| C  | D♭ | D  | E♭ | E  |
 
-| 1 | 2 | 3 |
-| - | - | - |
-| G | A | B |
+As visualized on the guitar (C Major Scale on the A string starting on the 3rd fret):
 
-Major Third = Spans 3 notes and traverses 4 half-steps.
-Minor Third = Spans 3 notes and traverses 3 half-steps.
+![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
 
-G to B is a Major Third because the interval spans 3 note names and is 4 half-steps apart.
-G to B♭ is a Minor Third because the interval spans 3 notes names is 3 half-steps apart.
+With D as the root, D to F is a Minor Third:
 
-Play a G major barre chord. Your 2nd finger plays the B. Take your 2nd finger off to play the G Minor barre chord. Now, your barred finger is playing the B♭ on the 3rd fret.
+| 0  | 1  | 2  | 3  |
+| -- | -- | -- | -- |
+| D  | E♭ | E  | F  |
 
-Definition to know: a dyad is a harmony composed of just two notes.
+As visualized on the guitar:
+
+![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+
+With E as the root, E to G is a Minor Third:
+
+| 0  | 1  | 2  | 3  |
+| -- | -- | -- | -- |
+| E  | F  | G♭ | G  |
+
+As visualized on the guitar:
+
+![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+
+With F as the root, F to A is a Major Third:
+
+| 0  | 1  | 2  | 3  | 4  |
+| -- | -- | -- | -- | -- |
+| F  | G♭ | G  | G♭ | A  |
+
+As visualized on the guitar:
+
+![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+
+With G as the root, G to B is a Major Third:
+
+| 0  | 1  | 2  | 3  | 4  |
+| -- | -- | -- | -- | -- |
+| G  | A♭ | A  | B♭ | B  |
+
+As visualized on the guitar:
+
+![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+
+With A as the root, A to C is a Minor Third:
+
+| 0  | 1  | 2  | 3  |
+| -- | -- | -- | -- |
+| A  | B♭ | B  | C  |
+
+As visualized on the guitar:
+
+![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+
+With B as the root, B to D is a Minor Third:
+
+| 0  | 1  | 2  | 3  |
+| -- | -- | -- | -- |
+| B  | C  | D♭ | D  |
+
+As visualized on the guitar:
+
+![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
 
 Definition to know: the "root" is the base note in the harmony. In the examples above, G is the "root" and B or B♭ is the "third".
 
