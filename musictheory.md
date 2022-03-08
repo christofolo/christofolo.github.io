@@ -286,7 +286,7 @@ Practice Exercises:
 1. Play the A minor scale on the open A string and say each note.
 2. Play the A Major scale on the open A string and say each note.
 
-## Part 7: Playing the C Major Scale on the A String
+## Part 10: Playing the C Major Scale on the A String
 
 Did you notice that the A Minor scale shares many of the same notes of the C Major scale. Once you get to the 3rd note of the A Minor scale (C), the next 5 notes make up much of the C Major Scale (C, D, E, F, G). That means we can play the C Major Scale on the A string if we just continue farther up the fretboard like so:
 
@@ -314,7 +314,7 @@ Or you can play it on both the E string and the A string like this:
 7. Move __a whole step__, play B.
 8. Move __a half step__, play C again.
 
-## Part 8: The Two Ways to Count In Music Theory
+## Part 11: The Two Ways to Count In Music Theory
 
 Up until this point, we have been counting like a Computer Scientist—by starting from 0. When you use the Major Scale formula, the first note starts at position "0". Then you start counting the frets or half-steps from there. 
 
@@ -356,7 +356,7 @@ What is the 3rd note above G? It is B because G is 1 in this example.
 
 B is a third above G.
 
-## Part 9: Major Thirds vs. Minor Thirds (Dyads)
+## Part 12: Major Thirds vs. Minor Thirds (Dyads)
 
 We've learned that scales can be Major or Minor. So can intervals. In the example, above I said that "B" is a third above G. But more accurately I should have said B♮ is a Major 3rd from G. There is another note with "B" in its name: B♭. It also is a 3rd above G but you only need to traverse 3 half-steps to get to B♭. Look at the G string on the fret board. B♮ is on the 4th fret. B♭ is on the 3rd fret.
 
@@ -381,5 +381,5 @@ Definition to know: a dyad is a harmony composed of just two notes.
 
 Definition to know: the "root" is the base note in the harmony. In the examples above, G is the "root" and B or B♭ is the "third".
 
-## Part 9: Major Triads vs. Minor Triads (3 Note Chords)
+## Part 13: Major Triads vs. Minor Triads (3 Note Chords)
 
