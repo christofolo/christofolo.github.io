@@ -114,7 +114,9 @@ Practice Exercises:
 
 ## Part 3: The First Major Scale to learn is The C Major Scale
 
-If "A" is the first note in the alphabet, shouldn't the first major scale be the A Major Scale? There's a long history as to why C is actually the first note that we create a Major scale from. It's kind of like asking "why is the color 'red' called 'red' at all?" 
+If "A" is the first note in the alphabet, shouldn't the first major scale be the A Major Scale? There's a long history as to why C is actually the first note that we create a Major scale from. It's kind of like asking "why is the color 'red' called 'red' at all?" Maybe in another universe the color red is actually called "Der". And maybe the 8th fret of the low E string is an "A". 
+
+But that's not the case in this universe. The 8th fret of the low E string is a "C". And we MUST follow the Major Scale formula to find what the other notes are.
 
 So let's take this diagram:
 
