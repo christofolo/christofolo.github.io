@@ -59,7 +59,7 @@ Here is a video of a droning A note. Here's a challenge for you. Without knowing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpQ6c0NotCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-There are still several note names for you to learn. However, we need to next discuss The Major Scale first. We need to understand that we organize 7 notes in a certain pattern. This pattern helps us understand why notes are called in the way they are.
+There are still several note names for you to learn. However, we need to next discuss The Major Scale first. 
 
 Practice Exercises:
 
