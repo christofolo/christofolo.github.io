@@ -261,19 +261,23 @@ Why is it called minor? To see why it's called minor, we need to compare it to t
 | Scale Degree:  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | -------------- | -- | -- | -- | -- | -- | -- | -- | -- |
 | A Major Scale  | A  | B  | C♯ | D  | E  | F♯ | G♯ | A  |
-| Fret:          | 0  | 2  | 4  | 5  | 7  | 9  | 11 | 12 |
+| Fret Number:   | 0  | 2  | 4  | 5  | 7  | 9  | 11 | 12 |
 | -------------- | -- | -- | -- | -- | -- | -- | -- | -- |
 | A Minor Scale  | A  | B  | C  | D  | E  | F  | G  | A  |
-| Fret:          | 0  | 2  | 3  | 5  | 7  | 8  | 10 | 12 |
+| Fret Number:   | 0  | 2  | 3  | 5  | 7  | 8  | 10 | 12 |
 
 
-The distance from the 1st note to the 3rd note is only 3 frets (half-steps) apart in a Minor scale. 
+The distance from the 1st note to the 3rd note is only 3 frets (half steps) apart in a Minor scale. 
 
-The distance from the 1st note to the 3rd note is larger. It is 4 frets (half-steps) in a Major scale.
+The distance from the 1st note to the 3rd note is larger. It is 4 frets (half steps) apart in a Major scale.
 
-In music, the distance between two notes is called an interval. The interval that spans 3 notes is called a "Third". And if it only takes 3 half-steps to traverse from the first note to the next, then it is minor. If it takes 4 half-steps to traverse from the first note to the next, then it is a major third.
+In music, the distance between two notes is called an interval. The interval that spans 3 notes is called a "Third". For example, A to C♯ is a "Third" and A to C is also a "Third". Both thirds span 3 note names (A, B, and C).
 
-Think of constellations to understand Major vs Minor. The Big Dipper is called Ursa Major because it's bigger. The Little Dipper is called Ursa Minor because it's smaller. Major Scales are major because the interval between the 1st and 3rd notes is "big". Whereas the interval between the 1st and 3rd notes in a minor scale is "small".
+However, if it only takes 3 half steps to traverse from the first note (the root note) to the next, then it is considered a minor third. If it takes 4 half steps to traverse from the first note (the root note) to the next, then it is considered a major third.
+
+As you can see above, the interval from A to C♯ is 4 half steps, thus Major. And the interval from A to C is just 3 half steps, thus Minor.
+
+Think of constellations to understand Major vs Minor. The Big Dipper is called Ursa Major because it's bigger. The Little Dipper is called Ursa Minor because it's smaller. Major Scales are major because the interval between the 1st and 3rd notes is "big" (a Major Third). Whereas the interval between the 1st and 3rd notes in a minor scale is "small" (a Minor Third).
 
 Practice Exercises:
 
