@@ -263,10 +263,10 @@ Why is it called minor? To see why it's called minor, we need to compare it to t
 | Scale Degree:  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | -------------- | -- | -- | -- | -- | -- | -- | -- | -- |
 | A Major Scale  | A  | B  | C♯ | D  | E  | F♯ | G♯ | A  |
-| Fret Number:   | 0  | 2  | 4  | 5  | 7  | 9  | 11 | 12 |
+| Fret Number:   | 0  | 2  | __4__  | 5  | 7  | 9  | 11 | 12 |
 | -------------- | -- | -- | -- | -- | -- | -- | -- | -- |
 | A Minor Scale  | A  | B  | C  | D  | E  | F  | G  | A  |
-| Fret Number:   | 0  | 2  | 3  | 5  | 7  | 8  | 10 | 12 |
+| Fret Number:   | 0  | 2  | __3__  | 5  | 7  | 8  | 10 | 12 |
 
 
 The distance from the 1st note to the 3rd note is only 3 frets (half steps) apart in a Minor scale. 
