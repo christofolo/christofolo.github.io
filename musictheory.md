@@ -364,8 +364,66 @@ Definition to know: the "root" is the base note in the harmony. In the examples 
 
 ## Part 11: Major Triads vs. Minor Triads (3 Note Chords)
 
-A triad is 2 thirds put together. For example, C - E - G is called the C Major triad. The root note is C. The C-E third is a Major third. The E-G third is a Minor Third. It is called a Major Triad because the 1st Third is Major (C-E).
+Triad is the most common type of "chord". "Tri" in triad means three. A triad is 2 third intervals put together. For example, C - E - G is called the C Major triad. The root note is C. The C-E third is a Major third. The E-G third is a Minor Third. It is called a Major Triad because the 1st Third is Major (C-E).
 
 D - F - A is called the D Minor triad because the 1st Third is Minor (D-F). The 2nd Third is Major (F-A).
 
 Triads contain both a Major Third and a Minor Third. However, Major triads will have the Major Third come first. In Minor triads, it is the opposite.
+
+An easy way to build all the traids from a scale is to skip every note. C-E-G...D-F-A...and so on.
+
+In root position, the C Major Triad is composed of 3 notes:
+
+| Interval Name:  | Root | 3rd | 5th |
+| --------------- | ---- | --- | --- |
+| Chord Tones:    | C    | E   | G   |
+
+In root position, the D Minor Triad is composed of 3 notes:
+
+| Interval Name:  | Root | 3rd | 5th |
+| --------------- | ---- | --- | --- |
+| Chord Tones:    | D    | F   | A   |
+
+In root position, the E Minor Triad is composed of 3 notes:
+
+| Interval Name:  | Root | 3rd | 5th |
+| --------------- | ---- | --- | --- |
+| Chord Tones:    | E    | G   | B   |
+
+In root position, the F Major Triad is composed of 3 notes:
+
+| Interval Name:  | Root | 3rd | 5th |
+| --------------- | ---- | --- | --- |
+| Chord Tones:    | F    | A   | C   |
+
+In root position, the G Major Triad is composed of 3 notes:
+
+| Interval Name:  | Root | 3rd | 5th |
+| --------------- | ---- | --- | --- |
+| Chord Tones:    | G    | B   | D   |
+
+In root position, the A Minor Triad is composed of 3 notes:
+
+| Interval Name:  | Root | 3rd | 5th |
+| --------------- | ---- | --- | --- |
+| Chord Tones:    | A    | C   | E   |
+
+## Part 12: The Diminished Triad
+
+Major and Minor triads are each composed of a Major third and a Minor third. However, what if you were to create a chord that is composed of two minor thirds? This triad is called a Diminished triad and it happens naturally in every Major scale.
+
+In root position, the B Diminished Triad is composed of 3 notes:
+
+| Interval Name:  | Root | 3rd | 5th |
+| --------------- | ---- | --- | --- |
+| Chord Tones:    | B    | D   | F   |
+
+B-D is a Minor third. D-F is a Minor third.
+
+## Part 13: Numbering Each Chord - The Nashville Numbering System
+
+| 5 | G | A  | B   | C  | D | E  | F   | 
+| 3 | E | F  | G   | A  | B | C  | D   |
+| R | C | D  | E   | F  | G | A  | B   |
+| - | I | ii | iii | IV | V | vi | vii |
+
