@@ -258,6 +258,15 @@ Why is it called minor? To see why it's called minor, we need to compare it to t
 7. Move 2. The 11th fret is G♯.
 8. Move 1. The 12th fret is A again.
 
+| Scale Degree:  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
+| -------------- | -- | -- | -- | -- | -- | -- | -- | -- |
+| A Major Scale  | A  | B  | C♯ | D  | E  | F♯ | G♯ | A  |
+| Fret:          | 0  | 2  | 4  | 5  | 7  | 9  | 11 | 12 |
+| -------------- | -- | -- | -- | -- | -- | -- | -- | -- |
+| A Minor Scale  | A  | B  | C  | D  | E  | F  | G  | A  |
+| Fret:          | 0  | 2  | 3  | 5  | 7  | 8  | 10 | 12 |
+
+
 The distance from the 1st note to the 3rd note is only 3 frets (half-steps) apart in a Minor scale. 
 
 The distance from the 1st note to the 3rd note is larger. It is 4 frets (half-steps) in a Major scale.
