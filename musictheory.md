@@ -308,7 +308,7 @@ With D as the root, D to F is a Minor Third:
 
 As visualized on the guitar:
 
-![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/d-to-f-3rd.png){: .mx-auto.d-block :}
 
 With E as the root, E to G is a Minor Third:
 
@@ -318,7 +318,7 @@ With E as the root, E to G is a Minor Third:
 
 As visualized on the guitar:
 
-![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/e-to-g-3rd.png){: .mx-auto.d-block :}
 
 With F as the root, F to A is a Major Third:
 
@@ -328,7 +328,7 @@ With F as the root, F to A is a Major Third:
 
 As visualized on the guitar:
 
-![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/f-to-a-3rd.png){: .mx-auto.d-block :}
 
 With G as the root, G to B is a Major Third:
 
@@ -338,7 +338,7 @@ With G as the root, G to B is a Major Third:
 
 As visualized on the guitar:
 
-![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/g-to-b-3rd.png){: .mx-auto.d-block :}
 
 With A as the root, A to C is a Minor Third:
 
@@ -348,7 +348,7 @@ With A as the root, A to C is a Minor Third:
 
 As visualized on the guitar:
 
-![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/a-to-c-3rd.png){: .mx-auto.d-block :}
 
 With B as the root, B to D is a Minor Third:
 
@@ -358,7 +358,7 @@ With B as the root, B to D is a Minor Third:
 
 As visualized on the guitar:
 
-![ ]({{ site.baseurl }}/images/c-to-e-3rd.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/b-to-d-3rd.png){: .mx-auto.d-block :}
 
 Definition to know: the "root" is the base note in the harmony. In the examples above, G is the "root" and B or B♭ is the "third".
 
