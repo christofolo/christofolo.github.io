@@ -205,15 +205,26 @@ You can see all 12 notes on the A string. These 12 notes are also on every other
 
 ![ ]({{ site.baseurl }}/images/chromatic scale.png){: .mx-auto.d-block :}
 
-__Remember:__ There is a half-step between ALL notes. However, the only two natural note pairs that are a half-step apart are E to F and B to C. You'll also notice that the 5th fret of the low E string is an A, which is the same pitch as the open A string.
+__Remember:__ There is a half-step between ALL notes. However, the only two natural note pairs that are a half-step apart are E to F and B to C.
 
 ## Part 7: Whole Steps and Half Steps
 
 The 221-2221 formula describes how big of a step you move from one note to the next. A half step is the smallest step that you can take. You only move 1 fret with a half-step. A whole step is 2 half-steps. 
 
-The 221-2221 formula can also be called WWH-WWWH. W represents a whole step. H represents a half step.
+The 221-2221 formula can also be called WWH-WWWH. "W" represents a whole step (moving 2 frets). "H" represents a half step (moving just 1 fret).
 
 ![ ]({{ site.baseurl }}/images/c-major-scale-with-chromatic.png){: .mx-auto.d-block :}
+
+1. We have chosen "C" to be our tonic.
+2. Move a __whole step__ (2 half steps), the next note in the scale is D. 
+3. Move a __whole step__ (2 half steps), the next note in the scale is E.
+4. Move a __half step__, the next note in the scale is F.
+5. Move a __whole step__ (2 half steps), the next note in the scale is G.
+6. Move a __whole step__ (2 half steps), the next note in the scale is A.
+7. Move a __whole step__ (2 half steps), the next note in the scale is B.
+8. Move a __half step__, the final note in the scale is C again.
+
+Because there are so many W's, I like to separate it like this WWH - W - WWH. There are 2 "WWH" pieces and they are "attached" with a "W" piece. Or you can just continue using the 221-2221 formula.
 
 Practice Exercises:
 
