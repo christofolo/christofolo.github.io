@@ -273,7 +273,7 @@ The distance from the 1st note to the 3rd note is only 3 frets (half steps) apar
 
 The distance from the 1st note to the 3rd note is larger. It is 4 frets (half steps) apart in a Major scale.
 
-In music, the distance between two notes is called an interval. The interval that spans 3 notes is called a "Third". For example, A to C♯ is a "Third" and A to C is also a "Third". Both thirds span 3 note names (A, B, and C).
+In music, the distance between two notes is called an __interval__. The interval that spans 3 notes is called a "Third". For example, A to C♯ is a "Third" and A to C is also a "Third". Both thirds span 3 note names (A, B, and C).
 
 However, if it only takes 3 half steps to traverse from the first note (the root note) to the next, then it is considered a minor third. If it takes 4 half steps to traverse from the first note (the root note) to the next, then it is considered a major third.
 
@@ -286,101 +286,7 @@ Practice Exercises:
 1. Play the A minor scale on the open A string and say each note.
 2. Play the A Major scale on the open A string and say each note.
 
-## Part 10: Playing the C Major Scale on the A String
-
-Did you notice that the A Minor scale shares many of the same notes of the C Major scale. Once you get to the 3rd note of the A Minor scale (C), the next 5 notes make up much of the C Major Scale (C, D, E, F, G). That means we can play the C Major Scale on the A string if we just continue farther up the fretboard like so:
-
-![ ]({{ site.baseurl }}/images/c-major-scale-on-a-string.png?abc){: .mx-auto.d-block :}
-
-1. Play "C" on the 3rd fret of the A string.
-2. Move __2__ frets, play D. 
-3. Move __2__ frets, play E.
-4. Move __1__ fret, play F.
-5. Move __2__ frets, play G.
-6. Move __2__ frets, play A (the 12th fret of the A string).
-7. Move __2__ frets, play B.
-8. Move __1__ fret, play C again.
-
-Or you can play it on both the E string and the A string like this:
-
-![ ]({{ site.baseurl }}/images/c-major-scale-on-e-and-a-strings.png?abc){: .mx-auto.d-block :}
-
-1. Play "C" on the 8th fret of the E string.
-2. Move __a whole step__, play D. 
-3. Move __a whole step__, play E.
-4. Move __a half step__, play F on the 8th fret of the A string.
-5. Move __a whole step__, play G.
-6. Move __a whole step__, play A (the 12th fret of the A string).
-7. Move __a whole step__, play B.
-8. Move __a half step__, play C again.
-
-## Part 11: The Two Ways to Count In Music Theory
-
-Up until this point, we have been counting like a Computer Scientist—by starting from 0. When you use the Major Scale formula, the first note starts at position "0". Then you start counting the frets or half-steps from there. 
-
-It's kind of like playing a board game. When you roll the dice, you start moving that amount of spaces starting on the next space.
-
-Here are all the notes from C to C. 
-
-| 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| C  | C♯ | D  | D♯ | E  | F  | F♯ | G  | G♯ | A  | A♯ | B  | C  |
-
-How many half steps is C to E? It's easy to see because they are labled. The answer is 4. 
-
-However, how many half steps is D to F? Take a moment to count...
-
-Three. Start on D. D♯ is 1 away. E is 2 away. F is 3.
-
-How many half steps is E to G?
-
-Three.
-
-How many half steps is F to A?
-
-Four.
-
-How many half steps is G to B?
-
-Four.
-
-How many half steps is A to C?
-
-Three.
-
-How many half steps is B to D?
-
-Three.
-
-
-
-Let's do the same exercise but use Flats instead of Sharps.
-
-| 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| E  | F  | G♭ | G  | A♭ | A  | B♭ | B  | C  | D♭ | D  | E♭ | E  |
-
-How many half-steps is C from F? 
-
-The answer is 7.
-
-When counting notes, always start from 1. For example, what is the 5th note above A? It is E because you start counting on 1 and A is 1 (in this example).
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| - | - | - | - | - | - | - | - |
-| A | B | C | D | E | F | G | A |
-
-In music, we say "E is a 5th above A."
-
-What is the 3rd note above G? It is B because G is 1 in this example.
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| - | - | - | - | - | - | - | - |
-| G | A | B | C | D | E | F | G |
-
-B is a third above G.
-
-## Part 12: Major Thirds vs. Minor Thirds (Dyads)
+## Part 10: Exploring Thirds in the C Major Scale
 
 We've learned that scales can be Major or Minor. So can intervals. In the example, above I said that "B" is a third above G. But more accurately I should have said B♮ is a Major 3rd from G. There is another note with "B" in its name: B♭. It also is a 3rd above G but you only need to traverse 3 half-steps to get to B♭. Look at the G string on the fret board. B♮ is on the 4th fret. B♭ is on the 3rd fret.
 
