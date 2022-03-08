@@ -318,17 +318,41 @@ Or you can play it on both the E string and the A string like this:
 
 Up until this point, we have been counting like a Computer Scientist—by starting from 0. When you use the Major Scale formula, the first note starts at position "0". Then you start counting the frets or half-steps from there. 
 
-Here are all the notes on the low E string up to the 12th fret. 0 is the open E string. 
+It's kind of like playing a board game. When you roll the dice, you start moving that amount of spaces starting on the next space.
+
+Here are all the notes from C to C. 
 
 | 0  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| E  | F  | F♯ | G  | G♯ | A  | A♯ | B  | C  | C♯ | D  | D♯ | E  |
+| C  | C♯ | D  | D♯ | E  | F  | F♯ | G  | G♯ | A  | A♯ | B  | C  |
 
-How many half-steps apart is E from B?
+How many half steps is C to E? It's easy to see because they are labled. The answer is 4. 
 
-The answer is 7. Start from 0, then count. Luckily the fret numbers match the counting system that you should use.
+However, how many half steps is D to F? Take a moment to count...
 
-However, if I were to ask you how many half-steps apart is G from D? You need to pretend that G is at 0. Then continue with 1 on G♯, 2 on A and so on... The answer is 7.
+Three. Start on D. D♯ is 1 away. E is 2 away. F is 3.
+
+How many half steps is E to G?
+
+Three.
+
+How many half steps is F to A?
+
+Four.
+
+How many half steps is G to B?
+
+Four.
+
+How many half steps is A to C?
+
+Three.
+
+How many half steps is B to D?
+
+Three.
+
+
 
 Let's do the same exercise but use Flats instead of Sharps.
 
