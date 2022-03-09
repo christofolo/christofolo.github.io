@@ -418,6 +418,9 @@ In root position, the A Minor Triad is composed of 3 notes:
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | A    | C   | E   |
 
+
+__Important thing to understand:__ Triads contain BOTH Major and Minor third intervals. The thing that distinguishes Major triads from Minor traids is how they are built.
+
 ## Part 12: The Diminished Triad
 
 Major and Minor triads are each composed of a Major third and a Minor third. However, what if you were to create a chord that is composed of two minor thirds? This triad is called a Diminished triad and it happens naturally in every Major scale.
@@ -439,3 +442,4 @@ We use Roman Numerals to number each chord so that we don't get confused with th
 | R | C | D  | E   | F  | G | A  | B    |
 | - | I | ii | iii | IV | V | vi | vii° |
 
+__Important thing to understand:__ A Major key produces chords that are Major, Minor, and diminished. It's called a Major key because the first chord is Major.
