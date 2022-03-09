@@ -6,6 +6,8 @@ subtitle: The basic knowledge of how music works
 
 ## Intro: You shouldn't JUST "play by ear". You need some music theory (ie. knowledge)
 
+__This is a work in progress. Please email me with any questions: chrispaul.ws@gmail.com__
+
 Basic music theory is not complicated but most music teachers struggle in getting their guitar students to understand it. I will do my best to break down each concept into individual bite-sized pieces. 
 
 It may seem like I explain things a little differently than other teachers. That's because I teach a class of 14-year old student guitarists each fall. If they can understand theory, I know for a fact that you can too.
