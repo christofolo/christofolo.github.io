@@ -128,7 +128,7 @@ And label each note with its correct name. Start with C. Go up the alphabet. Onc
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major.png?abc){: .mx-auto.d-block :}
 
-1. The 8th fret of the low E string is the note C. It's full legal name is C♮ (pronounced "C Natural"). However, if you say just "C", then all musicians understand that the "natural" part is implied.
+1. The 8th fret of the low E string is the note C. It's full legal name is __actually__ C♮ (pronounced "C Natural"). However, if you say just "C", then all musicians understand that the "natural" part is implied.
 2. The 10th fret is D♮ or just "D" for short. 
 3. The 12th fret is E♮ or just "E" for short.
 4. The 13th fret is F♮ or just "F" for short.
