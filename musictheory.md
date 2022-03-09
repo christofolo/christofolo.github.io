@@ -157,14 +157,14 @@ So let's use the Major Scale formula and mark each fret without naming it just y
 
 ![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png?abc){: .mx-auto.d-block :}
 
-There is one fret that was not in the C major scale. It is fret 14. Fret 13 is "F♮". Fret 15 is "G♮". So what note is fret 14? It is called F♯ (pronounced "F Sharp").
+Once you reach the 8th fret, you'll notice that it is similar to the C Major Scale. However, it deviates once you get to fret 14. In the C Major Scale, fret 13 is "F♮" and fret 15 is "G♮". So what note is fret 14? It is called F♯ (pronounced "F Sharp").
 
 Here are the 2 rules for building a Major Scale.
 
 1. It must follow the 221-2221 pattern.
 2. It must represent each letter of the musical alphabet in its circular order.
 
-Here is a diagram that shows both F♮ and F♯ in context. 
+Here is a diagram that shows both F♮ and F♯. 
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets-gmajor.png?abc){: .mx-auto.d-block :}
 *F♮ is the 13th fret. F♯ is the 14th fret. You must use F♯ in the G Major Scale because it will fit in the 221-2221 pattern.*
