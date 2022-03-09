@@ -251,6 +251,8 @@ The Minor Scale Formula is 212-2122. Or WHW-WHWW (W = whole step and H = half st
 
 Why is it called minor? To see why it's called minor, we need to compare it to the A Major Scale. You will be able to see the difference when comparing the two.
 
+Let's build the A Major scale:
+
 ![ ]({{ site.baseurl }}/images/a-major-scale-on-fretboard.png){: .mx-auto.d-block :}
 
 1. The open string "A" is our first note (the Tonic).
