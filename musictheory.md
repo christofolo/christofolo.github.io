@@ -283,6 +283,8 @@ However, if it only takes 3 half steps to traverse from the first note (the root
 
 As you can see above, the distance from A to C♯ is 4 half steps, thus Major. And the distance from A to C is just 3 half steps, which is smaller, and thus Minor.
 
+![ ]({{ site.baseurl }}/images/ursa.png){: .mx-auto.d-block :}
+
 Think of constellations to understand Major vs Minor. The Big Dipper is called Ursa Major because it's bigger. The Little Dipper is called Ursa Minor because it's smaller. Major Scales are major because the interval between the 1st and 3rd notes is "big" (a Major Third). Whereas the interval between the 1st and 3rd notes in a minor scale is "small" (a Minor Third).
 
 Practice Exercises:
