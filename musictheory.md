@@ -293,6 +293,8 @@ As you can see above, the distance from A to C♯ is 4 half steps, thus Major. A
 
 Think of constellations to understand Major vs Minor. The Big Dipper is called Ursa Major because it's bigger. The Little Dipper is called Ursa Minor because it's smaller. Major Scales are major because the interval between the 1st and 3rd notes is "big" (a Major Third). Whereas the interval between the 1st and 3rd notes in a minor scale is "small" (a Minor Third).
 
+![ ]({{ site.baseurl }}/images/major-vs-minor-scale-info.png){: .mx-auto.d-block :}
+
 Practice Exercises:
 
 1. Play the A minor scale on the open A string and say each note.
