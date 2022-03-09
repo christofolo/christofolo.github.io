@@ -61,7 +61,9 @@ Here is a video of a droning A note. Here's a challenge for you. Without knowing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpQ6c0NotCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-There are still several note names for you to learn. However, we need to next discuss The Major Scale first. 
+There are still several note names for you to learn. If the note name repeats every 12 frets, that means there are 12 notes in total. 
+
+Before we get into those note names, we need to next discuss The Major Scale first. It will reveal why we only use 7 letters of the alphabet instead of 12.
 
 Practice Exercises:
 
