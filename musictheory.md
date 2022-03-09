@@ -196,7 +196,7 @@ Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E strin
 1. The 1st fret of the low E string is the note F.
 2. Move __2__—The 3rd fret is G. 
 3. Move __2__—The 5th fret is A.
-4. Move __1__—The 6th fret has two names. A♯ or B♭ (pronounced "B Flat"). The scale already has an A (5th fret), so the correct name to use is B♭.
+4. Move __1__—The 6th fret has two names. A♯ or B♭. The scale already has an A (5th fret), so the correct name to use is B♭.
 5. Move __2__—The 8th fret is C.
 6. Move __2__—The 10th fret is D.
 7. Move __2__—The 12th fret is E.
