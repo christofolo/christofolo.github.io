@@ -324,7 +324,7 @@ With F as the root, F to A is a Major Third:
 
 | 0  | 1  | 2  | 3  | 4  |
 | -- | -- | -- | -- | -- |
-| F  | G♭ | G  | G♭ | A  |
+| F  | G♭ | G  | A♭ | A  |
 
 As visualized on the guitar:
 
@@ -359,8 +359,6 @@ With B as the root, B to D is a Minor Third:
 As visualized on the guitar:
 
 ![ ]({{ site.baseurl }}/images/b-to-d-3rd.png){: .mx-auto.d-block :}
-
-Definition to know: the "root" is the base note in the harmony. In the examples above, G is the "root" and B or B♭ is the "third".
 
 ## Part 11: Major Triads vs. Minor Triads (3 Note Chords)
 
