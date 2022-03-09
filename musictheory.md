@@ -182,7 +182,11 @@ Here is a diagram that shows both F♮ and F♯.
 
 ## Part 5: A pitch can have two names (intro to "flats")
 
-The pitch that occurs at the 14th fret (F♯) has another name: G♭ (pronounced "G flat"). Yeah, this is kind of weird. The reason why G♭ is not used in the G Major Scale is because we need to fulfill rule number 2. If you use G♭ instead of F♯, then the scale would skip an "F" entirely. You can't do that. There are some other scales that will use G♭. We will build those later in this book.
+The pitch that occurs at the 14th fret (F♯) has another name: G♭ (pronounced "G flat"). Yeah, this is kind of weird. The reason why G♭ is not used in the G Major Scale is because we need to fulfill rule number 2. If you use G♭ instead of F♯, then the scale would skip an "F" entirely. 
+
+G, A, B, C, D, E, G♭, G. 
+
+You can't do that. You have to include each letter. There are some other scales that will use G♭. We will build those later in this book.
 
 Ok, let's pick a scale that has a flat. Start on the 1st fret of the low E string. This note is F. Do you remember the C Major scale? What was the note that came right after the 12th fret? (Note: 13th fret - 12 frets = 1st fret)
 
