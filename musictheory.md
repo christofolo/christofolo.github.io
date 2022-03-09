@@ -279,9 +279,9 @@ The distance from the 1st note to the 3rd note is larger. It is 4 frets (half st
 
 In music, the distance between two notes is called an __interval__. The interval that spans 3 notes is called a "Third". For example, A to C♯ is a "Third" and A to C is also a "Third". Both thirds span 3 note names (A, B, and C).
 
-However, if it only takes 3 half steps to traverse from the first note (the root note) to the next, then it is considered a minor third. If it takes 4 half steps to traverse from the first note (the root note) to the next, then it is considered a major third.
+However, if it only takes 3 half steps to traverse from the first note (the root note) to the next note in the interval pair, then the interval is considered a minor third. If it takes 4 half steps to traverse from the first note (the root note) to the next note in the interval pair, then the interval is considered a major third.
 
-As you can see above, the interval from A to C♯ is 4 half steps, thus Major. And the interval from A to C is just 3 half steps, thus Minor.
+As you can see above, the distance from A to C♯ is 4 half steps, thus Major. And the distance from A to C is just 3 half steps, which is smaller, and thus Minor.
 
 Think of constellations to understand Major vs Minor. The Big Dipper is called Ursa Major because it's bigger. The Little Dipper is called Ursa Minor because it's smaller. Major Scales are major because the interval between the 1st and 3rd notes is "big" (a Major Third). Whereas the interval between the 1st and 3rd notes in a minor scale is "small" (a Minor Third).
 
