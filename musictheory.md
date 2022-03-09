@@ -256,13 +256,13 @@ Let's build the A Major scale:
 ![ ]({{ site.baseurl }}/images/a-major-scale-on-fretboard.png){: .mx-auto.d-block :}
 
 1. The open string "A" is our first note (the Tonic).
-2. Move 2. The 2nd fret is B. 
-3. Move 2. The 4th fret is C♯. <- here is the first difference between the two scales
-4. Move 1. The 5th fret is D.
-5. Move 2. The 7th fret is E.
-6. Move 2. The 9th fret is F♯.
-7. Move 2. The 11th fret is G♯.
-8. Move 1. The 12th fret is A again.
+2. Move __2__. The 2nd fret is B. 
+3. Move __2__. The 4th fret is C♯. <- here is the first difference between the two scales
+4. Move __1__. The 5th fret is D.
+5. Move __2__. The 7th fret is E.
+6. Move __2__. The 9th fret is F♯.
+7. Move __2__. The 11th fret is G♯.
+8. Move __1__. The 12th fret is A again.
 
 | Scale Degree:  | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  |
 | -------------- | -- | -- | -- | -- | -- | -- | -- | -- |
