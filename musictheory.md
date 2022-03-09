@@ -106,7 +106,7 @@ Remember that the note at the 3rd fret is the same note as the 15th fret, just a
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?abc?2272022){: .mx-auto.d-block :}
 *There are only 7 notes. The last note is "1" again but at the higher "octave".*
 
-__This is why there are 7 principle note names: A, B, C, D, E, F, G!__
+__This is why there are 7 principle note names: A, B, C, D, E, F, G!__ It's all the Major Scale's fault.
 
 
 Practice Exercises:
