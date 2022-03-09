@@ -124,7 +124,7 @@ So let's take this diagram:
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major-frets.png?abc){: .mx-auto.d-block :}
 
-And label each note with its correct name:
+And label each note with its correct name. Start with C. Go up the alphabet. Once you reach G (the 7th note in the alphabet), loop back around to A. Like so:
 
 ![ ]({{ site.baseurl }}/images/fretboard-c-major.png?abc){: .mx-auto.d-block :}
 
