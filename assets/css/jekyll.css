@@ -336,7 +336,7 @@ img {
   {% endunless %}
 }
 .navbar-custom .avatar-container .avatar-img {
-  width: 100%;
+  width: 200px;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
   {% endunless %}
