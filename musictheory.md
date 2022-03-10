@@ -437,19 +437,17 @@ B-D is a Minor third. D-F is a Minor third.
 
 ## Part 13: Numbering Each Chord - The Nashville Numbering System
 
-We use Roman Numerals to number each chord so that we don't get confused with the chord tone numbers. For example, "3" refers to the Third in a chord. But "iii" refers to the 3rd chord in the key.
+All 7 triads in the key of C. R = root tone of the chord. 3 = the "third" of the chord. 5 = the "5th" of the chord. Because C is the first note in the scale, its chord is called the "one" chord but use roman numerals because we want to distinguish these numbers from the chord tone numbers.
+
+| 5 | G | A  | B   | C  | D | E  | F    | 
+| 3 | E | F  | G   | A  | B | C  | D    |
+| R | C | D  | E   | F  | G | A  | B    |
+| - | I | ii | iii | IV | V | vi | vii° |
 
 A big Roman Numeral means that it is a Major chord. A small roman number means that it is a Minor chord. The vii° is the diminished chord.
 
 In part 10, we found that there are 3 Major third dyads (another way of saying 2-note chord) in a Major key: C-E, F-A, and G-B. We also found that there are 4 Minor third dyads (D-F, E-G, A-C, B-D).
 
 In parts 11 and 12, we then constructed the appropriate triad from each scale degree. We determined that chords built off of C, F, and G are Major. Chords built off of D, E, and A are Minor. And the chord built off of the B is diminished.
-
-So here is the matrix. The scale goes horizontal. The chord tones for each chord go vertical. "R" = root tone of the chord.
-
-| 5 | G | A  | B   | C  | D | E  | F    | 
-| 3 | E | F  | G   | A  | B | C  | D    |
-| R | C | D  | E   | F  | G | A  | B    |
-| - | I | ii | iii | IV | V | vi | vii° |
 
 __Important thing to understand:__ A Major key produces chords that are Major, Minor, and diminished. It's called a Major key because the first chord is Major.
