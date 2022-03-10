@@ -27,8 +27,6 @@ var BeautifulJekyllJS = {
 
     // show the big header image
     BeautifulJekyllJS.initImgs();
-
-    BeautifulJekyllJS.initSearch();
   },
 
   initNavbar : function() {
@@ -111,30 +109,6 @@ var BeautifulJekyllJS = {
       $(".img-desc").hide();
     }
   },
-
-  initSearch : function() {
-    if (!document.getElementById("jekyll-search-overlay")) {
-      return;
-    }
-
-    $("#nav-search-link").click(function(e) {
-      e.preventDefault();
-      $("#jekyll-search-overlay").show();
-      $("#nav-search-input").focus().select();
-      $("body").addClass("overflow-hidden");
-    });
-    $("#nav-search-exit").click(function(e) {
-      e.preventDefault();
-      $("#jekyll-search-overlay").hide();
-      $("body").removeClass("overflow-hidden");
-    });
-    $(document).on('keyup', function(e) {
-      if (e.key == "Escape") {
-        $("#jekyll-search-overlay").hide();
-        $("body").removeClass("overflow-hidden");
-      }
-    });
-  }
 };
 
 // 2fc73a3a967e97599c9763d05e564189
