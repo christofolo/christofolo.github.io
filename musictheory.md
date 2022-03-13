@@ -13,7 +13,13 @@ Basic music theory is not complicated but most music teachers struggle in gettin
 It may seem like I explain things a little differently than other teachers. That's because I teach a class of 14-year old student guitarists each fall. If they can understand theory, I know for a fact that you can too.
 
 
-## Part 1: Musical notes are kind of like colors. Some colors go well with other colors. Some clash.
+## Part 1: Why are two strings on the guitar both "E"?
+
+Here are the names of the strings. I'm sure by now you have seen an image like this.
+
+![ ]({{ site.baseurl }}/images/eadgbe-fretboard.png){: .mx-auto.d-block :}
+
+How can two strings get the same name?  ("E")
 
 Sometimes, it can be useful to compare music to art. Painters can use just a few colors to make a beautiful painting. 
 
@@ -26,12 +32,7 @@ In art, it's perfectly acceptable to consider "dark red" and "light red" both "r
 
 ![ ]({{ site.baseurl }}/images/red.png){: .mx-auto.d-block :}
 
-The same thing happens in music. By now, you may have learned the names of the strings. E, A, D, G, B, and E. Why are two strings called "E" when they're obviously making different pitches? One is really low. The other is really high.
-
-![ ]({{ site.baseurl }}/images/e-e-fretboard.png?abc){: .mx-auto.d-block :}
-*When you tune your guitar, both of these strings will be an "E". The thinner E string is a higher pitched E. Whereas, the thicker E string is a lower pitched E. They're both named E.*
-
-When you play both of these strings, you'll noticed an interesting phenomenon that happens in music: consonance.
+The same thing happens in music. When you play both of the E strings, you'll noticed an interesting phenomenon that happens in music: consonance.
 
 __Consonance__ is the impression of __stability__ and repose while __dissonance__ is the impression of __tension__ or clash as experienced by a listener when certain combinations of tones or notes are sounded together. Playing your two E strings on the guitar should create a consonant sound (stable). If they don't, it's most likely that your guitar is not in tune.
 
