@@ -27,11 +27,13 @@ When you play both of the E strings at the same time you'll notice that they sou
 
 __Consonance__ is the impression of __stability__ and repose while __dissonance__ is the impression of __tension__ or clash. Playing your two E strings on the guitar should create a consonant, stable sound. If they don't, it's most likely that your guitar is not in tune.
 
-Try this out. Go to <a href="https://www.szynalski.com/tone-generator">https://www.szynalski.com/tone-generator</a> and choose the E2 tone. The frequency should now be at 82.4 Hz.
+Try this out. Go to <a href="https://szynalski.com/tone#E2,v0.75">https://www.szynalski.com/tone-generator</a>. The frequency should already be set at 82.4 Hz.
 
-![ ]({{ site.baseurl }}/images/e2-tone.png){: .mx-auto.d-block :}
+Next, click the x2 button to double the frequency of the pitch. Do you notice what happens to the name of the tone? Then click the x1/2 button to halve the frequency. 
 
-Next, click the x2 button to double the frequency of the pitch. Do you notice what happens to the name of the tone?
+![ ]({{ site.baseurl }}/images/frequency-2x-or-half.png){: .mx-auto.d-block :}
+
+What is the frequency relationship between the pitches at E2 and E3?
 
 ## Part 2: Consonance in music means there are only 12 note names
 
