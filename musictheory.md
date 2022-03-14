@@ -19,50 +19,37 @@ Here are the names of the strings. I'm sure by now you have seen an image like t
 
 ![ ]({{ site.baseurl }}/images/eadgbe-fretboard.png){: .mx-auto.d-block :}
 
-How can two strings get the same name?  ("E")
-
-Sometimes, it can be useful to compare music to art. Painters can use just a few colors to make a beautiful painting. 
-
-![ ]({{ site.baseurl }}/images/palette-painting.png?abc){: .mx-auto.d-block :}
-*A palette of a few simple colors results in a more complex creation.*
-
-Why is the color "orange" called orange? We've given that color that name. In music, we have also given all the pitches names as well. A "pitch" or sound is what we hear when we play the guitar, or sing a melody, beat a drum, etc. Pitches can be low (dark). Or they can be high (bright). In music, a "note" is a named pitch. When you play just one string on the guitar, you are playing a single note. 
-
-In art, it's perfectly acceptable to consider "dark red" and "light red" both "red". They are just different shades of the same color.
+How can two strings get the same name? The two E strings on the guitar obviously produce very different pitches. One is really high. One is really low. These two pitches are a lot like two shades of the same color. For example, dark red and light red are both considered red. It's the same thing with music.
 
 ![ ]({{ site.baseurl }}/images/red.png){: .mx-auto.d-block :}
 
-The same thing happens in music. When you play both of the E strings, you'll noticed an interesting phenomenon that happens in music: consonance.
+When you play both of the E strings at the same time you'll notice that they sound alike. They sound like they "just fit" together. This phenomenon is generally called consonance. And in this particular case, it is perfect consonance.
 
-__Consonance__ is the impression of __stability__ and repose while __dissonance__ is the impression of __tension__ or clash as experienced by a listener when certain combinations of tones or notes are sounded together. Playing your two E strings on the guitar should create a consonant sound (stable). If they don't, it's most likely that your guitar is not in tune.
+__Consonance__ is the impression of __stability__ and repose while __dissonance__ is the impression of __tension__ or clash. Playing your two E strings on the guitar should create a consonant, stable sound. If they don't, it's most likely that your guitar is not in tune.
 
-The low E is like a dark red. The high E is like a light red. So we call them both "E". This is very useful in music because instruments have a very wide range of pitches. There's not enough letters in the alphabet to give every fret its own name.
+Try this out. Go to <a href="https://www.szynalski.com/tone-generator">https://www.szynalski.com/tone-generator</a> and choose the E2 tone. The frequency should now be at 82.4 Hz.
 
-## Part 2: Every 12 notes, the note name repeats.
+![ ]({{ site.baseurl }}/images/e2-tone.png){: .mx-auto.d-block :}
 
-Because of the phenomenon, consonance, there are only 12 note names. That means every 12 notes, the name of the note repeats.
+Next, click the x2 button to double the frequency of the pitch. Do you notice what happens to the name of the tone?
 
-Try this on the guitar. Play the low E string. Then play each fret until you get to the 12th fret. Can you guess what the 12th fret will sound like?
+## Part 2: Consonance in music means there are only 12 note names
 
-![ ]({{ site.baseurl }}/images/e-to-e.png?123abc){: .mx-auto.d-block :}
-
-The note at the 12th fret should sound "like" the open string but just higher. The note at the 12th fret of the E string is also called "E" because it is in perfect consonance with the pitch at the open string—the low E.
-
-Try it with every other string too. The 12th fret of the A string is also an "A".
+You'll notice this effect when you play any of the open strings and then play the 12th fret. The pitch at the 12th fret is in perfect consonance with the pitch of that same open string. The 12th fret is the same note but an octave higher.
 
 ![ ]({{ site.baseurl }}/images/eadgbe.png){: .mx-auto.d-block :}
 
-The note that is 12 frets higher is an "octave" higher. Without knowing the names of all the notes on the guitar, you can play the note that is an octave higher. For example, play the note on the 3rd fret of the E string. 3 + 12 = 15. Next play the 15th fret of the E string.
+Without knowing the names of all the notes on the guitar, you can play the note that is an octave higher. For example, play the note on the 3rd fret of the E string. 3 + 12 = 15. So next play the 15th fret of the E string. Notice that the note at the 15th fret sounds like a lighter shade of the note at the 3rd fret.
 
 ![ ]({{ site.baseurl }}/images/3-to-15.png){: .mx-auto.d-block :}
 
-Do you hear how they produce consonance? Did you also notice that the dots on the fretboard can help you find the note in the next octave?
+When you play a note that is in perfect consonance like this but higher, you are playing an octave higher. When you play a note that is in perfect consonance but at a lower pitch, you are playing an octave lower.
 
-Here is a video of a droning A note. Here's a challenge for you. Without knowing anything about the guitar, can you find the "A" note on the D string? 
+Here is a video of a cello droning on an "A". Here's a challenge for you. Without knowing anything about the guitar, can you find the note that is in perfect consonacne with the cellow? Obviously the A string is easy. But try to find other "A" notes on other strings like the E string or D string.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpQ6c0NotCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-There are still several note names for you to learn. If the note name repeats every 12 frets, that means there are 12 notes in total. 
+If note names repeat every 12 frets, that means there are only 12 notes in total. 
 
 Before we get into those note names, we need to next discuss The Major Scale first. It will reveal why we only use 7 letters of the alphabet instead of 12.
 
