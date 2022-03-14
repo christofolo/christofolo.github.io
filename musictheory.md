@@ -45,15 +45,11 @@ Did you try out the tone generator? A pitch that has twice the frequency of anot
 
 ![ ]({{ site.baseurl }}/images/eadgbe.png){: .mx-auto.d-block :}
 
-Without knowing the names of all the notes on the guitar, you can play the note that is an octave higher. For example, play the note on the 3rd fret of the E string. 3 + 12 = 15. So next play the 15th fret of the E string. Notice that the note at the 15th fret sounds like a lighter shade of the note at the 3rd fret.
+Without knowing the names of all the notes on the guitar, you can play the note that is an octave higher. For example, play the note on the 3rd fret of the E string. 3 + 12 = 15. So next play the 15th fret of the E string. Notice that the note at the 15th fret sounds like a lighter shade of the note at the 3rd fret. When you learn the name of the note at the 3rd fret, you will also know the name of the note that is 12 frets higher at the 15th fret.
 
 ![ ]({{ site.baseurl }}/images/3-to-15.png){: .mx-auto.d-block :}
 
-Here is a video of a cello droning on an "A". Here's a challenge for you. Without knowing anything about the guitar, can you find the note that is in perfect consonacne with the cellow? Obviously the A string is easy. But try to find other "A" notes on other strings like the E string or D string.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qpQ6c0NotCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-If note names repeat every 12 frets, that means there are only 12 notes in total. 
+__The important thing to understand:__ If notes repeat every 12 frets, that means there are only 12 note names in total. 
 
 Before we get into those note names, we need to next discuss The Major Scale first. It will reveal why we only use 7 letters of the alphabet instead of 12.
 
