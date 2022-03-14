@@ -36,7 +36,7 @@ The same thing happens in music. When you play both of the E strings, you'll not
 
 __Consonance__ is the impression of __stability__ and repose while __dissonance__ is the impression of __tension__ or clash as experienced by a listener when certain combinations of tones or notes are sounded together. Playing your two E strings on the guitar should create a consonant sound (stable). If they don't, it's most likely that your guitar is not in tune.
 
-The low E is like a dark red. The high E is like a light red.
+The low E is like a dark red. The high E is like a light red. So we call them both "E". This is very useful in music because instruments have a very wide range of pitches. There's not enough letters in the alphabet to give every fret its own name.
 
 ## Part 2: Every 12 notes, the note name repeats.
 
