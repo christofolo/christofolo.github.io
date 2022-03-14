@@ -37,15 +37,17 @@ What is the frequency relationship between the pitches at E2 and E3?
 
 ## Part 2: Consonance in music means there are only 12 note names
 
-You'll notice this effect when you play any of the open strings and then play the 12th fret. The pitch at the 12th fret is in perfect consonance with the pitch of that same open string. The 12th fret is the same note but an octave higher.
+You'll continue to notice this effect of consonance when you play any of the open strings and then play the 12th fret of that same string. The pitch at the 12th fret is in perfect consonance with the pitch of that same open string. 
+
+The 12th fret is the same note but an __octave__ higher. 
+
+Did you try out the tone generator? A pitch that has twice the frequency of another is exactly one octave higher. A pitch that has half the frequency of another is one octave lower. 
 
 ![ ]({{ site.baseurl }}/images/eadgbe.png){: .mx-auto.d-block :}
 
 Without knowing the names of all the notes on the guitar, you can play the note that is an octave higher. For example, play the note on the 3rd fret of the E string. 3 + 12 = 15. So next play the 15th fret of the E string. Notice that the note at the 15th fret sounds like a lighter shade of the note at the 3rd fret.
 
 ![ ]({{ site.baseurl }}/images/3-to-15.png){: .mx-auto.d-block :}
-
-When you play a note that is in perfect consonance like this but higher, you are playing an octave higher. When you play a note that is in perfect consonance but at a lower pitch, you are playing an octave lower.
 
 Here is a video of a cello droning on an "A". Here's a challenge for you. Without knowing anything about the guitar, can you find the note that is in perfect consonacne with the cellow? Obviously the A string is easy. But try to find other "A" notes on other strings like the E string or D string.
 
