@@ -362,6 +362,16 @@ As visualized on the guitar:
 
 ![ ]({{ site.baseurl }}/images/b-to-d-3rd.png){: .mx-auto.d-block :}
 
+Summary
+
+M3 = Major Third
+m3 = Minor Third
+
+| 3  |  E |  F |  G |  A |  B |  C |  D |
+| R  |  C |  D |  E |  F |  G |  A |  B |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| -- | M3 | m3 | m3 | M3 | M3 | m3 | m3 |
+
 ## Part 11: Major Triads vs. Minor Triads (3 Note Chords)
 
 Triad is the most common type of "chord". "Tri" in triad means three. A triad is 2 third intervals put together. For example, C - E - G is called the C Major triad. The root note is C. The C-E third is a Major third. The E-G third is a Minor Third. It is called a Major Triad because the 1st Third is Major (C-E).
