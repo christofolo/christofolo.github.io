@@ -63,7 +63,7 @@ Practice Exercises:
 3. Use your ear to find the "ligher shade" of the low E string (6th string) on the A string (5th string). Which fret does the higher "E" occur on the A string? Start on the 1st fret of the A string and go higher in pitch until you have found it.
 
 
-## Part 2: The Major Scale creates a palette of 7 "colors"
+## Part 3: The Major Scale creates a palette of 7 "colors"
 
 ![ ]({{ site.baseurl }}/images/solfa.png?abc){: .mx-auto.d-block :}
 *The Solfege Syllables is a way to sing the Major Scale without knowing the names of any notes.*
@@ -107,7 +107,7 @@ Practice Exercises:
 1. Play the Major scale on a single string starting on any fret that you wish.
 2. Try using a droning note.
 
-## Part 3: The First Major Scale to learn is The C Major Scale
+## Part 4: The First Major Scale to learn is The C Major Scale
 
 If "A" is the first note in the alphabet, shouldn't the first major scale be the A Major Scale? There's a long history as to why C is actually the first note that we create a Major scale from. It's kind of like asking "why is the color 'red' called 'red' at all?" Maybe in another universe the color red is actually called "Der". And maybe the 8th fret of the low E string is an "A". 
 
@@ -140,7 +140,7 @@ Practice Exercises:
 2. Play the C major scale on the low E string. Say each note as you play it!
 3. Play the C major scale on the A string (starting on the 3rd fret). Say each note as you play it!
 
-## Part 4: Building the G Major Scale (intro to "sharps")
+## Part 5: Building the G Major Scale (intro to "sharps")
 
 If you did Practice Exercise #1 in Part 3, then you discovered that fret 3 is the note "G". 
 
@@ -171,7 +171,7 @@ Here is a diagram that shows both F♮ and F♯.
 
 ![ ]({{ site.baseurl }}/images/g-major-scale-rainbow.png?abc){: .mx-auto.d-block :}
 
-## Part 5: A pitch can have two names (intro to "flats")
+## Part 6: A pitch can have two names (intro to "flats")
 
 The pitch that occurs at the 14th fret (F♯) has another name: G♭ (pronounced "G flat"). Yeah, this is kind of weird. The reason why G♭ is not used in the G Major Scale is because we need to fulfill rule number 2. If you use G♭ instead of F♯, then the scale would skip an "F" entirely. 
 
@@ -200,7 +200,7 @@ Practice Exercises:
 1. Play the G Major scale on the low E string and say each note.
 2. Play the F Major scale on the low E string and say each note.
 
-## Part 6: All 12 Notes and Their Names
+## Part 7: All 12 Notes and Their Names
 
 You can see all 12 notes on the A string. These 12 notes are also on every other string as well. It's just easy to show on one string and not overload you with information.
 
@@ -208,7 +208,7 @@ You can see all 12 notes on the A string. These 12 notes are also on every other
 
 __Remember:__ There is a half-step between ALL notes. However, the only two natural note pairs that are a half-step apart are E to F and B to C.
 
-## Part 7: Whole Steps and Half Steps
+## Part 8: Whole Steps and Half Steps
 
 The 221-2221 formula describes how big of a step you move from one note to the next. A half step is the smallest step that you can take. You only move 1 fret with a half-step. A whole step is 2 half-steps. 
 
