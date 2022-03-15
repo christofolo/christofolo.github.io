@@ -4,14 +4,17 @@ title: Music Theory for Visual Learners
 subtitle: The basic knowledge of how music works
 ---
 
-## Intro: You shouldn't JUST "play by ear". You need some music theory (ie. knowledge)
+## End Goal: Knowledge of Theory Gives You Confidence to Improvise and Compose Original Music
 
 __This is a work in progress. Please email me with any questions: chrispaul.ws@gmail.com__
 
-Basic music theory is not complicated but most music teachers struggle in getting their guitar students to understand it. I will do my best to break down each concept into individual bite-sized pieces. 
+Many guitarists will start noodling around on their instrument after learning how to play several chords and riffs. This is a lot of fun to do. However, the real magic happens when you can improvise with other musicians. This is what separates the visual arts from music - creative collaboration. It is so much more fun to play with other musicians.
 
-It may seem like I explain things a little differently than other teachers. That's because I teach a class of 14-year old student guitarists each fall. If they can understand theory, I know for a fact that you can too.
+Basic music theory will give you the tools to understand how to fit your melodies over your bandmate's harmonies. Or, vice versa, it will show you how to create harmonies that fit with your bandmate's melodies.
 
+If you're not in a band yet, you will learn how to improvise guitar riffs and melodies over any of your favorite songs.
+
+But let's start simple. 
 
 ## Part 1: Why are two strings on the guitar both "E"?
 

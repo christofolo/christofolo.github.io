@@ -1,4 +1,22 @@
 {% if site.gtag %}
+
+<script>
+ 
+  var cookieName = "justguitarinternal"; // Name of your cookie
+  var cookieValue = "internal"; // Value of your cookie
+  var expirationTime = 31104000; // One year in seconds
+  expirationTime = expirationTime * 1000; // Converts expirationtime to milliseconds
+  var date = new Date(); 
+  var dateTimeNow = date.getTime(); 
+ 
+  date.setTime(dateTimeNow + expirationTime); // Sets expiration time (Time now + one month)
+  var date = date.toUTCString(); // Converts milliseconds to UTC time string
+  document.cookie = cookieName+"="+cookieValue+"; SameSite=None; Secure; expires="+date+"; path=/; domain=." + location.hostname.replace(/^www\./i, ""); // Sets cookie for all subdomains
+ 
+ </script>
+
+
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
 <script>
