@@ -2,6 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "justguitar-jekyll-theme"
+  spec.summary       = "Just Guitar Info"
   spec.version       = "1.0.0"
   spec.authors       = ["Chris Paul"]
   spec.email         = ["chrispaul.ws@gmail.com"]
