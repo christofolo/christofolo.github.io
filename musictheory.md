@@ -322,9 +322,9 @@ But which ones are Major and which ones are Minor? Let's explore...
 
 With C as the root, C to E is a Major Third:
 
-| 0  | 1  | 2  | 3  | 4  |
-| -- | -- | -- | -- | -- |
-| C  | D♭ | D  | E♭ | E  |
+| Half steps traversed: | 0  | 1  | 2  | 3  | 4  |
+| -- | -- | -- | -- | -- | -- |
+| Notes: | C  | D♭ | D  | E♭ | E  |
 
 As visualized on the guitar on both the low E string and the A string:
 
@@ -445,6 +445,16 @@ In root position, the A Minor Triad is composed of 3 notes:
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | A    | C   | E   |
 
+### The Perfect 5th
+
+All Major and minor triads contain a perfect 5th interval from the root note to the 5th. A perfect 5th is defined as spanning 5 note names and traversing 7 half steps. Here are two quick examples that show the distance from C to G and from D to A.
+
+| Half steps traversed: | 0  | 1  | 2  | 3  | 4  | 5 | 6 | 7 |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Notes: | C | D♭  | D | E♭  | E | F | G♭ | G |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Notes: | D | E♭  | E | F | G♭ | G | A♭ | A |
+
 
 __Important thing to understand:__ Triads contain BOTH Major and Minor third intervals. The thing that distinguishes Major triads from Minor traids is how they are built.
 
@@ -459,6 +469,14 @@ In root position, the B Diminished Triad is composed of 3 notes:
 | Chord Tones:    | B    | D   | F   |
 
 B-D is a Minor third. D-F is a Minor third.
+
+The interval from the root note to the 5th is called a diminished 5th because only 6 half steps are traversed.
+
+| Half steps traversed: | 0  | 1  | 2  | 3  | 4  | 5 | 6 |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| Notes: | B  | C | D♭  | D | E♭  | E | F |
+
+Remember: a perfect 5th interval is 7 half steps apart.
 
 ## Part 13: Numbering Each Chord - The Nashville Numbering System
 
