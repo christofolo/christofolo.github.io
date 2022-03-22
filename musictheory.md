@@ -533,4 +533,4 @@ The next step is to visually see where these chord tones are in the C Major scal
 | 1 | __C__ | C  | __C__  | __C__  |
 | - | I (C) | V (G) | vi (Am) | IV (F) |
 
-
+![ ]({{ site.baseurl }}/images/pathways.png){: .mx-auto.d-block :}
