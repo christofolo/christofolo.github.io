@@ -494,3 +494,43 @@ In part 10, we found that there are 3 Major third dyads (another way of saying 2
 In parts 11 and 12, we then constructed the appropriate triad from each scale degree. We determined that chords built off of C, F, and G are Major. Chords built off of D, E, and A are Minor. And the chord built off of the B is diminished.
 
 __Important thing to understand:__ A Major key produces chords that are Major, Minor, and diminished. It's called a Major key because the first chord is Major.
+
+## Part 14: Improvisation for Beginners. Applying Theory to Make Music.
+
+![ ]({{ site.baseurl }}/images/stepping-stones.jpeg){: .mx-auto.d-block :}
+
+There are a few ways to cross the river. You don't have to use any of the stepping stones. Let's assume that the river isn't that deep. You could just wade through the water. But just know that you will get wet. 
+
+Maybe you'll try your best to use the stones but sometimes you will slip off. You only get a little wet.
+
+And finally, you could cross the river by stepping on the stones and never getting wet at all.
+
+When I began learning how to improvise, I was told to play whatever I felt like. After the end of my solo, it seem liked I just fell in the river. It honestly wasn't very fun. I didn't really know what I was doing. I was told: "Here's a scale. Just use the notes in the scale!"
+
+Later, my teachers told me about the stepping stones. In music, they are called "chord tones". I knew they were there. But I just didn't quite understand how to use them in my solos. Chord tones are the individual notes that make up a chord. Instead of "playing whatever you want" and getting "soaking wet", you should begin to understand how to rely on chord tones. It's a logical method because it provides a straightforward path for you to follow. You will be improvising which path to take. And the more you get comfortable with the paths you take, you can begin to get your feet wet with using other tools (like notes from scales).
+
+#### How to stay "dry" when improvising a melody (ie. soloing)
+
+Songs are made up of harmonies (chords) and melodies (vocals and/or instrumental solos). Here is a common chord progression in the key of C that is similar to Let It Be by The Beatles
+
+C - G - Am - F.
+
+Here are the chord tones for each chord:
+
+| 5 | G | D  | E  | C  |
+| 3 | E | B  | C  | A  |
+| R | C | G  | A  | F  |
+| - | I | V  | vi | IV |
+
+The next step is to visually see where these chord tones are in the C Major scale. I will put 4 columns of the C Major scale and highlight each chord within the scale. The numbers on the left are the scale degree.
+
+| 7 | B | __B__  | B  | B  |
+| 6 | A | A  | __A__  | __A__  |
+| 5 | __G__ | __G__  | G  | G  |
+| 4 | F | F  | F  | __F__  |
+| 3 | __E__ | E  | __E__  | E  |
+| 2 | D | __D__  | D  | D  |
+| 1 | __C__ | C  | __C__  | __C__  |
+| - | I (C) | V (G) | vi (Am) | IV (F) |
+
+
