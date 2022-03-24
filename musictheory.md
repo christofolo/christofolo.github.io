@@ -32,7 +32,7 @@ __Consonance__ is the impression of __stability__ while __dissonance__ is the im
 
 #### Practice Assignment:
 
-Go to <a href="https://szynalski.com/tone#E2,v0.75">https://www.szynalski.com/tone-generator</a>. The frequency should already be set at 82.4 Hz.
+Go to <a href="https://szynalski.com/tone#E2,squ,v0.75">https://www.szynalski.com/tone-generator</a>. The frequency should already be set at 82.4 Hz.
 
 Next, click the x2 button to double the frequency of the pitch. Do you notice what happens to the name of the tone? Then click the x1/2 button to halve the frequency. 
 
