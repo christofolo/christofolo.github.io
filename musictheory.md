@@ -28,7 +28,7 @@ How can two strings get the same name? The two E strings on the guitar obviously
 
 When you play both of the E strings at the same time you'll notice that they sound alike. They sound like they "just fit" together. This phenomenon is generally called consonance. And in this particular case, it is perfect consonance.
 
-__Consonance__ is the impression of __stability__ and repose while __dissonance__ is the impression of __tension__ or clash. Playing your two E strings on the guitar should create a consonant, stable sound. If they don't, it's most likely that your guitar is not in tune.
+__Consonance__ is the impression of __stability__ while __dissonance__ is the impression of __tension__ or clash. Playing your two E strings on the guitar should create a consonant, stable sound. If they don't, it's most likely that your guitar is not in tune.
 
 #### Practice Assignment:
 
