@@ -409,37 +409,37 @@ Triads contain both a Major Third and a Minor Third. However, Major triads will 
 
 An easy way to build all the traids from a scale is to skip every other note in the scale. C-E-G...D-F-A...and so on.
 
-In root position, the C Major Triad is composed of 3 notes:
+The C Major Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | C    | E   | G   |
 
-In root position, the D Minor Triad is composed of 3 notes:
+The D Minor Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | D    | F   | A   |
 
-In root position, the E Minor Triad is composed of 3 notes:
+The E Minor Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | E    | G   | B   |
 
-In root position, the F Major Triad is composed of 3 notes:
+The F Major Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | F    | A   | C   |
 
-In root position, the G Major Triad is composed of 3 notes:
+The G Major Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | G    | B   | D   |
 
-In root position, the A Minor Triad is composed of 3 notes:
+The A Minor Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
@@ -462,7 +462,7 @@ __Important thing to understand:__ Triads contain BOTH Major and Minor third int
 
 Major and Minor triads are each composed of a Major third and a Minor third. However, what if you were to create a chord that is composed of two minor thirds? This triad is called a Diminished triad and it happens naturally in every Major scale.
 
-In root position, the B Diminished Triad is composed of 3 notes:
+The B Diminished Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
