@@ -103,7 +103,7 @@ Remember that the note at the 3rd fret is the same note as the 15th fret, just a
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?abc?2272022){: .mx-auto.d-block :}
 *There are only 7 notes. The last note is "1" again but at the higher "octave".*
 
-__This is why there are 7 principle note names: A, B, C, D, E, F, G!__ It's all the Major Scale's fault.
+__This is why there are 7 principle note names: C, D, E, F, G, A, and B!__ It's all the Major Scale's fault.
 
 #### Practice Exercises:
 
@@ -407,7 +407,7 @@ D - F - A is called the D Minor triad because the 1st Third is Minor (D-F). The 
 
 Triads contain both a Major Third and a Minor Third. However, Major triads will have the Major Third come first. In Minor triads, it is the opposite.
 
-An easy way to build all the traids from a scale is to skip every note. C-E-G...D-F-A...and so on.
+An easy way to build all the traids from a scale is to skip every other note in the scale. C-E-G...D-F-A...and so on.
 
 In root position, the C Major Triad is composed of 3 notes:
 
