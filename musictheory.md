@@ -108,7 +108,7 @@ __This is why there are 7 principle note names: C, D, E, F, G, A, and B!__ It's 
 #### Practice Exercises:
 
 1. Play the Major scale on a single string starting on any fret that you wish.
-2. Try using a droning note. On youtube, search for "Cello droning note". If you find an "A" droning note, start you Major scale on the open A string.
+2. Try using a droning note. On youtube, search for "Cello droning note". If you find an "A" droning note, start the Major scale on the open A string.
 
 ## Part 4: The First Major Scale to learn is The C Major Scale
 
@@ -489,7 +489,7 @@ All 7 triads in the key of C. R = root tone of the chord. 3 = the "third" of the
 
 A big Roman Numeral means that it is a Major chord. A small roman number means that it is a Minor chord. The vii° is the diminished chord.
 
-In part 10, we found that there are 3 Major third dyads (another way of saying 2-note chord) in a Major key: C-E, F-A, and G-B. We also found that there are 4 Minor third dyads (D-F, E-G, A-C, B-D).
+In part 10, we found that there are 3 Major third dyads (sometimes call "double stops") in a Major key: C-E, F-A, and G-B. We also found that there are 4 Minor third dyads (D-F, E-G, A-C, B-D).
 
 In parts 11 and 12, we then constructed the appropriate triad from each scale degree. We determined that chords built off of C, F, and G are Major. Chords built off of D, E, and A are Minor. And the chord built off of the B is diminished.
 
