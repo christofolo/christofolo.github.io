@@ -30,8 +30,6 @@ When you play both of the E strings at the same time you'll notice that they sou
 
 __Consonance__ is the impression of __stability__ while __dissonance__ is the impression of __tension__ or clash. Playing your two E strings on the guitar should create a consonant, stable sound. If they don't, it's most likely that your guitar is not in tune.
 
-#### Practice Assignment:
-
 Go to <a href="https://szynalski.com/tone#E2,squ,v0.75">https://www.szynalski.com/tone-generator</a>. The frequency should already be set at 82.4 Hz.
 
 Next, click the x2 button to double the frequency of the pitch. Do you notice what happens to the name of the tone? Then click the x1/2 button to halve the frequency. 
@@ -62,9 +60,8 @@ Before we get into those note names, we need to next discuss The Major Scale fir
 #### Practice Exercises:
 
 1. Play each open string and also play its "lighter shade" (the octave higher) at the 12th fret on the same string.
-2. Play each of the 12 notes from the open string to the 12th fret.
-3. Play __any__ note and find its "lighter shade" at exactly 12 frets higher. For example, play the 1st fret on the E string and then play the 13th fret.
-4. Use your ear to find the "ligher shade" (the octave higher) of the low E string (6th string) on the A string (5th string). Which fret does the higher "E" occur on the A string? Start on the 1st fret of the A string and go higher in pitch until you have found it.
+2. Play __any__ note and find its "lighter shade" at exactly 12 frets higher. For example, play the 1st fret on the E string and then play the 13th fret.
+3. Use your ear to find the "ligher shade" (the octave higher) of the low E string (6th string) on the A string (5th string). Which fret does the higher "E" occur on the A string? Start on the 1st fret of the A string and go higher in pitch until you have found it.
 
 
 ## Part 3: The Major Scale creates a palette of 7 "colors"
@@ -105,10 +102,14 @@ Remember that the note at the 3rd fret is the same note as the 15th fret, just a
 
 __This is why there are 7 principle note names: C, D, E, F, G, A, and B!__ It's all the Major Scale's fault.
 
-#### Practice Exercises:
+#### Practice
 
 1. Play the Major scale on a single string starting on any fret that you wish.
 2. Try using a droning note. On youtube, search for "Cello droning note". If you find an "A" droning note, start the Major scale on the open A string.
+
+#### Play
+
+Improvise a simple melody on the low E string with the "E" droning note playing in the background <a href="https://www.youtube.com/watch?v=oYLSMPvGoL8">https://www.youtube.com/watch?v=oYLSMPvGoL8</a>. 
 
 ## Part 4: The First Major Scale to learn is The C Major Scale
 
