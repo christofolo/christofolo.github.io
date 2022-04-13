@@ -69,7 +69,7 @@ Before we get into those note names, we need to next discuss The Major Scale fir
 ![ ]({{ site.baseurl }}/images/solfa.png?abc){: .mx-auto.d-block :}
 *The Solfege Syllables is a way to sing the Major Scale without knowing the names of any notes.*
 
-The Major Scale is probably the most important collection of notes that you will learn. We will use it to make music! Due to cultural reasons and also the Ancient Greeks, musicians have come to the conclusion, over the course of thousands of years, that one of the best "palettes" of notes we can use to "paint" a song only requires 7 notes. But there is a specific order... 
+The Major Scale is probably the most important collection of notes that you will learn. We will use the Major Scale to make music! It originated with monks and nuns as early as the 8th century sung who sung "plain chant" (also known as gregorian chant). It is one of the best "palettes" of notes we can use to "paint" a song and it only requires 7 notes. But there is a specific order... 
 
 To build the Major Scale, there is a simple formula to learn. It's easy to remember because it's like a phone number. 
 
@@ -140,11 +140,15 @@ You'll notice that the scale will contain each letter name and loop back to A af
 
 Because we are forced to follow the major scale pattern, some note names are right next to each other and some are a fret apart. 
 
-#### Practice Exercises:
+#### Practice
 
 1. If C is on fret 8, we also know that fret 20 is also "C" (just at a higher pitch) because it is 12 frets away. Can you work out what note is on fret 7 of the low E string? (Hint: 7+12=19) Can you figure out what note is on fret 5? Fret 3? Fret 1?
 2. Play the C major scale on the low E string. Say each note as you play it!
 3. Play the C major scale on the A string (starting on the 3rd fret). Say each note as you play it!
+
+#### Play
+
+Improvise a simple melody using the C Major Scale on the A string with the "C" droning note playing in the background <a href="https://www.youtube.com/watch?v=MimVnBAuYqA">https://www.youtube.com/watch?v=MimVnBAuYqA</a>. 
 
 ## Part 5: Building the G Major Scale (intro to "sharps")
 
