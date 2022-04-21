@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Store
-subtitle: Zombie Strumming
+subtitle: Hotel California Bass
 ---
 
-<a href="{{ site.url }}/downloads/zombie_strumming.zip">Download Zombie PDFs and GP here.</a>
+<a href="{{ site.url }}/downloads/hc_bass.zip">Download Hotel California Bass PDFs and GP here.</a>
 
 
 Checkout Payment ID: <span id="session"></span>
