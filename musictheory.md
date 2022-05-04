@@ -521,7 +521,7 @@ __Important thing to understand:__ Triads contain BOTH Major and Minor third int
 
 ## Part 16: The Diminished Triad
 
-Major and Minor triads are each composed of a Major third and a Minor third. However, what if you were to create a chord that is composed of two minor thirds? This triad is called a Diminished triad and it happens naturally in every Major scale.
+Major and Minor triads are each composed of a Major third and a Minor third. However, what if you were to create a chord that is composed of two minor thirds? This triad is called a Diminished triad and it happens naturally in every Major and Minor key.
 
 The B Diminished Triad is composed of 3 notes:
 
