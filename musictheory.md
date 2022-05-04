@@ -371,7 +371,7 @@ Think of constellations to understand the Major and Minor designations. The Big 
 
 A Major 3rd is a root tone and a tone __4__ half steps higher. A Minor 3rd is a root tone and a tone __3__ half steps higher. Both types of Third intervals will span 3 note names (C to E and A to C).
 
-Here are all Third Intervals in the C Major scale.
+When constructing intervals, any note can be the root note. Here are all Third Intervals in the C Major scale.
 
 | -- | -- | -- | -- | -- | -- | -- | -- |
 | 3rd:  |  E |  F |  G |  A |  B |  C |  D |
