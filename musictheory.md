@@ -101,11 +101,9 @@ Because most music revolves around just 7 notes (the Major Scale), we only use 7
 
 __Important Definition:__ The first note of the Major Scale has a general descriptor called the "Tonic". 
 
-#### Practice
+#### Practice Exercise
 
 1. Play the Major scale against the backing track below (starting on the 8th fret). Start on the 8th fret of the low E string and follow the formula 221-2221. As you play each note, take a moment and listen to how each note feels. 
-
-2. Play the same scale again, but this time, say the "scale degrees" each time you play. Play the 8th fret and say "1". Play the 10th fret and say "2". Play the 12th fret and say "3". Play the 13th fret and say "4". Play the 15th fret and say "5". Play the 17th fret and say "6". Play the 19th fret and say "7". Play the 20th fret and say "1" again.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MimVnBAuYqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -120,7 +118,7 @@ You can use the Major Scale formula anywhere on the guitar. Let's choose the 3rd
 
 Because we use the same formula, we start counting from "1" until we reach "7" and then once you get to the 15th fret, you're back at "1" again. Remember that the note at the 3rd fret has the same note name as the 15th fret, just at an octave higher. So if you count the notes that result from the Major Scale pattern, then you will find it creates a "palette" of 7 notes.
 
-#### Practice
+#### Practice Exercise
 
 1. Play the Major scale starting on the 3rd fret against the backing track below.
 
