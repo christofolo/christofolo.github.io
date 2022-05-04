@@ -180,7 +180,7 @@ __Answer:__ Yes!
 
 <center>Ok, give it a try!</center>
 
-Remember to say or sing each scale degree ("1...2...3...4...etc"). Here is the tab for you to follow:
+Here is the tab for you to follow:
 
 ![ ]({{ site.baseurl }}/images/c-major-scale-tab.png){: .mx-auto.d-block :}
 *Scale degrees are above the staff. The numbers on the 5th line are the frets that you should play on the A string.*
