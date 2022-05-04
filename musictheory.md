@@ -254,7 +254,9 @@ Ok, let's pick a scale that has a flat note. Start on the 1st fret of the low E 
 
 #### Practice Exercises:
 
-1. Play the F Major scale on the low E string and sing each note but an octave higher.
+1. Play the F Major scale on the low E string against this backing track:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC4DzsV4ivs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Part 9: Playing Scales Across the E, A, and D Strings
 
