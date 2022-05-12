@@ -353,6 +353,21 @@ In this exercise, we are just staying on the E, A, D, and G strings. Perform the
 
 ![ ]({{ site.baseurl }}/images/major-scale-7th-movement.png){: .mx-auto.d-block :}
 
+#### Example of an Octave Major Scale (C Major) in "Position 3" (ie. first finger starts)
+
+![ ]({{ site.baseurl }}/images/c-major-scale-one-octave.png){: .mx-auto.d-block :}
+*Notice the half step movement from 3 to 4 that goes up a string. Also notice the whole step movement from 6 to 7 that goes up a string. All other steps are on the same string and should be easy to see.*
+
+Follow the WWH-WWWH formula:
+
+1. Start on fret 3 of the of the A string (with left hand finger 1). Move a whole step to fret 5 (use finger 2).
+2. Move a whole step to fret 7 (with left hand finger 4).
+3. Move a half step to fret 3 of the D string (with finger 1).
+4. Move a whole step to fret 5 (finger 2).
+5. Move a whole step to fret 7 (finger 4).
+6. Move a whole step to fret 4 of the G string (finger 1).
+7. Move a half step to fret 5 to complete the scale (finger 2).
+
 
 ## Chapter 12: The Minor Scale Tonality
 
