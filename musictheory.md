@@ -371,22 +371,14 @@ Follow the WWH-WWWH formula:
 
 ## Chapter 12: The Minor Scale Tonality
 
-Some people teach that the Minor Scale Formula has its own formula (212-2122). But since we have already learned how to play the Major Scale, the secret to playing a Minor Scale is to start on the 6th scale degree. For example, start on the 6th degree in any position:
-
-![ ]({{ site.baseurl }}/images/major-scale-6th-movement.png){: .mx-auto.d-block :}
-
-Then continue up the scale...
-
-![ ]({{ site.baseurl }}/images/major-scale-7th-movement.png){: .mx-auto.d-block :}
-
-The Minor Scale is comprised of the same notes but starting on the 6th degree - in this case the note "A". Thus it is called the A Minor scale. It looks like this:
+Some people teach that the Minor Scale Formula has its own formula (212-2122). 
 
 ![ ]({{ site.baseurl }}/images/a-minor-scale-on-fretboard.png){: .mx-auto.d-block :}
 
-And the tab:
+But since we have already learned how to play the Major Scale, the secret to playing a Minor Scale is to start on the 6th scale degree. The Minor Scale is comprised of the same notes but just starts on the 6th degree - in this case the note "A". Thus it is called the A Minor scale. Here is how you can play it in open position across the A, D, and G strings (in one octave):
 
-![ ]({{ site.baseurl }}/images/a-minor-scale-tab.png){: .mx-auto.d-block :}
-*The scale degrees are above the staff. Minor Scales start on the 6th scale degree.*
+![ ]({{ site.baseurl }}/images/a-minor-scale-one-octave.png){: .mx-auto.d-block :}
+*One octave A minor scale visualized using scale degrees. Start on the 6th scale degree.*
 
 #### Practice Exercises:
 
