@@ -353,7 +353,7 @@ In this exercise, we are just staying on the E, A, D, and G strings. Perform the
 
 ![ ]({{ site.baseurl }}/images/major-scale-7th-movement.png){: .mx-auto.d-block :}
 
-#### Example of an Octave Major Scale (C Major) in "Position 3" (ie. first finger starts)
+#### Example of an Octave Major Scale (C Major) in "Position 3" (ie. first finger starts on fret 3)
 
 ![ ]({{ site.baseurl }}/images/c-major-scale-one-octave.png){: .mx-auto.d-block :}
 *Notice the half step movement from 3 to 4 that goes up a string. Also notice the whole step movement from 6 to 7 that goes up a string. All other steps are on the same string and should be easy to see.*
