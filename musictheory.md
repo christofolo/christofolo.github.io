@@ -582,7 +582,7 @@ The A Minor Triad is composed of 3 notes:
 
 A Minor's stacked thirds:
 
-| Interval Type:  | Major 3rd | Minor 3rd |
+| Interval Type:  | Minor 3rd | Major 3rd |
 | --------------- | ---- | --- |
 | Intervals:      | A-C  | C-E |
 
