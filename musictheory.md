@@ -6,13 +6,13 @@ subtitle: The basic knowledge of how music works
 
 Many guitarists will start noodling around on their instrument after learning how to play several chords and riffs. This is a lot of fun to do. However, the real magic happens when you can improvise with other musicians. This is what separates the visual arts from music - creative collaboration. It is so much more fun to play with other musicians.
 
-Basic music theory will give you the tools to understand how to fit your melodies over your bandmate's harmonies. Or, vice versa, it will show you how to create harmonies that fit with your bandmate's melodies.
+Basic music theory will give you the tools to understand how to fit your melodies over your bandmate's harmonies. Or, vice versa, it will show you how to create harmonies that fit with your bandmate's melodies. The small irony is that you need to understand harmony in order to improvise fitting melodies.
 
 If you're not in a band yet, you will learn how to improvise guitar riffs and melodies over any of your favorite songs.
 
 But let's start simple. 
 
-## Part 1: Why are two strings on the guitar both "E"?
+## Chapter 1: Why are two strings on the guitar both "E"?
 
 Here are the names of the strings. I'm sure by now you have seen an image like this.
 
@@ -20,15 +20,17 @@ Here are the names of the strings. I'm sure by now you have seen an image like t
 
 How can two strings get the same name? The two E strings on the guitar obviously produce very different pitches. One is really high. One is really low. These two pitches are a lot like two shades of the same color. For example, dark red and light red are both considered red. It's the same thing with music.
 
-![ ]({{ site.baseurl }}/images/red.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/red-darkred.png){: .mx-auto.d-block :}
 
 When you play both of the E strings at the same time you'll notice that they sound alike. They sound like they "just fit" together. This phenomenon is generally called consonance. And in this particular case, it is perfect consonance.
 
 __Consonance__ is the impression of __stability__ while __dissonance__ is the impression of __tension__ or clash. Playing your two E strings on the guitar should create a consonant, stable sound. If they don't, it's most likely that your guitar is not in tune.
 
+#### Listening Exercise 
+
 Go to <a href="https://szynalski.com/tone#E2,squ,v0.75">https://www.szynalski.com/tone-generator</a>. The frequency should already be set at 82.4 Hz.
 
-Next, click the x2 button to double the frequency of the pitch. Do you notice what happens to the name of the tone? Then click the x1/2 button to halve the frequency. 
+Next, click the "times 2" button to double the frequency of the pitch. Do you notice what happens to the name of the tone? Then click the "times .5" button to halve the frequency. 
 
 ![ ]({{ site.baseurl }}/images/frequency-2x-or-half.png){: .mx-auto.d-block :}
 
@@ -36,17 +38,17 @@ What is the frequency relationship between the pitches at E2 and E3? What about 
 
 __Definition of "note"__: A note is a named pitch. When you hear the sound produced by an instrument, that is a pitch. We've given names to these pitches by using letters of the alphabet. 
 
-## Part 2: Consonance in music means there are only 12 note names
+## Chapter 2: Consonance in music means there are only 12 note names
 
 You'll continue to notice this effect of consonance when you play any of the open strings and then play the 12th fret of that same string. The pitch at the 12th fret is in perfect consonance with the pitch of that same open string. 
 
-The 12th fret, therefore, gets the same note name. However, it is a note that is an __octave__ higher. 
+The 12th fret, therefore, gets the same note name. However, it is a note that is an __octave__ higher. This is why that fret gets a special marker - the double dots. 
 
 Did you try out the tone generator? A pitch that has twice the frequency of another is exactly one octave higher. A pitch that has half the frequency of another is one octave lower. 
 
 ![ ]({{ site.baseurl }}/images/eadgbe.png){: .mx-auto.d-block :}
 
-Without knowing the names of all the notes on the guitar, you can play the note that is an octave higher. For example, play the note on the 3rd fret of the E string. 3 + 12 = 15. So next play the 15th fret of the E string. Notice that the note at the 15th fret sounds like a lighter shade of the note at the 3rd fret. When you learn the name of the note at the 3rd fret, you will also know the name of the note that is 12 frets higher at the 15th fret.
+Without knowing the names of all the notes on the guitar, you can play the note that is an octave higher. For example, play the note on the 3rd fret of the E string. 3 + 12 = 15. So next play the 15th fret of the E string. Notice that the note at the 15th fret sounds like a lighter shade of the note at the 3rd fret. Eventually you will learn the letter name of the note at the 3rd fret and therefore automatically know the letter name of the 15th fret.
 
 ![ ]({{ site.baseurl }}/images/3-to-15.png){: .mx-auto.d-block :}
 *The dots above the 12th fret help you know what you are playing. They are the same notes but just an octave higher. For example, the first dot above the 12th fret (15th fret) has the same note name as the 3rd fret.*
@@ -66,7 +68,7 @@ Before we get into those note names, we need to next discuss The Major Scale fir
 *The frets are on the line. The left hand fingerings are below. Notice that once you reach the 5th fret, you start playing with the 1st finger again.*
 
 
-## Part 3: The Major Scale creates a palette of 7 "colors"
+## Chapter 3: The Major Scale creates a palette of 7 "colors"
 
 ![ ]({{ site.baseurl }}/images/solfa.png?abc){: .mx-auto.d-block :}
 *The Solfege Syllables*
@@ -77,8 +79,8 @@ The Major Scale is probably the most important collection of notes that you will
 
 To build the Major Scale, there is a simple formula to learn. It's easy to remember because it's like a phone number. 
 
-![ ]({{ site.baseurl }}/images/221-2221.png?abc){: .mx-auto.d-block :}
-*The Major Scale formula.*
+![ ]({{ site.baseurl }}/images/221-2221.png?abc123){: .mx-auto.d-block :}
+*The Major Scale formula in guitar speak.*
 
 Here's how to create the "palette" (the Major Scale) on the guitar:
 
@@ -95,7 +97,7 @@ Here's how to create the "palette" (the Major Scale) on the guitar:
 *There are 7 notes. Remember that the two pitches that are 12 frets apart get the same name.*
 
 ![ ]({{ site.baseurl }}/images/major-scale-pattern-rainbow.png?abc?2272022){: .mx-auto.d-block :}
-*There are only 7 notes. The last note is "1" again but at the higher "octave".*
+*There are only 7 notes. The last note is "1" again but at the higher "octave". Notice the ligher shade of red for the higher "1".*
 
 Because most music revolves around just 7 notes (the Major Scale), we only use 7 letters of the alphabet for the basis of naming all the pitches. We would run out of letters if we gave every pitch a unique name.
 
@@ -107,7 +109,7 @@ __Important Definition:__ The first note of the Major Scale has a general descri
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MimVnBAuYqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Part 4: All Major Scales Sound the Same because Music is Relative
+## Chapter 4: All Major Scales Sound the Same because Music is Relative
 
 Music is relative. Try this out and listen carefully.
 
@@ -116,7 +118,7 @@ You can use the Major Scale formula anywhere on the guitar. Let's choose the 3rd
 ![ ]({{ site.baseurl }}/images/gmajor-scale-221-2221.png?abc){: .mx-auto.d-block :}
 *Sing or hum the pitches as you play them. 3rd fret ("1"), 5th fret ("2"), 7th fret ("3") and so on...*
 
-Because we use the same formula, we start counting from "1" until we reach "7" and then once you get to the 15th fret, you're back at "1" again. Remember that the note at the 3rd fret has the same note name as the 15th fret, just at an octave higher. So if you count the notes that result from the Major Scale pattern, then you will find it creates a "palette" of 7 notes.
+Because we use the same formula (221-2221), even though our starting note (the Tonic) is different, the scale sounds essentially the same... just shifted. This is why we can use the exact same scale degree numbers (1 through 7) no matter where we start. 
 
 #### Practice Exercise
 
@@ -125,7 +127,7 @@ Because we use the same formula, we start counting from "1" until we reach "7" a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IvXXdGhJA1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Part 5: The First Major Scale to learn is The C Major Scale
+## Chapter 5: The First Major Scale to learn is The C Major Scale
 
 If "A" is the first note in the alphabet, shouldn't the first major scale be the A Major Scale? There's a long history as to why C is actually the first note in the musical alphabet. It's kind of like asking "why are the 3 primary colors red, yellow, and blue?" Maybe in another universe the 3 primary colors are Orange, Green, and Violet. And maybe the first note in their musical alphabet is "A". 
 
@@ -158,9 +160,9 @@ Because we are forced to follow the major scale pattern (221-2221), some note na
 
 1. If C is on fret 8, we also know that fret 20 is also "C" (just at a higher pitch) because it is 12 frets away. Can you work out what note is on fret 7 of the low E string? (Hint: 7+12=19) Can you figure out what note is on fret 5? Fret 3? Fret 1?
 
-## Part 6: The A String
+## Chapter 6: The A String
 
-If you did the exercise in part 5, you should have been able to figure out what the note names are for frets 7, 5, 3, and 1 of the low E string. Here are the answers:
+If you did the exercise in chapter 5, you should have been able to figure out what the note names are for frets 7, 5, 3, and 1 of the low E string. Here are the answers:
 
 <center>Fret 1 is F. Fret 3 is G. Fret 5 is A. Fret 7 is B.</center>
 
@@ -168,7 +170,7 @@ You may have noticed that you have an "A" string and that fret 5 of the low E st
 
 <center>Well, they do!</center>
 
-If B is two frets higher than A, then what does that tell us about the A string? What is fret 2 of the A string?
+If B is two frets higher than A, then what does that tell us about the A string? What note is fret 2 of the A string?
 
 __Answer:__ it is B. If C is the very next note above B, then what does that tell us about the 3rd fret of the A string?
 
@@ -187,7 +189,7 @@ Here is the tab for you to follow:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MimVnBAuYqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Part 7: Building the G Major Scale (intro to "sharps")
+## Chapter 7: Building the G Major Scale (intro to "sharps")
 
 If you did the various Practice Exercises in the previous sections, then you discovered that fret 3 is the note "G". 
 
@@ -228,9 +230,9 @@ Build the G Major Scale:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IvXXdGhJA1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Part 8: A pitch can have two names (intro to "flats")
+## Chapter 8: A pitch can have two names (intro to "flats")
 
-The pitch that occurs at the low E string's 14th fret (F♯) has another name: G♭ (pronounced "G flat"). Yeah, this is kind of weird. The reason why G♭ is not used in the G Major Scale is because we need to fulfill rule number 2 (from Part 7). If you use G♭ instead of F♯, then the scale would skip an "F" entirely. 
+The pitch that occurs at the low E string's 14th fret (F♯) has another name: G♭ (pronounced "G flat"). Yeah, this is kind of weird. The reason why G♭ is not used in the G Major Scale is because we need to fulfill rule number 2 (from Chapter 7). If you use G♭ instead of F♯, then the scale would skip an "F" entirely. 
 
 This is wrong: G, A, B, C, D, E, G♭, G. 
 
@@ -258,7 +260,7 @@ Ok, let's pick a scale that has a flat note. Start on the 1st fret of the low E 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cC4DzsV4ivs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Part 9: Playing Scales Across the E, A, and D Strings
+## Chapter 9: Playing Scales Across the E, A, and D Strings
 
 The hard part about playing scales on a single string is that you are constantly shifting your left hand around the neck. The reason why I teach this way is to help you visualize the logic of notes that are higher in pitch get closer to the bridge/right hand/sound hole. When you want to play notes that go lower in pitch, you move towards the nut/head stock.
 
@@ -272,7 +274,7 @@ However, the guitar is a matrix. It has 6 strings. And therefore we can simplify
 1. If F is 2 frets lower than G, then that means the entire F Major Scale is shifted 2 frets towards the nut. Are you able to figure out how to play the F Major Scale across the 3 lower strings without me showing you the tab?
 
 
-## Part 10: All 12 Notes and Their Names. The Chromatic Scale
+## Chapter 10: All 12 Notes and Their Names. The Chromatic Scale
 
 From C to C, here are the names of all 12 notes. Underneath each note, you'll see the fret number of the low E string. There are two rows because each flat/sharp note has two names.
 
@@ -291,36 +293,76 @@ __Remember:__ There is a half-step between ALL notes. However, the only two natu
 ![ ]({{ site.baseurl }}/images/chromatic-tab.png){: .mx-auto.d-block :}
 *The left hand finger is below the staff. Use your pinky to play frets 4 and 5.*
 
-## Part 11: Whole Steps and Half Steps
+## Chapter 11: Whole Steps and Half Steps
 
 The 221-2221 formula describes how big of a step you move from one note to the next. A half step is the smallest step that you can take. You only move 1 fret with a half-step. A whole step is 2 half-steps. 
 
 The 221-2221 formula can also be called WWH-WWWH. "W" represents a whole step (moving 2 frets). "H" represents a half step (moving just 1 fret).
 
-![ ]({{ site.baseurl }}/images/c-major-scale-with-chromatic.png){: .mx-auto.d-block :}
+#### First Major Scale movement: a whole step (W).
 
-1. We have chosen "C" to be our tonic.
-2. Move a __whole step__ (2 half steps), the next note in the scale is D. 
-3. Move a __whole step__ (2 half steps), the next note in the scale is E.
-4. Move a __half step__, the next note in the scale is F.
-5. Move a __whole step__ (2 half steps), the next note in the scale is G.
-6. Move a __whole step__ (2 half steps), the next note in the scale is A.
-7. Move a __whole step__ (2 half steps), the next note in the scale is B.
-8. Move a __half step__, the final note in the scale is C again.
+Let's play the C Major scale and start on the 8th fret of the low E string. 
 
-Because there are so many W's, I like to separate it like this WWH - W - WWH. There are 2 "WWH" pieces and they are "attached" with a "W" piece. Or you can just continue using the 221-2221 formula.
+![ ]({{ site.baseurl }}/images/major-scale-1st-movement.png){: .mx-auto.d-block :}
+
+You should already know that you can move up a whole step by going 2 frets to the right. However, the other upward whole step movement is to the A string on the 5th fret. This movement is a leftward 4 fret stretch, up a string. It is your choice.
+
+#### Second Major Scale movement: another whole step (W).
+
+So now you are either on the 10th fret of the low E string or 5th fret of the A string. You will always have the option of moving 2 frets to the right to move a whole step. However, you can still move up a string. I have visualized all 4 options.
+
+![ ]({{ site.baseurl }}/images/major-scale-2nd-movement.png){: .mx-auto.d-block :}
+
+Perform the same movement to take you to one of three places:
+
+* 12th fret of the low E string
+* 7th fret of the A string. Notice that you can arrive here if you were previously on the 5th fret of the A string or the 10th fret of the low E string.
+* 2nd fret of the D string
+
+It is your choice.
+
+#### Third Major Scale movement: a half step (H).
+
+There are two half-step movments. The first one is easy to do - just move 1 fret to the right. Or do the 5 fret stretch while moving up a string.
+
+![ ]({{ site.baseurl }}/images/major-scale-3rd-movement.png){: .mx-auto.d-block :}
+
+It is your choice.
+
+#### Fourth Major Scale movement: a whole step (W).
+
+Do your typical whole step movement: move right by 2 frets or move up a string and to the left with a 4 fret stretch.
+
+![ ]({{ site.baseurl }}/images/major-scale-4th-movement.png){: .mx-auto.d-block :}
+
+* If you are on the 3rd fret of the D string, you can make that same string whole step movement.
+* If you are on the 8th fret of the low A string, you can make the 4 fret stretch to the left and land on the 5th fret of the D string.
+* If you are on the 13th fret of the low E string, you can make the 4 fret stretch to the left and land on the 10th fret of the A string.
+
+#### Fifth Major Scale movement: another whole step (W).
+
+![ ]({{ site.baseurl }}/images/major-scale-5th-movement.png){: .mx-auto.d-block :}
+
+#### Sixth Major Scale movement: another whole step (W).
+
+In this exercise, we are just staying on the E, A, D, and G strings. Perform the usual whole step movement.
+
+![ ]({{ site.baseurl }}/images/major-scale-6th-movement.png){: .mx-auto.d-block :}
+
+#### Seventh Major Scale movement: a half step (H) to reach the "1" again.
+
+![ ]({{ site.baseurl }}/images/major-scale-7th-movement.png){: .mx-auto.d-block :}
 
 
+## Chapter 12: The Minor Scale Tonality
 
-#### Practice Exercises:
+Some people teach that the Minor Scale Formula has its own formula (212-2122). But since we have already learned how to play the Major Scale, the secret to playing a Minor Scale is to start on the 6th scale degree. For example, start on the 6th degree in any position:
 
-1. When playing any Major scale, say which step you are about to do.
+![ ]({{ site.baseurl }}/images/major-scale-6th-movement.png){: .mx-auto.d-block :}
 
-## Part 12: The Minor Scale "Formula"
+Then continue up the scale...
 
-Some people teach that the Minor Scale Formula has its own formula (212-2122). But since we have already learned how to play the Major Scale, the secret to playing a Minor Scale is to start on the 6th degree. Let's review the C Major Scale on just one string. Here is the tab:
-
-![ ]({{ site.baseurl }}/images/c-major-scale-tab.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/major-scale-7th-movement.png){: .mx-auto.d-block :}
 
 The Minor Scale is comprised of the same notes but starting on the 6th degree - in this case the note "A". Thus it is called the A Minor scale. It looks like this:
 
@@ -337,7 +379,7 @@ And the tab:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpQ6c0NotCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Part 13: Introduction to Intervals - Why is the Major Scale called "major" and why is the Minor Scale "minor"?
+## Chapter 13: Introduction to Intervals - Why is the Major Scale called "major" and why is the Minor Scale "minor"?
 
 Why are "Major Scales" considered Major and why are "Minor Scales" considered Minor? The answer lies in the distance between the Tonic and the 3rd note.
 
@@ -367,7 +409,7 @@ As you can see above, the distance from C to E is 4 half steps, thus Major. And 
 
 Think of constellations to understand the Major and Minor designations. The Big Dipper is called Ursa Major because it's bigger. The Little Dipper is called Ursa Minor because it's smaller. Major Scales are major because the interval between the 1st and 3rd notes is "big" (a Major Third). Whereas the interval between the 1st and 3rd notes in a minor scale is "small" (a Minor Third).
 
-## Part 14: Exploring Thirds in the C Major Scale
+## Chapter 14: Exploring Thirds in the C Major Scale
 
 A Major 3rd is a root tone and a tone __4__ half steps higher. A Minor 3rd is a root tone and a tone __3__ half steps higher. Both types of Third intervals will span 3 note names (C to E and A to C).
 
@@ -381,31 +423,32 @@ When constructing intervals, any note can be the root note. Some people get conf
 
 But which ones are Major and which ones are Minor? Let's explore...
 
-With C as the root, C to E is a Major Third:
+With C as the root, C to E is a Major Third because those two notes are 4 half steps apart and they span 3 note letters.
 
 | Half steps traversed: | 0  | 1  | 2  | 3  | 4  |
 | -- | -- | -- | -- | -- | -- |
 | Notes: | C  | D♭ | D  | E♭ | E  |
 
-As visualized on the guitar on both the low E string and the A string:
+As visualized on the guitar, there are just 3 shapes to play a Major 3rd. On a single string, a Major 3rd is always just 4 frets up the neck. Between the E, A, D, G strings and the B-E strings, the Major 3rd shape is diagonal. Between the G-B strings, the Major 3rd shape is stacked.
 
-![ ]({{ site.baseurl }}/images/c-to-e-intervals-on-a-e.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/c-e-3rd-fretboard.png){: .mx-auto.d-block :}
+*Not all C's and E's are depicted.*
 
-With D as the root, D to F is a Minor Third:
+With D as the root, D to F is a Minor Third because those two notes are just 3 half steps apart and they spant 3 note letters.:
 
-| 0  | 1  | 2  | 3  |
+| Half steps traversed: | 0  | 1  | 2  | 3  |
 | -- | -- | -- | -- |
-| D  | E♭ | E  | F  |
+| Notes: | D  | E♭ | E  | F  |
 
-As visualized on the guitar on both the low E string and the A string:
+As visualized on the guitar, there are just 3 shapes to play a Minor 3rd. On a single string, a Minor 3rd is always just 3 frets up the neck. Between the E, A, D, G strings and the B-E strings, the Major 3rd shape is 2 frets back. Between the G-B strings, the Major 3rd shape is diagonal.
 
-![ ]({{ site.baseurl }}/images/d-to-f-intervals-on-a-e.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/d-f-3rd-fretboard.png){: .mx-auto.d-block :}
 
 With E as the root, E to G is a Minor Third:
 
-| 0  | 1  | 2  | 3  |
+| Half steps traversed: | 0  | 1  | 2  | 3  |
 | -- | -- | -- | -- |
-| E  | F  | G♭ | G  |
+| Notes: | E  | F  | G♭ | G  |
 
 As visualized on the guitar on both the low E string and the A string:
 
@@ -413,19 +456,19 @@ As visualized on the guitar on both the low E string and the A string:
 
 With F as the root, F to A is a Major Third:
 
-| 0  | 1  | 2  | 3  | 4  |
+| Half steps traversed: | 0  | 1  | 2  | 3  | 4  |
 | -- | -- | -- | -- | -- |
-| F  | G♭ | G  | A♭ | A  |
+| Notes: | F  | G♭ | G  | A♭ | A  |
 
 As visualized on the guitar on both the low E string and the A string:
 
-![ ]({{ site.baseurl }}/images/f-to-a-intervals-on-a-e.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/f-a-3rd-fretboard.png){: .mx-auto.d-block :}
 
 With G as the root, G to B is a Major Third:
 
-| 0  | 1  | 2  | 3  | 4  |
+| Half steps traversed: | 0  | 1  | 2  | 3  | 4  |
 | -- | -- | -- | -- | -- |
-| G  | A♭ | A  | B♭ | B  |
+| Notes: | G  | A♭ | A  | B♭ | B  |
 
 As visualized on the guitar on both the low E string and the A string:
 
@@ -433,9 +476,9 @@ As visualized on the guitar on both the low E string and the A string:
 
 With A as the root, A to C is a Minor Third:
 
-| 0  | 1  | 2  | 3  |
+| Half steps traversed: | 0  | 1  | 2  | 3  |
 | -- | -- | -- | -- |
-| A  | B♭ | B  | C  |
+| Notes: | A  | B♭ | B  | C  |
 
 As visualized on the guitar on both the low E string and the A string:
 
@@ -443,9 +486,9 @@ As visualized on the guitar on both the low E string and the A string:
 
 With B as the root, B to D is a Minor Third:
 
-| 0  | 1  | 2  | 3  |
+| Half steps traversed: | 0  | 1  | 2  | 3  |
 | -- | -- | -- | -- |
-| B  | C  | D♭ | D  |
+| Notes: | B  | C  | D♭ | D  |
 
 As visualized on the guitar:
 
@@ -460,7 +503,7 @@ __M__ = Major Third. __m__ = Minor Third
 | --- | -- | -- | -- | -- | -- | -- | -- |
 | M/m |  M |  m |  m |  M |  M |  m |  m |
 
-## Part 15: Major Triads vs. Minor Triads (3 Note Chords)
+## Chapter 15: Major Triads vs. Minor Triads (3 Note Chords)
 
 Triad is the most common type of "chord". "Tri" in triad means three. A triad is 2 third intervals put together. For example, C - E - G is called the C Major triad. The root note is C. The C-E third is a Major third. The E-G third is a Minor Third. It is called a Major Triad because the 1st Third is Major (C-E).
 
@@ -476,11 +519,23 @@ The C Major Triad is composed of 3 notes:
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | C    | E   | G   |
 
+You can also think of the triad as two stacked thirds
+
+| Interval Type:  | Major 3rd | Minor 3rd |
+| --------------- | ---- | --- |
+| Intervals:    | C-E    | E-G   |
+
 The D Minor Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | D    | F   | A   |
+
+Notice that the type of interval has flipped.
+
+| Interval Type:  | Minor 3rd | Major 3rd |
+| --------------- | ---- | --- |
+| Intervals:    | D-F    | F-A   |
 
 The E Minor Triad is composed of 3 notes:
 
@@ -488,11 +543,24 @@ The E Minor Triad is composed of 3 notes:
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | E    | G   | B   |
 
+E Minor's stacked thirds:
+
+| Interval Type:  | Minor 3rd | Major 3rd |
+| --------------- | ---- | --- |
+| Intervals:      | E-G  | G-B |
+
+
 The F Major Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | F    | A   | C   |
+
+F Major's stacked thirds:
+
+| Interval Type:  | Major 3rd | Minor 3rd |
+| --------------- | ---- | --- |
+| Intervals:      | F-A  | A-C |
 
 The G Major Triad is composed of 3 notes:
 
@@ -500,11 +568,23 @@ The G Major Triad is composed of 3 notes:
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | G    | B   | D   |
 
+G Major's stacked thirds:
+
+| Interval Type:  | Major 3rd | Minor 3rd |
+| --------------- | ---- | --- |
+| Intervals:      | G-B  | B-D |
+
 The A Minor Triad is composed of 3 notes:
 
 | Interval Name:  | Root | 3rd | 5th |
 | --------------- | ---- | --- | --- |
 | Chord Tones:    | A    | C   | E   |
+
+A Minor's stacked thirds:
+
+| Interval Type:  | Major 3rd | Minor 3rd |
+| --------------- | ---- | --- |
+| Intervals:      | A-C  | C-E |
 
 ### The Perfect 5th
 
@@ -519,7 +599,7 @@ All Major and minor triads contain a perfect 5th interval from the root note to 
 
 __Important thing to understand:__ Triads contain BOTH Major and Minor third intervals. The thing that distinguishes Major triads from Minor traids is how they are built.
 
-## Part 16: The Diminished Triad
+## Chapter 16: The Diminished Triad
 
 Major and Minor triads are each composed of a Major third and a Minor third. However, what if you were to create a chord that is composed of two minor thirds? This triad is called a Diminished triad and it happens naturally in every Major and Minor key.
 
@@ -539,7 +619,7 @@ The interval from the root note to the 5th is called a diminished 5th because on
 
 Remember: a perfect 5th interval is 7 half steps apart.
 
-## Part 17: Numbering Each Chord - The Nashville Numbering System
+## Chapter 17: Numbering Each Chord - The Nashville Numbering System
 
 All 7 triads in the key of C. R = root tone of the chord. 3 = the "third" of the chord. 5 = the "5th" of the chord. Because C is the first note in the scale, its chord is called the "one" chord but use roman numerals because we want to distinguish these numbers from the chord tone numbers.
 
@@ -550,13 +630,13 @@ All 7 triads in the key of C. R = root tone of the chord. 3 = the "third" of the
 
 A big Roman Numeral means that it is a Major chord. A small roman number means that it is a Minor chord. The vii° is the diminished chord.
 
-In part 10, we found that there are 3 Major third dyads (sometimes call "double stops") in a Major key: C-E, F-A, and G-B. We also found that there are 4 Minor third dyads (D-F, E-G, A-C, B-D).
+In Chapter 14, we found that there are 3 Major third dyads (sometimes call "double stops") in a Major key: C-E, F-A, and G-B. We also found that there are 4 Minor third dyads (D-F, E-G, A-C, B-D).
 
-In parts 11 and 12, we then constructed the appropriate triad from each scale degree. We determined that chords built off of C, F, and G are Major. Chords built off of D, E, and A are Minor. And the chord built off of the B is diminished.
+In Chapters 15 and 16, we then constructed the appropriate triad from each scale degree. We determined that chords built off of C, F, and G are Major. Chords built off of D, E, and A are Minor. And the chord built off of the B is diminished.
 
 __Important thing to understand:__ A Major key produces chords that are Major, Minor, and diminished. It's called a Major key because the first chord is Major.
 
-## Part 18: Improvisation for Beginners. Applying Theory to Make Music.
+## Chapter 18: Improvisation for Beginners. Applying Theory to Make Music.
 
 ![ ]({{ site.baseurl }}/images/stepping-stones.jpeg){: .mx-auto.d-block :}
 
