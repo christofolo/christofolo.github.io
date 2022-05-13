@@ -301,6 +301,8 @@ The 221-2221 formula can also be called WWH-WWWH. "W" represents a whole step (m
 
 #### First Major Scale movement: a whole step (W).
 
+![ ]({{ site.baseurl }}/images/major-scale-1-to-2.png){: .mx-auto.d-block :}
+
 Let's play the C Major scale and start on the 8th fret of the low E string. 
 
 ![ ]({{ site.baseurl }}/images/major-scale-1st-movement.png){: .mx-auto.d-block :}
@@ -308,6 +310,8 @@ Let's play the C Major scale and start on the 8th fret of the low E string.
 You should already know that you can move up a whole step by going 2 frets to the right. However, the other upward whole step movement is to the A string on the 5th fret. This movement is a leftward 4 fret stretch, up a string. It is your choice.
 
 #### Second Major Scale movement: another whole step (W).
+
+![ ]({{ site.baseurl }}/images/major-scale-2-to-3.png){: .mx-auto.d-block :}
 
 So now you are either on the 10th fret of the low E string or 5th fret of the A string. You will always have the option of moving 2 frets to the right to move a whole step. However, you can still move up a string. I have visualized all 4 options.
 
@@ -323,6 +327,8 @@ It is your choice.
 
 #### Third Major Scale movement: a half step (H).
 
+![ ]({{ site.baseurl }}/images/major-scale-3-to-4.png){: .mx-auto.d-block :}
+
 There are two half-step movments. The first one is easy to do - just move 1 fret to the right. Or do the 5 fret stretch while moving up a string.
 
 ![ ]({{ site.baseurl }}/images/major-scale-3rd-movement.png){: .mx-auto.d-block :}
@@ -330,6 +336,8 @@ There are two half-step movments. The first one is easy to do - just move 1 fret
 It is your choice.
 
 #### Fourth Major Scale movement: a whole step (W).
+
+![ ]({{ site.baseurl }}/images/major-scale-4-to-5.png){: .mx-auto.d-block :}
 
 Do your typical whole step movement: move right by 2 frets or move up a string and to the left with a 4 fret stretch.
 
@@ -341,15 +349,21 @@ Do your typical whole step movement: move right by 2 frets or move up a string a
 
 #### Fifth Major Scale movement: another whole step (W).
 
+![ ]({{ site.baseurl }}/images/major-scale-5-to-6.png){: .mx-auto.d-block :}
+
 ![ ]({{ site.baseurl }}/images/major-scale-5th-movement.png){: .mx-auto.d-block :}
 
 #### Sixth Major Scale movement: another whole step (W).
+
+![ ]({{ site.baseurl }}/images/major-scale-6-to-7.png){: .mx-auto.d-block :}
 
 In this exercise, we are just staying on the E, A, D, and G strings. Perform the usual whole step movement.
 
 ![ ]({{ site.baseurl }}/images/major-scale-6th-movement.png){: .mx-auto.d-block :}
 
 #### Seventh Major Scale movement: a half step (H) to reach the "1" again.
+
+![ ]({{ site.baseurl }}/images/major-scale-7-to-1.png){: .mx-auto.d-block :}
 
 ![ ]({{ site.baseurl }}/images/major-scale-7th-movement.png){: .mx-auto.d-block :}
 
@@ -438,8 +452,7 @@ With C as the root, C to E is a Major Third because those two notes are 4 half s
 
 As visualized on the guitar, there are just 3 shapes to play a Major 3rd. On a single string, a Major 3rd is always just 4 frets up the neck. Between the E, A, D, G strings and the B-E strings, the Major 3rd shape is diagonal. Between the G-B strings, the Major 3rd shape is stacked.
 
-![ ]({{ site.baseurl }}/images/c-e-3rd-fretboard.png){: .mx-auto.d-block :}
-*Not all C's and E's are depicted.*
+![ ]({{ site.baseurl }}/images/c-e.png){: .mx-auto.d-block :}
 
 With D as the root, D to F is a Minor Third because those two notes are just 3 half steps apart and they spant 3 note letters.:
 
@@ -449,7 +462,7 @@ With D as the root, D to F is a Minor Third because those two notes are just 3 h
 
 As visualized on the guitar, there are just 3 shapes to play a Minor 3rd. On a single string, a Minor 3rd is always just 3 frets up the neck. Between the E, A, D, G strings and the B-E strings, the Major 3rd shape is 2 frets back. Between the G-B strings, the Major 3rd shape is diagonal.
 
-![ ]({{ site.baseurl }}/images/d-f-3rd-fretboard.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/d-f.png){: .mx-auto.d-block :}
 
 With E as the root, E to G is a Minor Third:
 
@@ -459,7 +472,7 @@ With E as the root, E to G is a Minor Third:
 
 As visualized on the guitar on both the low E string and the A string:
 
-![ ]({{ site.baseurl }}/images/e-to-g-intervals-on-a-e.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/e-g.png){: .mx-auto.d-block :}
 
 With F as the root, F to A is a Major Third:
 
@@ -469,7 +482,7 @@ With F as the root, F to A is a Major Third:
 
 As visualized on the guitar on both the low E string and the A string:
 
-![ ]({{ site.baseurl }}/images/f-a-3rd-fretboard.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/f-a.png){: .mx-auto.d-block :}
 
 With G as the root, G to B is a Major Third:
 
@@ -479,7 +492,7 @@ With G as the root, G to B is a Major Third:
 
 As visualized on the guitar on both the low E string and the A string:
 
-![ ]({{ site.baseurl }}/images/g-to-b-intervals-on-a-e.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/g-b.png){: .mx-auto.d-block :}
 
 With A as the root, A to C is a Minor Third:
 
@@ -489,7 +502,7 @@ With A as the root, A to C is a Minor Third:
 
 As visualized on the guitar on both the low E string and the A string:
 
-![ ]({{ site.baseurl }}/images/a-to-c-intervals-on-a-e.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/a-c.png){: .mx-auto.d-block :}
 
 With B as the root, B to D is a Minor Third:
 
@@ -499,7 +512,7 @@ With B as the root, B to D is a Minor Third:
 
 As visualized on the guitar:
 
-![ ]({{ site.baseurl }}/images/b-to-d-intervals-on-a-e.png){: .mx-auto.d-block :}
+![ ]({{ site.baseurl }}/images/b-d.png){: .mx-auto.d-block :}
 
 #### Summary
 
