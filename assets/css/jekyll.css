@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -22,14 +22,26 @@ body {
   {% endif %}
   overflow-wrap: break-word;
 }
+
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
+}
+@media (min-width: 1000px) { 
+  @font-face {
+    font-family: 'Caroni Regular';
+    src: url("Caroni-Regular.otf");
+  }
+  h1,h2,h3,h4,h5,h6, 
+  div.intro-header div.page-heading span.page-subheading, 
+  .intro-header .post-heading span.post-subheading, 
+  img + em {
+    font-family: 'Caroni Regular';
+  }
 }
 h1 {
   font-size: 2.25rem;
@@ -985,6 +997,8 @@ img + em {
   font-size: .8em;
 }
 
+span.natural, span.flat {margin-left: -5px;margin-right:-5px;}
+
 /* daily guessing game css */
 
 #daily_container {
@@ -1079,4 +1093,13 @@ header {
 
 .spacer-half {
   flex-grow: 0.5;
+}
+
+.width185 {
+  text-align: left;
+  width:185px;
+}
+.width146 {
+  text-align: left;
+  width:146px;
 }
