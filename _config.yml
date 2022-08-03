@@ -14,11 +14,11 @@ author: Chris Paul
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Beginner Level 1: "beginner-level-1"
-  Beginner Level 2: "beginner-level-2"
-  Intermediate: "intermediate"
-  Music Theory for Visual Learners: "musictheory"
-  Downloads: "store"
+  # Beginner Level 1: "beginner-level-1"
+  # Beginner Level 2: "beginner-level-2"
+  # Intermediate: "intermediate"
+  # Music Theory for Visual Learners: "musictheory"
+  # Downloads: "store"
 
 # --- Logo --- #
 
