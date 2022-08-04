@@ -4,6 +4,8 @@ title:
 subtitle: Online Music Education Should Be Free
 ---
 
+# Guitar!
+
 Follow along with my Beginning Guitar High School course. We start from the very beginning and by week 8 we are playing along with Hotel California! All you have to do is show up. Here is a general 8 week outline:
 
 ## Week 1
