@@ -1,12 +1,10 @@
 ---
 layout: home
-title: 
+title: The 8 Week no-experience-needed Guitar Course
 subtitle: Online Music Education Should Be Free
 ---
 
-# Guitar!
-
-Follow along with my Beginning Guitar High School course. We start from the very beginning and by week 8 we are playing along with Hotel California! All you have to do is show up. Here is a general 8 week outline:
+Follow along with my Beginning Guitar High School course that starts on August 15, 2022. We start from the very beginning and by week 8 we are playing along with Hotel California! All you have to do is show up. Here is a general 8 week outline:
 
 ## Week 1
 
