@@ -29,10 +29,12 @@ I understand that some of the songs won't be your favorite. Think of it as an op
 
 You can visit this page each day to see updates. Or you can email me at chrispaul.ws@gmail.com. I will then email you when I post a new lesson.
 
-<!-- ## Week 1
+## Week 1
 
-* Tuning
-* The basics of how Music works
+* <a href="/277930517a53a33a38211e38b09f6194">Day 1</a>
+
+
+<!-- The basics of how Music works
 * Three 2-finger chords and one 1-finger chord
 * Basic rhythmic strumming - keeping a beat
 * Basic fingerstyle technique - the open G, B, and E strings
