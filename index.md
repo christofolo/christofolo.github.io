@@ -33,6 +33,7 @@ You can visit this page each day to see updates. Or you can email me at chrispau
 
 * <a href="/277930517a53a33a38211e38b09f6194">Day 1</a>
 * <a href="/4888a6c6f44ef4bc34d74f54cd8f89a1">Day 2</a>
+* <a href="/642c1706c0ea8138f2971eb6284c00df">Day 3</a>
 
 
 <!-- The basics of how Music works
