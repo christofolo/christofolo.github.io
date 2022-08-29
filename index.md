@@ -35,6 +35,10 @@ You can visit this page each day to see updates. Or you can email me at chrispau
 * <a href="/4888a6c6f44ef4bc34d74f54cd8f89a1">Day 2</a>
 * <a href="/642c1706c0ea8138f2971eb6284c00df">Day 3</a>
 
+## Week 2
+
+* <a href="/65b34028c4dd5bf3e49fc46acacb350c">Day 4</a>
+
 
 <!-- The basics of how Music works
 * Three 2-finger chords and one 1-finger chord
