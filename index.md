@@ -38,6 +38,7 @@ You can visit this page each day to see updates. Or you can email me at chrispau
 ## Week 2
 
 * <a href="/65b34028c4dd5bf3e49fc46acacb350c">Day 4</a>
+* <a href="/83c6805b2eb4106918405dc1b0025565">Day 5</a>
 
 
 <!-- The basics of how Music works
