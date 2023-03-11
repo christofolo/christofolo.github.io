@@ -6,4 +6,4 @@ subtitle: A Music theory book by Denisse Vallecillos. Fretboard Diagrams by Chri
 
 Get the e-book!  [(https://www.amazon.com/dp/B0BWH3LGQ9)](https://www.amazon.com/dp/B0BWH3LGQ9)
 
-
+Also readable at [(https://slcpl.pressbooks.pub/musictheoryandthefretboard/)](https://slcpl.pressbooks.pub/musictheoryandthefretboard/)
