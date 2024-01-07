@@ -8,6 +8,6 @@ Read the ebook for free at [(https://slcpl.pressbooks.pub/musictheoryandthefretb
 
  Support our work by purchasing a copy on Amazon at [(https://www.amazon.com/dp/B0BWH3LGQ9)](https://www.amazon.com/dp/B0BWH3LGQ9)
 
- ## New for 2024
+ # New for 2024
 
  Weekly Zoom Classes for absolute beginners with no prior experience. Interested? Email Chris at chrispaul.ws@gmail.com
